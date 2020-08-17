@@ -58,3 +58,8 @@ Para cambiar a Wsl2 tenemos dos opciones.
 2. Configurar todas las distribuciones `wsl --set-default-version 2`
 
 
+Una vez instalado solo queda instalar [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+
+<IMG  src="https://hackernoon.com/photos/g6XLgq1iVUY99RSvUwyulTe0TAM2-qnhj3wjh"/>
+
+
