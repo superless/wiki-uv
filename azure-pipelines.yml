@@ -12,13 +12,14 @@ pool:
 steps:
 - script: |
     git config --global user.email "alejandro.iglesias@trifenix.io"
-    git config --global user.email "wiki"
+    git config --global user.email "alejandro.iglesias"
     mkdir ../github-docs
-    mv ./* ../github-docs/
+    mv ./* ../github-docs
     git clone https://wiki:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki
+
     cp -a ../github-docs ./
     git add . && git commit -m "actualizacion documentacion"
     git push origin wikiMaster
-  displayName: ''
+  displayName: 'clone from github to wiki'
 
 
