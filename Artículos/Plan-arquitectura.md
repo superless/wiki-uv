@@ -1,3 +1,10 @@
+---
+title: "Plan de arquitectura"
+metaTitle: "Arquitectura"
+metaDescription: ""
+---
+
+
 # Parte 1, Arquitectura Inmutable y distribuida
 1. Introducción al Open Source y su modelo de negocio (Innovación disruptiva).
 2. Inmutabilidad y la nueva computación distribuida

@@ -1,4 +1,12 @@
+---
+title: "WSL2"
+metaTitle: "WSL2"
+metaDescription: ""
+---
+
+
 Windows Subsystem for linux, permite usar linux desde dentro de windows, traduciendo las llamadas que hace linux al kernel, al propio kernel de windows.
+
 
 La versión 2 de WSL, mejora la velocidad debido a la virtualización del kernel de linux dentro del core de windows, obteniendo una velocidad más significativa.
 

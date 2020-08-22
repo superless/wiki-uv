@@ -1,3 +1,9 @@
+---
+title: "Plan de Desarrollo Web"
+metaTitle: "Desarrollo web"
+metaDescription: ""
+---
+
 # Introducción
 1. Estado del arte en 2020, desde Ajax a WebAssembly.
 2. Lenguajes y librerías, basadas en componentes (React, Vue, Blazor, Flutter).
