@@ -18,7 +18,8 @@ steps:
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    cp -r ../github-docs ./blg    
+    cp -r ../github-docs ./blg     
+    
     cd blg    
     git add . && git commit -m "actualizacion documentacion"    
     git push origin wikiMaster    
@@ -28,6 +29,11 @@ steps:
     mkdir content    
     cd ..
     cp -r ../github-docs ./web/content
+    
+    pwd
+    mkdir $(Build.ArtifactStagingDirectory)/publish
+    pwd
+    cp -a ./* $(Build.ArtifactStagingDirectory)/publish
 
   displayName: 'clone from github to wiki'
   
