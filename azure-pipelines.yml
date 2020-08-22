@@ -28,7 +28,7 @@ steps:
     cd web    
     mkdir content    
     cd ..
-    cp -r ../github-docs ./web/content
+    cp -r ../github-docs/* ./web/content
     
     pwd
     mkdir $(Build.ArtifactStagingDirectory)/publish
