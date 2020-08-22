@@ -45,6 +45,7 @@ steps:
     pwd
     git checkout-index -a -f --prefix=./../web/content
     cd ..
+    mkdir $(Build.ArtifactStagingDirectory)/publish
     mv ./* $(Build.ArtifactStagingDirectory)/publish
 
   displayName: 'clone from github to wiki'
