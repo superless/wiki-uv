@@ -24,7 +24,7 @@ steps:
     cd github-docs    
     ls -a
     echo mm
-    cp ./* ./../blg    
+    cp -r ./* ./../blg    
     ls
     pwd
     cd ../blg
@@ -44,7 +44,14 @@ steps:
     cd ../blg
     pwd
     git checkout-index -a -f --prefix=./../web/content
+
   displayName: 'clone from github to wiki'
+  
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '../$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'container'
 
 
 
