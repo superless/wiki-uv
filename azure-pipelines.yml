@@ -89,7 +89,7 @@ steps:
 #copiando archivos a salida
 - task: CopyFiles@2
   inputs:
-    SourceFolder: 'gatsbyDocsTemplate/public'
+    SourceFolder: '$(Build.SourcesDirectory)/web/public'
     Contents: '**'
     TargetFolder: $(Build.ArtifactStagingDirectory)
     CleanTargetFolder: true
