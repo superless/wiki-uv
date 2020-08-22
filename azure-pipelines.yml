@@ -10,6 +10,13 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+# instalando nodejs
+- task: NodeTool@0
+  inputs:
+    versionSpec: '11.x'
+  displayName: 'instalando node js'
+# fin nodejs
+
 - script: |
     
     mkdir ../github-docs
@@ -30,7 +37,8 @@ steps:
     cd ..
     cp -r ../github-docs/* ./web/content    
     pwd
-   
+    echo $(Build.SourcesDirectory)
+
 
   displayName: 'clone from github to wiki'
 
