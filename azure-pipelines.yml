@@ -33,10 +33,15 @@ steps:
     git push origin wikiMaster    
     cd ..
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web    
+    cd web
+    mkdir static
+    mkdir static/.attachments
     mkdir content    
+    
     cd ..
-    cp -r ../github-docs/* ./web/content    
+    cp -r ../github-docs/* ./web/content
+    cp -r ../github-docs/.attachments/* ./static/.attachments
+
     pwd
     echo $(Build.SourcesDirectory)
 
