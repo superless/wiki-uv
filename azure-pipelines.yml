@@ -46,7 +46,7 @@ steps:
 - task: replacetokens@3
   inputs:
     rootDirectory: '$(Build.SourcesDirectory)'
-    targetFiles: '**/*.config.js'
+    targetFiles: '**/config.js'
     encoding: 'auto'
     writeBOM: true
     actionOnMissing: 'warn'
