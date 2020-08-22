@@ -20,10 +20,14 @@ steps:
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
+    ls 
     cd github-docs    
+    ls -a
     git checkout-index -a -f --prefix=./../blg
+    ls
     pwd
     cd ../blg
+    ls -a
     pwd
     git add . && git commit -m "actualizacion documentacion"
     pwd
