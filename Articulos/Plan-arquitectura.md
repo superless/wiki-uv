@@ -15,9 +15,6 @@ metaDescription: "ad"
 ## Parte 2, Metodologías
 1. Patrones de diseño (Inyección de dependencias, GOF, DRY, CodeSmell, etc).
 2. TDD
-3. 
-
-
 
 ## Parte 3, Devops
 1. Metodologías ágiles, el Agile Manifesto.
