@@ -1,8 +1,10 @@
 ---
-title: "Articulos"
-metaTitle: "Listado de artículos"
-metaDescription: "add"
+title: "Bienvenida"
+metaTitle: "Curso de Arquitectura"
+metaDescription: "excelente"
 ---
 
-1. WSl2, Windows SubSystem for Linux.
-2. 
+Bienvenidos al curso de arquitectura de software y desarrollo web.
+
+
+Saludos!
