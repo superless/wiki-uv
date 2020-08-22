@@ -37,7 +37,7 @@ steps:
     mkdir static
     mkdir static/.attachments
     mkdir content    
-    
+    ls github-docs -a
     cd ..
     cp -r ../github-docs/* ./web/content
     cp -r ../github-docs/.attachments/* ./static/.attachments
