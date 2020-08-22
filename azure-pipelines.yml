@@ -23,7 +23,8 @@ steps:
     ls 
     cd github-docs    
     ls -a
-    git checkout-index -a -f --prefix=./../blg
+    echo mm
+    mv ./* ../blg    
     ls
     pwd
     cd ../blg
