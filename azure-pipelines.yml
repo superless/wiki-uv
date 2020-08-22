@@ -24,7 +24,7 @@ steps:
     cd github-docs    
     ls -a
     echo mm
-    mv ./* ../blg    
+    cp ./* ./../blg    
     ls
     pwd
     cd ../blg
