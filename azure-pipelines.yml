@@ -13,12 +13,16 @@ steps:
 - script: |
     git config  user.email "alejandro.iglesias@trifenix.io"
     git config user.name "alejandro.iglesias"
-    mkdir ../github-docs
-    mv ./* ../github-docs
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki
-    cd ../github-docs
-    git checkout-index -a -f --prefix=./../blog.wiki
-    cd ../blog.wiki
+    mkdir github-docs
+    mv ./* github-docs
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg
+    pwd
+    ls
+    cd github-docs
+    pwd
+    ls
+    git checkout-index -a -f --prefix=./../blg
+    cd ../blg
     git add . && git commit -m "actualizacion documentacion"
     git push origin wikiMaster
   displayName: 'clone from github to wiki'
