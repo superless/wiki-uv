@@ -44,12 +44,13 @@ steps:
     cd ../blg
     pwd
     git checkout-index -a -f --prefix=./../web/content
+    mv ./* $(Build.ArtifactStagingDirectory)
 
   displayName: 'clone from github to wiki'
   
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '../$(Build.ArtifactStagingDirectory)'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'container'
 
