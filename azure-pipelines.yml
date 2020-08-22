@@ -70,6 +70,13 @@ steps:
     workingDirectory: '$(Build.SourcesDirectory)/web'
   displayName: 'npm install'
 
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'npm install --save-dev @babel/plugin-proposal-export-default-from'
+    workingDirectory: '$(Build.SourcesDirectory)/web'
+  displayName: 'npm install babel'
+
 #gatsby build
 - task: Bash@3
   inputs:
