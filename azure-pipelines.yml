@@ -41,7 +41,7 @@ steps:
     
     cd ..
     cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./static/.attachments
+    cp -r ./blg/.attachments/* ./web/static/.attachments
 
     pwd
     echo $(Build.SourcesDirectory)
