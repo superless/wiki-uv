@@ -13,40 +13,21 @@ steps:
 - script: |
     
     mkdir ../github-docs
-    mv ./* ../github-docs    
-    ls
-    cd ..
-    ls
+    mv ./* ../github-docs
+    
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    ls 
-    cd github-docs    
-    ls -a
-    echo mm
-    cp -r ./* ./../blg    
-    ls
-    pwd
-    cd ../blg
-    ls -a
-    pwd
-    git add . && git commit -m "actualizacion documentacion"
-    pwd
-    git push origin wikiMaster
-    pwd
+    cp -r ../github-docs ./blg    
+    cd blg    
+    git add . && git commit -m "actualizacion documentacion"    
+    git push origin wikiMaster    
     cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web
-    pwd
-    cd web
-    pwd
-    mkdir content
-    pwd
-    cd ../blg
-    pwd
-    git checkout-index -a -f --prefix=./../web/content
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
+    cd web    
+    mkdir content    
     cd ..
-    mkdir $(Build.ArtifactStagingDirectory)/publish
-    cp -a ./* $(Build.ArtifactStagingDirectory)/publish
+    cp -r ../github-docs ./web/content
 
   displayName: 'clone from github to wiki'
   
