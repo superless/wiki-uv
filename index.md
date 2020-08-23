@@ -1,6 +1,6 @@
 ---
 title: "Bienvenida"
-metaTitle: "Curso de Arquitectura"
+metaTitle: "Blockchain Cloud "
 metaDescription: "excelente"
 ---
 
