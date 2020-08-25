@@ -1,7 +1,7 @@
 ---
 title: "Bienvenida"
 metaTitle: "Curso de Arquitectura"
-metaDescription: "excelente"
+metaDescription: "Universidad de valparaiso"
 ---
 
 Bienvenidos al curso de arquitectura de software y desarrollo web.
