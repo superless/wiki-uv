@@ -1,7 +1,7 @@
 ---
 title: "Plan de Desarrollo Web"
 metaTitle: "Desarrollo web"
-metaDescription: "ad"
+metaDescription: "React Flutter"
 ---
 
 ## Introducción
