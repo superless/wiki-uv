@@ -6,5 +6,7 @@ En cada clase se dividirá en 3 partes.
 
 En algunos casos, se presentarán profesionales expertos en esas áreas específicas, no son muchos, pero es una modalidad interesante de las que esperamos puedan sacar mayor provecho.
 
+El primer taller tanto de Arquitectura, como de desarrollo web, será de GIT, entender, comprender y manejarlo es clave en la continuación del curso. 
+
 
 
