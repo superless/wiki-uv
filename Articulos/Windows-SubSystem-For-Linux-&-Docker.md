@@ -1,7 +1,7 @@
 ---
 title: "WSL2"
 metaTitle: "WSL2"
-metaDescription: "adad"
+metaDescription: "WSL2 Linux"
 ---
 
 
