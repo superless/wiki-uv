@@ -29,15 +29,64 @@ El usuario tiene acceso a dos organizaciones dentro de Azure Devops.
 ### 1. devops de uv.trifenix.io
 En el azure devops del sitio documental podrán ver los scripts y tareas programadas destinadas a actualizar la wiki del mismo y la actualización del sitio https://uv.trifenix.io
 
+https://dev.azure.com/yo-fenix/blog
+
+
 ### 2. devops cliente
 Este vendría a ser el devops que cada alumno debe tener con el fin de actualizar y enviar sus trabajos y documentos hacia https://uv.trifenix.io a través de la automatización de la wiki.
+
+https://dev.azure.com/usuariogit1
 
 
 ### 3. github uv.trifenix.io
 Este github es público, la modificación de documentos en este github gatillará la creación del sitio web y la actualización de la wiki del proyecto.
 
+https://github.com/trifenix/wiki-uv
+
 ### 4. github cliente
-Cada alumno debe tener un fork del repositorio de documentación, en él podrán solicitar un [pull request]() al github principal.
+Cada alumno debe tener un fork del repositorio de documentación, en él podrán solicitar un [pull request](http://aprendegit.com/que-es-un-pull-request/) al github principal.
+
+https://github.com/3fnx-git1/wiki-uv
+
+# Información adicional
+- El proyecto considera la creación de su propio sitio web, utilizando www.netlify.com 
+
+- Si desea tener su propio dominio, puede hacer uso de los dominios gratuitos otorgados por [github student pack.](https://education.github.com/pack).
+
+
+
+- El trabajo puede ser hecho individual o en parejas.
+
+- El trabajo es colaborativo, son libres de compartir código, mientras se haga con git.
+
+- Cualquier contribución adicional del proyecto será considerado con puntos adicionales. 
+
+- Si esa contribución adicional deriva en Forks de otros alumnos, ambos tendrán puntos.
+ 
+- En arquitectura de software se evaluará principalmente devops, para desarrollo web git. 
+
+- Si un alumno tiene solo una de las asignaturas, se evaluará devops principalmente en el caso de Arquitectura de software y git en caso de Web.
+
+- Si un alumno que tiene una sola asignatura y logra completar todo el proyecto, tendrá un 7.0 y tendrá puntos adicionales para la próxima evaluación.
+
+- La evaluación será puesta en el pull request.
+
+ 
+
+
+
+# Como se evaluará el taller.
+1. Aplicación Web, con dominio y pull request al sitio web principal 7.0
+2. Pull Request al sitio web principal, usando un fork. 4.0.
+3. Si no hace un pull request 1.0
+
+Las notas intermedias dependerán de la historia de git que muestre cada alumno.
+
+
+
+
+
+
 
 
 
