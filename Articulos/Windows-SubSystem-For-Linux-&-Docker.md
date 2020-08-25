@@ -15,7 +15,7 @@ La versión 2 de WSL, mejora la velocidad debido a la virtualización del kernel
 Para poder instalar WSL2 se debe tener un Windows 10 a partir del build 2004
 
 ## Paso1, Instalación de WSL2.
-Lo primero es agregar los programas necesarios en windows desde la instalación de programas, para llegar directamente, usar el comando `appwiz.cpl` desde **ejecutar**.
+Lo primero es agregar los programas necesarios en windows desde la instalación de programas, para llegar directamente, usar el comando `appwiz.cpl` desde ejecutar.
 
 ![image.png](/.attachments/image-94ded8d2-0a9b-4b7a-8bf0-1ce127a59e0d.png)
 
@@ -70,5 +70,4 @@ Una vez instalado solo queda instalar [Docker](https://hub.docker.com/editions/c
 
 <IMG  src="https://hackernoon.com/photos/g6XLgq1iVUY99RSvUwyulTe0TAM2-qnhj3wjh"/>
 
-Area de links
 
