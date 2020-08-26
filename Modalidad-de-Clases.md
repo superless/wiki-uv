@@ -1,3 +1,9 @@
+---
+title: "Modalidad de clases"
+metaTitle: "Pasos de cada clase"
+metaDescription: "Información general de talleres"
+---
+
 En cada clase se dividirá en 3 partes.
 
 1. Clase teórica e introductoria (45 min).
