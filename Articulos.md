@@ -1,7 +1,7 @@
 ---
 title: "Articulos"
 metaTitle: "Listado de artículos"
-metaDescription: "add"
+metaDescription: "lista de artículos de arquitectura y desarrollo web"
 ---
 
 1. WSl2, Windows SubSystem for Linux.
