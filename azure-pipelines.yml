@@ -18,7 +18,7 @@ steps:
 # fin nodejs
 
 - script: |
-    
+    ls -a
     mkdir ../github-docs
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
