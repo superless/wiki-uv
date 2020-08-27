@@ -20,6 +20,7 @@ steps:
 - script: |
     ls -a
     mkdir ../github-docs
+    mkdir ../github-docs/.attachments
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
     
@@ -27,7 +28,7 @@ steps:
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
     cp -r ../.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
+    cp -r ../github-docs/* ./blg
     
     cd blg    
     git add . && git commit -m "actualizacion documentacion"    
