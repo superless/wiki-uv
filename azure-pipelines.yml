@@ -20,6 +20,7 @@ steps:
 - script: |
     ls -a
     mkdir ../github-docs
+    mkdir ../github-docs/.attachments
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
     ls -a ../github-docs/
