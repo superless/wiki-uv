@@ -77,6 +77,8 @@ https://github.com/3fnx-git1/wiki-uv
 
 - La evaluación será puesta en el pull request.
 
+- En el pull request, se podrá pedir que se explique algún commit realizado, con el fin de la comprensión del proceso y la evaluación.
+
  
 
 
@@ -90,9 +92,6 @@ Las notas intermedias dependerán de la historia de git que muestre cada alumno.
 
 
 
-
-
-test
 
 
 
