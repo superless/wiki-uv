@@ -20,6 +20,7 @@ steps:
 - script: |
     
     mkdir ../github-docs
+    mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
     
     git config --global user.email "alejandro.iglesias@trifenix.io"
