@@ -10,6 +10,8 @@ Este taller considera 2 clases y el objetivo es poder levantar su propio sitio w
 
 En el taller podrán distribuir archivos [markdown](https://es.wikipedia.org/wiki/Markdown) y automatizar la distribución tanto en wikis, como sitios web.
 
+El objetivo final es que cada alumno participe en la creación de su propio sitio, con el que podrá validar antes de subir documentación en el sitio [https://uv.trifenix.io](https://uv.trifenix.io).
+
 # Porque el mismo contenido en ambas clases.
 
 1. Para el caso de Arquitectura de software, GIT es dependiente para el curso de docker y Devops es parte principal del contenido de la asignatura.
