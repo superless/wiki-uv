@@ -1,12 +1,12 @@
 ---
 title: "Bienvenida"
-metaTitle: "Curso de Arquitectura"
+metaTitle: "Curso de Arquitectura y Desarrollo Web"
 metaDescription: "Universidad de valparaiso"
 ---
 
 Bienvenidos al curso de arquitectura de software y desarrollo web.
 
-Conforme los talleres se vayan realizando, los trabajos se vayan entregando, todo se publicará acá.
+El presente sitio permitirá la gestión del conocimiento generada en las clases de desarrollo web y arquitectura de software.
 
 Los documentos generados en este sitio corresponden al material creado por su profesor Alejandro Iglesias, y los alumnos de la asignatura de Arquitectura y Desarrollo web.
 
@@ -18,6 +18,9 @@ George Orwell
 Se invita a los amigos de trifenix y la universidad a realizar sus pull requests!! 
 
 https://github.com/trifenix/wiki-uv/
+
+
+
 
 
 
