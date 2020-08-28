@@ -15,6 +15,16 @@ Alejandro Iglesias es también Arquitecto Desarrollador de Trifenix, el sitio we
 "Men are only as good as  their technical development allow them to be"
 George Orwell
 
+Se invita a los amigos de trifenix y la universidad a realizar sus pull requests!! 
+
+https://github.com/trifenix/wiki-uv/
+
+
+
+
+
+
+
 
 
 
