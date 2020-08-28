@@ -1,6 +1,6 @@
 ---
 title: "Bienvenida"
-metaTitle: "Curso de Arquitectura"
+metaTitle: "Curso de Arquitectura y Desarrollo Web"
 metaDescription: "Universidad de valparaiso"
 ---
 
@@ -18,6 +18,8 @@ George Orwell
 Se invita a los amigos de trifenix y la universidad a realizar sus pull requests!! 
 
 https://github.com/trifenix/wiki-uv/
+
+
 
 
 
