@@ -13,11 +13,15 @@ Los documentos generados en este sitio corresponden al material creado por su pr
 [Alejandro Iglesias](https://www.linkedin.com/in/devfan/) es también Arquitecto Desarrollador de Trifenix, el sitio web presentado obedece al acuerdo de colaboración con la [universidad de valparaiso](https://transparencia.uv.cl/documentos/beneficios-y-subsidios/convenios-nacionales/2019/Rexe-02973-19.pdf).
 
 "Men are only as good as  their technical development allow them to be"
+
 George Orwell
 
 Se invita a los amigos de trifenix y la universidad a realizar sus pull requests!! 
 
 https://github.com/trifenix/wiki-uv/
+
+Sugerencias a :
+uv@trifenix.io
 
 
 
