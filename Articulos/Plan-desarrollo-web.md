@@ -15,7 +15,7 @@ metaDescription: "React Flutter"
 ## React Introducción
 1. Introducción a React.
 2. el caso vercel y la orientación a lo instantaneo y los buscadores.
-3. Breve introducción frameworks CSS (SCSS, SASS,l Styled Components).
+3. Breve introducción frameworks CSS (SCSS, SASS, Styled Components).
 4. Normativas de diseño existentes, Material UI, Semantic UI, etc.
 5- Formas de desarrollo en React, Clases vs Funciones.
 
@@ -31,10 +31,4 @@ metaDescription: "React Flutter"
 9. JEST
 
 ## Flutter
-1. Ejemplo práctico y comparaciones
-
-test
-
-
-
-.
+1. Ejemplo práctico y comparaciones (última clase)
