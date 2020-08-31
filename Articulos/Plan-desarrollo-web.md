@@ -31,4 +31,4 @@ metaDescription: "React Flutter"
 9. JEST
 
 ## Flutter
-1. Ejemplo práctico y comparaciones
+1. Ejemplo práctico y comparaciones (última clase)
