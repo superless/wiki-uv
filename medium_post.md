@@ -1,3 +1,10 @@
+---
+title: "Blockchain Stuff"
+metaTitle: "Jorge Arriagada"
+metaDescription: "Arquitectura de Software - Universidad de Valparaiso"
+---
+
+
 
 # Blockchain stuff — Anders Brownworth’s Blockchain Demo
 
