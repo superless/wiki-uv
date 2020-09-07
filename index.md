@@ -1,5 +1,5 @@
 ---
-title: "Bienvenida"
+title: "Bienvenidos al conocimiento"
 metaTitle: "Curso de Arquitectura y Desarrollo Web"
 metaDescription: "Universidad de valparaiso"
 ---
@@ -22,6 +22,8 @@ https://github.com/trifenix/wiki-uv/
 
 Sugerencias a :
 uv@trifenix.io
+
+
 
 
 
