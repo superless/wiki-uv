@@ -1,4 +1,3 @@
 # Profesor Alejandro Iglesias
 
-
-the automation rocks!!
+the automation
