@@ -21,7 +21,7 @@ ___
 + ### Plantas
 Una de mis plantas preferidas, principalmente por su beneficio medico (reduntante como planta medicinal) es la **Melisa**, cuya accion funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
 
->> <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250">
+>> <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250" />
 
 ___
 ## Herramientas para el desarrollo
