@@ -27,7 +27,7 @@ steps:
     
     git config --global user.email "jorge.rodriguez@alumnos.uv.cl"
     git config --global user.name "alejandro.iglesias"    
-    git clone https://tallerDesarrolloWeb:$(token)@dev.azure.com/tallerDesarrolloWeb/Taller/_git/internal-wiki2 blg    
+    git clone https://tallerDesarrolloWeb@dev.azure.com/tallerDesarrolloWeb/Taller/_git/internal-wiki2 blg    
     git checkout draft || git checkout -b draft
     cp -r ../github-docs/.attachments/* ./blg/.attachments     
     cp -r ../github-docs/* ./blg     
@@ -36,7 +36,7 @@ steps:
     git add . && git commit -m "actualizacion documentacion"    
     git push origin draft    
     cd ..
-    git clone https://tallerDesarrolloWeb:$(token)@dev.azure.com/tallerDesarrolloWeb/Taller/_git/internal-wiki2 web
+    git clone https://tallerDesarrolloWeb@dev.azure.com/tallerDesarrolloWeb/Taller/_git/internal-wiki2 web
         
     cd web
     git checkout draft || git checkout -b draft
