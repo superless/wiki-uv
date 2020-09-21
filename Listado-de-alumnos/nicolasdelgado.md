@@ -24,7 +24,7 @@ No soy un gran aficionado a videojuegos, aunque me gusta tener consolas.
 >>| *Peliculas* | Shawshank Redemption | [Trailer](https://www.youtube.com/watch?v=6hB3S9bIaco&ab_channel=ryy79) |
 >>| *Serie* | The X-Files | [Trailer](https://www.youtube.com/watch?v=b_D3ysY_QCA&ab_channel=TheKieranTriplett) |
 
-___
+__
 
 ## Personal
 Mis metas siempre me llevan a interntar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
