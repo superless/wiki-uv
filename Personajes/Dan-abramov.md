@@ -3,4 +3,4 @@
 <YouTube youTubeId="dpw9EHDh2bM" />
 
 
-Buen peinado sacó!!!
+Un crack este tipo!!!!!
