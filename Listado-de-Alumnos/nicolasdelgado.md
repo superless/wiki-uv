@@ -1,6 +1,9 @@
-# Alumno Nicolas Delgado
-
-# Nicolas Delgado.
+---
+title: "Nicolas Delgado"
+metaTitle: "Presentacion para uv.trifenix.io"
+metaDescription: "Hola amigos!"
+---
+## Nicolas Delgado.
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
