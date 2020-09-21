@@ -26,3 +26,5 @@ ___
 
 ## Personal
 Mis metas siempre me llevan a interntar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
+
+Gracias por leer!!!
