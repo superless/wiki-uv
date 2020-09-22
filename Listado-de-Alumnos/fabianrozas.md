@@ -11,3 +11,14 @@ Mi nombre es Fabián Rozas tengo 23 años, me gusta escuchar música, salir con 
 Eso, espero que estes muy bien
 
 SALUDOS! :D 
+
+
+## Comentario del profesor
+
+Hola Fabian, Vamos cumpa, puedes contarnos más, cual es el desafio en tecnología que mas te ha costado, cuales son tus motivaciones, recuerda que este markdown podrás actualizarlo cuando quieras, será la evidencia de este curso y el conocimiento que espero adquieras. 
+
+Animo Fabian!!
+
+Necesito github y azure devops!
+
+
