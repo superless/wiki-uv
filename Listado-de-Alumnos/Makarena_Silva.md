@@ -22,3 +22,15 @@ Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta l
 | Edad  | ???  |
 | Signo del Zodiaco | Leo |
 | ¿Pepsi o Coca Cola? | Pepsi. |
+
+
+## Comentario del profesor
+
+"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
+
+Me encantó Macarena, es el espiritú que todos llevamos dentro!
+
+No olvides publicar tu github y Azure Devops.
+
+No pierdas la motivación.
+
