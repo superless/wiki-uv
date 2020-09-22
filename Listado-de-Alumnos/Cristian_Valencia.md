@@ -14,6 +14,6 @@ Me gusta hacer todo tipo de deporte y aprender.
 
 ## Comentario Profesor
 
-Hola Cristian, me gustaría saber más de ti, cosas como cual es tu motivación por la tecnología, que esperas lograr con ella, tus fortalezas, aprendes leyendo o videos. Recuerda, las personas son en el tiempo,  el tiempo es pasado y las personas del pasado ya no existen, el tiempo es ahora, amigo mío.
+Hola Cristian, me gustaría saber más de ti, cosas como cual es tu motivación por la tecnología, que esperas lograr con ella, tus fortalezas, aprendes leyendo o videos. Recuerda, las personas son en el tiempo, las personas del pasado ya no existen, el tiempo es ahora, amigo mío.
 
 Necesito que incluya su devops y su repositorio de github. 
