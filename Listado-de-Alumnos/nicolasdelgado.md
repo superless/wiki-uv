@@ -35,3 +35,10 @@ __
 Mis metas siempre me llevan a interntar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 
 Gracias por leer!. Nos vemos
+
+# Comentario del profesor
+
+Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
+
+Estas en el camino adecuado para lograr tus sueños.
+
