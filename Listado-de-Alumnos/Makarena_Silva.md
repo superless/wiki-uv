@@ -1,3 +1,9 @@
+---
+title: "Makarena Silva"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
