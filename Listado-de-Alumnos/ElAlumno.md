@@ -16,3 +16,7 @@ Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en E
 Bien Felipe, me alegro tu interés, como haz podido ver las cosas empiezan lentas, pero la constancia es el mejor mentor y cuando no te des cuenta, estarás en la matrix logrando cosas que quizas jamas pensaste lograr.
 
 Animo y perseverancia!!
+
+Necesito tu devops y tu github ;)
+
+
