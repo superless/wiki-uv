@@ -1,3 +1,10 @@
+---
+title: "Calificaciones"
+metaTitle: "Modalidad de calificaciones"
+metaDescription: "Git Rocks!"
+---
+
+
 # Procedimiento de evaluaciones
 
 Estimados alumnos
