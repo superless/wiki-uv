@@ -1,3 +1,9 @@
+---
+title: "Ana Muñoz"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
 # Presentación al Curso
 
 ## Sobre mí ##
@@ -25,4 +31,12 @@ Mi mamá es enfermera y es culpa de ella lo mucho que me gusta tejer. Ha sido mi
 En otra presentación que hice, mencionaba que tengo 3 gatos y 2 perros, y como vivo en el campo, viven afuera.
 
 Y eso ^.^
+
+
+## Comentario del profesor
+Hola Ana, muchas gracias por su presentación, que bueno que tengas un informático interno que clama por conocimiento, me encantó tu imagen y la creatividad usada para identificarte.
+
+Necesito que incluya su devops y su repositorio de github. 
+
+
 
