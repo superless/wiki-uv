@@ -1,5 +1,3 @@
-
-
 ---
 title: "Nicolas Delgado"
 metaTitle: "Presentacion"

@@ -1,3 +1,9 @@
+---
+title: "Felipe Rojas"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
 # Alumno Felipe Rojas
 
 Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años y soy estudiante de la Escuela de Ingenieria Civil Informatica de la UV.
