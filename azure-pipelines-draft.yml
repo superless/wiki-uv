@@ -35,8 +35,8 @@ steps:
     mkdir content
     pwd    
     cd ..
-    cp -r ./github-docs/* ./web/content
-    cp -r ./github-docs/.attachments/* ./web/static/.attachments
+    cp -r ../github-docs/* ./web/content
+    cp -r ../github-docs/.attachments/* ./web/static/.attachments
 
     pwd
     echo $(Build.SourcesDirectory)
