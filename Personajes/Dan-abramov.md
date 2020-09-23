@@ -3,6 +3,10 @@
 <YouTube youTubeId="dpw9EHDh2bM" />
 
 
+<<<<<<< HEAD
 Un kapo!
 
 
+=======
+Un crack este loco!!!
+>>>>>>> e9055148cace9aaff88bf0be103939f0dfdeb1be
