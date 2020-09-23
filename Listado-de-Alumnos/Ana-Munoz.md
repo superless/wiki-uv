@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Ana Muñoz"
+=======
+title: "Ana Munoz"
+>>>>>>> Draft (#48)
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
