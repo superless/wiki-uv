@@ -7,7 +7,7 @@ metaDescription: "Hola a todos."
 
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
-# Nicolas Delgado.
+# Nicolas Delgado Oyarce
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
