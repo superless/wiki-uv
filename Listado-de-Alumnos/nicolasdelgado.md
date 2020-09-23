@@ -1,3 +1,5 @@
+
+
 ---
 title: "Nicolas Delgado Oyarce"
 metaTitle: "Presentacion"
@@ -7,7 +9,7 @@ metaDescription: "Hola a todos."
 
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
-# Nicolas Delgado Oyarce.
+# Nicolas Delgado.
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
@@ -42,10 +44,3 @@ Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
 siganme en instagram: @nico.d_o 
 Gracias por leer!. Nos vemos
-
-# Comentario del profesor
-
-Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
-
-Estas en el camino adecuado para lograr tus sueños.
-

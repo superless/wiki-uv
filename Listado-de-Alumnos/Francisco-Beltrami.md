@@ -1,10 +1,3 @@
----
-title: "Francisco Beltrami"
-metaTitle: "Presentacion"
-metaDescription: "Arquitectura de software y desarrollo web."
----
-
-
 # Presentacion a curso 
 
 ## Francisco Beltrami Martinez
@@ -35,15 +28,3 @@ ___
 [Edición de MD](https://joedicastro.com/pages/markdown.html#mark1)
 
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
-
-
-# Comentario Profesor
-
-Bien Francisco, Super bien, vendra [Nanny.Mcphee](https://github.com/nanny-mcphee) y te recompansará por tu dedicación y querer ir más allá de lo establecido. 
-
-Felicitaciones, espero que sepas sacar provecho del conocimiento!
-
-
-No olvides publicar tu github y tu azure devops.
-
-
