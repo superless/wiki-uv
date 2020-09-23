@@ -3,4 +3,10 @@
 <YouTube youTubeId="dpw9EHDh2bM" />
 
 
-Un crack este loco!!!
+<<<<<<< HEAD
+ok
+
+
+=======
+Un crack este loco!!
+>>>>>>> 574f6f2945ec2a58258e39a68aaf2d25695cfdce
