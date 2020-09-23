@@ -1,5 +1,5 @@
 ---
-title: "Ana Muñoz"
+title: "Ana Munoz"
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
