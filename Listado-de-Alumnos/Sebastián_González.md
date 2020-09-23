@@ -4,4 +4,4 @@ metaTitle: "Presentación"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
-# Alumnno Sebastián González
+# Alumnno Sebastián González.
