@@ -1,3 +1,37 @@
+---
+title: "Nicolas Delgado Oyarce"
+metaTitle: "Presentacion"
+metaDescription: "Desarrollo Web - Arquitectura de Software"
+---
+# Alumno Nicolas Delgado Oyarce
+
+>> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
+
+
+
+# Nicolas Delgado Oyarce
+---
+title: "Nicolas Delgado"
+metaTitle: "Presentacion"
+metaDescription: "Hola"
+---
+# Alumno Nicolas Delgado
+
+# Nicolas Delgado.
+
+Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
+___
+
+## Intereses
+### Deportes
+Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos para mi, los que más solia practicar eran el futbol y el tenis.
+
+### Música
+Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante.
+
+### Videojuegos
+No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. Suelo jugar fifa y en mi minisnes mario 3. 
+
 ### Series y películas
 Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he estado un poco alejado de ese mundo pero siempre que puedo con mi novia solemos ver alguna que otra.
 
@@ -32,3 +66,4 @@ ___
 Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
 
 Estas en el camino adecuado para lograr tus sueños.
+
