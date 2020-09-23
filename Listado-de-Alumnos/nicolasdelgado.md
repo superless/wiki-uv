@@ -1,5 +1,3 @@
-
-
 ---
 title: "Nicolas Delgado Oyarce"
 metaTitle: "Presentacion"
@@ -44,3 +42,10 @@ Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
 siganme en instagram: @nico.d_o 
 Gracias por leer!. Nos vemos
+
+# Comentario del profesor
+
+Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
+
+Estas en el camino adecuado para lograr tus sueños.
+
