@@ -1,10 +1,3 @@
----
-title: "Francisco Beltrami"
-metaTitle: "Presentacion"
-metaDescription: "Arquitectura de software y desarrollo web."
----
-
-
 # Presentacion a curso 
 
 ## Francisco Beltrami Martinez
