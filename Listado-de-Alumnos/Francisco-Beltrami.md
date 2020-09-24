@@ -36,6 +36,10 @@ ___
 
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
+[Github](https://github.com/franig24)
+
+[Azure DevOps](https://dev.azure.com/dwuv2020)
+
 
 # Comentario Profesor
 
