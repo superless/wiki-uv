@@ -23,7 +23,7 @@ En la medida que vayan entregando, primero deberá ser autorizado por mi ([https
 
 Después irá el usuario nanny-mcphee calificando con un commit sobre la rama draft de [nuestra wiki](https://github.com/trifenix/wiki-uv)
 
-Nanny Mcphee pondrá un commit de la siguiente manera:
+[Nanny Mcphee](https://github.com/nanny-mcphee) pondrá un commit de la siguiente manera:
 
 ![Calificacion](/.attachments/calificacion.png)
 
