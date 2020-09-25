@@ -1,9 +1,3 @@
----
-title: "Makarena Silva"
-metaTitle: "Presentacion"
-metaDescription: "Arquitectura de software y desarrollo web."
----
-
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
@@ -23,6 +17,15 @@ Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta l
 | Signo del Zodiaco | Leo |
 | ¿Pepsi o Coca Cola? | Pepsi. |
 
+## Contacto
+Puedes encontrarme en
+- [Github](https://github.com/MakarenaSilvaB)
+- [Azure] Bajo el nombre de usuario @<Makarena Silva Baradit>, o bien, correo makarena.silva@alunos.uv.cl 
+- [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/)
+- [Azure - Arquitectura de Software](https://dev.azure.com/DesarrolloWB/)
+
+ <sub>[ Versión 2.0 Updated: 24/09/2020]</sub>
+
 
 ## Comentario del profesor
 
@@ -34,3 +37,6 @@ No olvides publicar tu github y Azure Devops.
 
 No pierdas la motivación.
 
+ <sub>_____________________</sub>
+_¡Agradezco sus palabras! Aprovecho de comentarle que ya he actualizado la información que ha solicitado._
+ <sub> ~ por Makarena. 24-09-2020</sub>
