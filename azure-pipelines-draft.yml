@@ -26,7 +26,7 @@ steps:
     ls -a ../github-docs/
     
     git config --global user.email "jorge.rodriguez@alumnos.uv.cl"
-    git config --global user.name "alejandro.iglesias"    
+    git config --global user.name "jorge.rodriguez"    
     git clone https://tallerDesarrolloWeb@dev.azure.com/tallerDesarrolloWeb/Taller/_git/internal-wiki2 blg    
     git checkout draft || git checkout -b draft
     cp -r ../github-docs/.attachments/* ./blg/.attachments     
