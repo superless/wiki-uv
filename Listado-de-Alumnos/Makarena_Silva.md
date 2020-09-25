@@ -16,6 +16,7 @@ Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta l
 | Edad  | ???  |
 | Signo del Zodiaco | Leo |
 | ¿Pepsi o Coca Cola? | Pepsi. |
+<<<<<<< HEAD
 
 ## Contacto
 Puedes encontrarme en
@@ -40,3 +41,5 @@ No pierdas la motivación.
  <sub>_____________________</sub>
 _¡Agradezco sus palabras! Aprovecho de comentarle que ya he actualizado la información que ha solicitado._
  <sub> ~ por Makarena. 24-09-2020</sub>
+=======
+>>>>>>> a284cd3d108d092355f35966d282fc892f97d8ec
