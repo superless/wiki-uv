@@ -67,4 +67,4 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
-Gracias profesor por el comentario.S
+Gracias profesor por el comentario. Saludos
