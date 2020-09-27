@@ -47,8 +47,6 @@ ___
 Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
-siganme en instagram: @nico.d_o
-
 Gracias por leer
 ___
 
