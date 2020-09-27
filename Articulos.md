@@ -1,5 +1,5 @@
 ---
-title: "Articulos"
+title: "Artículos"
 metaTitle: "Listado de artículos"
 metaDescription: "lista de artículos de arquitectura y desarrollo web"
 ---

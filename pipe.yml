@@ -10,6 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+<<<<<<< HEAD
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -116,3 +117,38 @@ steps:
 
 
 
+=======
+
+
+
+
+- script: |
+    ls
+    mkdir ../github
+    cd ../github
+    git config --global user.email "$(user)"
+    git config --global user.name "$(email)"
+    git clone https://$(user):$(token)@github.com/$(user)/wiki-uv.git
+
+  displayName: "Paso1" 
+
+- script: |
+    cd ../github/wiki-uv
+    ls -a
+    git remote add upstream  https://github.com/trifenix/wiki-uv.git
+    git fetch upstream
+    
+    git checkout --track origin/draft
+    git merge upstream/draft 
+  displayName: "Paso2"
+- script: |
+    ls
+    cp -r ./* ../github/wiki-uv
+    cp -r ./.attachments/* ../github/wiki-uv/.attachments
+    cd ../github/wiki-uv
+    ls 
+
+    git add . && git commit -m "actualizacion documentacion"    
+    git push origin draft
+  displayName: "Paso3"
+>>>>>>> b1c1bb6eaa3a241764a64715047e23aff4c4c71f
