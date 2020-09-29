@@ -4,6 +4,14 @@ metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
+<<<<<<< HEAD
+## Cristian Valencia 
+
+
+Alumno de la Universidad de Valparaiso, cursando entre 4-5 año.  
+
+Me gusta hacer todo tipo de deporte y aprender.
+=======
 # Cristian Valencia 
 
 ## Presentacion
@@ -36,6 +44,7 @@ ___
 
 En lo personal lo que espero de ambos ramos, es poder sacar el máximo provecho y aprender todo lo que se pueda y poder darle un futuro uso a todo lo aprendido.
 ___
+>>>>>>> 14a85f36e387ec40d8e1be76ec19444bda328dc4
 
 
 ## Comentario Profesor
