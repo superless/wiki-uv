@@ -42,5 +42,5 @@ Como no todos somos expertos en una materia, dejo mi pequeño aporte con un link
 - Discord: Ianxhero#4764
 
 
-![Link Corriendo.gif](https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif =100x)
+<center><img src=https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif></img></center>
 <center>`Esperen un poquito, que aún no tengo las botas para correr`</center>
