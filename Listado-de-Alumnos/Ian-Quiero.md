@@ -40,7 +40,3 @@ Como no todos somos expertos en una materia, dejo mi pequeño aporte con un link
 - Azure: Ian Quiero
 - Correo: ian.quiero@alumnos.uv.cl
 - Discord: Ianxhero#4764
-
-
-<center><img src=https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif></img></center>
-<center>`Esperen un poquito, que aún no tengo las botas para correr`</center>
