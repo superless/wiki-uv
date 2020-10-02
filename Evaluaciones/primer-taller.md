@@ -1,5 +1,5 @@
 ---
-title: "Alejandro Rudolphy"
+title: "Notas primer taller"
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
@@ -41,6 +41,11 @@ Compromiso: 10
 Participación: 0
 Creatividad: 3
 
+
+## Rodrigo Montenegro
+Compromiso: 10
+Participación: 0
+Creatividad: 8
 
 
 
