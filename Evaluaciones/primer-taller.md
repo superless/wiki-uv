@@ -5,7 +5,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
 ## Alejandro Rudolphy
-Compromiso:
-Participación:
-Creatividad:
+Compromiso: 10
+Participación: 0
+Creatividad: 8
 
