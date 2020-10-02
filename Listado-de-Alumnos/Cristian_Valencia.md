@@ -39,9 +39,9 @@ ___
 
 ## Datos
 
-[Azure](https://dev.azure.com/DesArq2020/_git/TallerN01)
+Mi [Azure](https://dev.azure.com/DesArq2020/_git/TallerN01)
 
-[Github](https://github.com/CristianValenciaA)
+Mi [Github](https://github.com/CristianValenciaA)
 
 ## Comentario Profesor
 
