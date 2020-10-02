@@ -25,6 +25,12 @@ Participación: 0
 Creatividad: 8
 
 
+## Felipe Rojas
+Compromiso: 10
+Participación: 0
+Creatividad: 8
+
+
 
 
 
