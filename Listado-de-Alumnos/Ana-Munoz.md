@@ -44,17 +44,10 @@ Y eso ^.^
 ## Comentario del profesor
 Hola Ana, muchas gracias por su presentación, que bueno que tengas un informático interno que clama por conocimiento, me encantó tu imagen y la creatividad usada para identificarte.
 
-<<<<<<< HEAD
 Necesito que incluya su devops y su repositorio de github. 
-
-
-
-=======
-Necesito que incluya su devops y su repositorio de github.
 
 
 ## Respuesta de la alumna(?
 
-DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
-repo en git: https://github.com/ana-munoz/wiki-uv
->>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
+### DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
+### repo en git: https://github.com/ana-munoz/wiki-uv

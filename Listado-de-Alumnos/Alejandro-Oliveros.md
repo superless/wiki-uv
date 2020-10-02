@@ -16,3 +16,7 @@ Este soy yo, no hago deporte, no dibujo, no toco ningun instrumento ni tampoco s
 
 Github: https://github.com/AlejandroOliverosVera
 Azure: https://dev.azure.com/AlejandroOliveros
+
+## Comentario
+#### Chinito y todo, te kero caleta <3
+#### Atte: Anita.
