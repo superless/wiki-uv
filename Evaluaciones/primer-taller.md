@@ -36,6 +36,11 @@ Compromiso: 10
 Participación: 0
 Creatividad: 8
 
+## Jaime Hernandez
+Compromiso: 10
+Participación: 0
+Creatividad: 3
+
 
 
 
