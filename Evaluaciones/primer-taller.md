@@ -19,7 +19,12 @@ Compromiso: 10
 Participación: 0
 Creatividad: 8
 
-## 
+## Cristian Valencia
+Compromiso: 10
+Participación: 0
+Creatividad: 8
+
+
 
 
 
