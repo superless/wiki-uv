@@ -24,10 +24,14 @@ En la medida que vayan entregando, primero deberá ser autorizado por mi ([https
 Después irá el usuario nanny-mcphee calificando con un commit sobre la rama draft de [nuestra wiki](https://github.com/trifenix/wiki-uv)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nanny Mcphee pondrá un commit de la siguiente manera:
 =======
 [Nanny Mcphee](https://github.com/nanny-mcphee) pondrá un commit de la siguiente manera:
 >>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+[Nanny Mcphee](https://github.com/nanny-mcphee) pondrá un commit de la siguiente manera:
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 
 ![Calificacion](/.attachments/calificacion.png)
 
@@ -49,10 +53,14 @@ El resultado final para arq1 sería
 El resultado final de una evaluación estará determinado por una fecha de entrega y se sumarán los puntos para determinar la nota final.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 La próxima fecha de evaluación será el Viernes 2 de Octubre, calificando las actividades relacionadas con GIT y Pipelines
 =======
 La próxima fecha de evaluación será el Lunes 5 de Octubre, calificando las actividades relacionadas con GIT y Pipelines
 >>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+La próxima fecha de evaluación será el Lunes 5 de Octubre, calificando las actividades relacionadas con GIT y Pipelines
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 
 El uso de Azure devops será calificado en Arquitectura de software.
 

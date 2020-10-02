@@ -10,4 +10,7 @@ metaDescription: "Documentales, Códigos, Mensajes y otros contenidos interesant
 
 <YouTube youTubeId="QYyVjhAU9V4" />
 
+<<<<<<< HEAD
 <YouTube youTubeId="nKIu9yen5nc" />
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
