@@ -31,6 +31,13 @@ Participación: 0
 Creatividad: 8
 
 
+## Francisco Beltrami
+Compromiso: 10
+Participación: 0
+Creatividad: 8
+
+
+
 
 
 
