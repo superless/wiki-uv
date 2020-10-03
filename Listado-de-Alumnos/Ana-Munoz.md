@@ -1,5 +1,13 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
+title: "Ana Munoz"
+=======
 title: "Ana Muñoz"
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+title: "Ana Muñoz"
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
@@ -39,4 +47,7 @@ Hola Ana, muchas gracias por su presentación, que bueno que tengas un informát
 Necesito que incluya su devops y su repositorio de github. 
 
 
+## Respuesta de la alumna(?
 
+### DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
+### repo en git: https://github.com/ana-munoz/wiki-uv

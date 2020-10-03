@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Alejandro Rudolphy"
 metaTitle: "Presentacion"
@@ -5,6 +6,8 @@ metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
 
+=======
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
 # Alejandro Rudolphy
 ## Universidad de Valparaiso
 

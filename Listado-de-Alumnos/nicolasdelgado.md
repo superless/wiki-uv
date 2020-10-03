@@ -1,4 +1,16 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
+title: "Nicolas Delgado"
+metaTitle: "Presentacion"
+metaDescription: "Hola"
+---
+# Alumno Nicolas Delgado
+
+# Nicolas Delgado.
+=======
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 title: "Nicolas Delgado Oyarce"
 metaTitle: "Presentacion"
 metaDescription: "Desarrollo Web - Arquitectura de Software"
@@ -8,6 +20,24 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+
+# Nicolas Delgado Oyarce
+---
+title: "Nicolas Delgado"
+metaTitle: "Presentacion"
+metaDescription: "Hola"
+---
+# Alumno Nicolas Delgado
+
+# Nicolas Delgado.
+
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
@@ -16,6 +46,12 @@ ___
 Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos para mi, los que más solia practicar eran el futbol y el tenis.
 
 ### Música
+<<<<<<< HEAD
+<<<<<<< HEAD
+Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos.
+=======
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante.
 
 ### Videojuegos
@@ -23,13 +59,29 @@ No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. Suelo j
 
 ### Series y películas
 Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he estado un poco alejado de ese mundo pero siempre que puedo con mi novia solemos ver alguna que otra.
+<<<<<<< HEAD
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 
 ### Videojuegos
 No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. 
 
+<<<<<<< HEAD
 ### Libros
 Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado.
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+### Libros
+Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado.
+
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
 
 + ### Favoritos 
 >>| Intereses | Favorito | Preview |
@@ -39,7 +91,24 @@ Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida d
 >>| *Tenis* | Fernando Gonzalez | [Mano de piedra](https://www.youtube.com/watch?v=bTiqTyXnJsA&ab_channel=ItsabTennis) |
 >>| *Peliculas* | Shawshank Redemption | [Trailer](https://www.youtube.com/watch?v=6hB3S9bIaco&ab_channel=ryy79) |
 >>| *Serie* | The X-Files | [Trailer](https://www.youtube.com/watch?v=b_D3ysY_QCA&ab_channel=TheKieranTriplett) |
+<<<<<<< HEAD
 >>| *Libro* | 1984 | [Descarga](https://www.philosophia.cl/biblioteca/orwell/1984.pdf) |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+__
+
+## Personal
+Mis metas siempre me llevan a interntar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
+
+Gracias por leer!. Nos vemos
+=======
+>>| *Libro* | 1984 | [Descarga](https://www.philosophia.cl/biblioteca/orwell/1984.pdf) |
+=======
+
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
 
 ___
 
@@ -47,9 +116,21 @@ ___
 Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 Gracias por leer
 ___
 
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+siganme en instagram: @nico.d_o
+
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
+Gracias por leer
+___
+
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
 
 # Comentario del profesor
 
@@ -57,4 +138,14 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
+<<<<<<< HEAD
 *Gracias profesor por el comentario. Saludos
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+*Gracias profesor por el comentario. Saludos
+>>>>>>> 0384927f47b8c8bf2296e9b86469a72620acf37f
+=======
+>>>>>>> f1538349fc4a3c4f903cd91ea5e74d6e27bb1137
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9

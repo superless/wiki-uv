@@ -15,4 +15,12 @@ En cuanto a musica soy super diverso pero no suelo disfrutar la musica latina nu
 Este soy yo, no hago deporte, no dibujo, no toco ningun instrumento ni tampoco soy bueno para bailar, solo un sujeto promedio un poco asocial que disfruta del internet.
 
 Github: https://github.com/AlejandroOliverosVera
+<<<<<<< HEAD
 Azure: https://dev.azure.com/AlejandroOliveros
+=======
+Azure: https://dev.azure.com/AlejandroOliveros
+
+## Comentario
+#### Chinito y todo, te kero caleta <3
+#### Atte: Anita.
+>>>>>>> 705c120c98e5851fb15941511025ab38b51199f9
