@@ -3,6 +3,7 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
+
 trigger:
 - draft
 pool:
@@ -21,12 +22,10 @@ steps:
 
 - script: |
     echo "Vinculando archivos markdown"
-    ls -a
     mkdir ../github-docs
     mkdir ../github-docs/.attachments
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
-    ls -a ../github-docs/
     
     echo "configurando git"
     git config --global user.email "alejandro.iglesias@trifenix.io"
