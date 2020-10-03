@@ -8,17 +8,6 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
 
-
-# Nicolas Delgado Oyarce
----
-title: "Nicolas Delgado"
-metaTitle: "Presentacion"
-metaDescription: "Hola"
----
-# Alumno Nicolas Delgado
-
-# Nicolas Delgado.
-
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
@@ -38,6 +27,9 @@ Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he esta
 ### Videojuegos
 No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. 
 
+### Libros
+Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado.
+
 
 + ### Favoritos 
 >>| Intereses | Favorito | Preview |
@@ -47,15 +39,13 @@ No soy un gran aficionado a videojuegos, aunque me gusta tener consolas.
 >>| *Tenis* | Fernando Gonzalez | [Mano de piedra](https://www.youtube.com/watch?v=bTiqTyXnJsA&ab_channel=ItsabTennis) |
 >>| *Peliculas* | Shawshank Redemption | [Trailer](https://www.youtube.com/watch?v=6hB3S9bIaco&ab_channel=ryy79) |
 >>| *Serie* | The X-Files | [Trailer](https://www.youtube.com/watch?v=b_D3ysY_QCA&ab_channel=TheKieranTriplett) |
-
+>>| *Libro* | 1984 | [Descarga](https://www.philosophia.cl/biblioteca/orwell/1984.pdf) |
 
 ___
 
 ## Personal
 Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
-
-siganme en instagram: @nico.d_o
 
 Gracias por leer
 ___
@@ -67,3 +57,4 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
+*Gracias profesor por el comentario. Saludos
