@@ -5,16 +5,14 @@
 
 trigger:
 - draft
-
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
 
 - script: |
-  | echo "Instalando JS"
+   echo "Instalando JS"
 # instalando nodejs
-Settings
 - task: NodeTool@0
   inputs:
     versionSpec: '11.x'
