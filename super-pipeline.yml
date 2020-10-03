@@ -4,13 +4,17 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- script: |
+  | echo "Instalando JS"
 # instalando nodejs
+Settings
 - task: NodeTool@0
   inputs:
     versionSpec: '11.x'
@@ -18,6 +22,7 @@ steps:
 # fin nodejs
 
 - script: |
+    echo "Vinculando archivos markdown"
     ls -a
     mkdir ../github-docs
     mkdir ../github-docs/.attachments
@@ -25,6 +30,7 @@ steps:
     mv ./* ../github-docs
     ls -a ../github-docs/
     
+    echo "configurando git"
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
