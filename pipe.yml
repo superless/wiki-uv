@@ -4,12 +4,13 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+<<<<<<< HEAD
 <<<<<<< HEAD
 # instalando nodejs
 - task: NodeTool@0
@@ -80,9 +81,13 @@ steps:
     script: 'npm install'
     workingDirectory: '$(Build.SourcesDirectory)/web'
   displayName: 'npm install'
+=======
+# pasos
+>>>>>>> ab7bbdbc4c4d2357be33013c3f9b0ac241f42539
 
-- task: Bash@3
+- task: CmdLine@2
   inputs:
+<<<<<<< HEAD
     targetType: 'inline'
     script: 'npm install --save-dev @babel/plugin-proposal-export-default-from'
     workingDirectory: '$(Build.SourcesDirectory)/web'
@@ -152,3 +157,8 @@ steps:
     git push origin draft
   displayName: "Paso3"
 >>>>>>> 859e5b56b8ff524f6a6081ae6f588bea7ca4f3e1
+=======
+    script: 
+      echo Hello world
+      ls
+>>>>>>> ab7bbdbc4c4d2357be33013c3f9b0ac241f42539
