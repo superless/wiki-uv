@@ -16,7 +16,7 @@ Tengo dos perros, ambas hembras. Una de ellas es un poodle mini de mi mamá, que
 
 Viví como desde que tenía 1 año a 7 años en Mendoza, Argentina. Pero ya no queda nada de acento, pero si varios recuerdos.
 ***
-###Facts
+##Facts
 | Campo ||
 | ---- |----|
 | Nombre | Makarena Dominic Silva Baradit  |
