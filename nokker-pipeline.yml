@@ -22,38 +22,34 @@ steps:
 
 - script: |
     echo "vinculando archivos md"
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
+    
+
     echo "configurando git"
     
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     
     
-   
+  
+    echo "clonando pagina web"
     
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog.web    
+    echo "creando carpetas"
     mkdir static
     mkdir static/.attachments
     mkdir content
-    pwd
+    echo "copiando contenido"
     
-    cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
-
-    pwd
-    echo $(Build.SourcesDirectory)
+    
+    cp -r ./.attachments/* ./web/static/.attachments
+    cp -r ./* ./web/content
 
 
-  displayName: 'clone from github to wiki'
+    
+    
+
+
+  displayName: 'Paso 1, asociando contenido'
 
 
 - task: replacetokens@3
@@ -114,9 +110,4 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
-
-
-
-
 
