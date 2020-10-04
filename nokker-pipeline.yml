@@ -34,15 +34,18 @@ steps:
     echo "clonando pagina web"
     
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog.web    
+    mkdir ../web
+    mv web/* ./../web
+    rm web
     echo "creando carpetas"
-    mkdir ./web/static
-    mkdir ./web/static/.attachments
-    mkdir ./web/content
+    mkdir ./../web/static
+    mkdir ./../web/static/.attachments
+    mkdir ./../web/content
     echo "copiando contenido"
     
     
-    cp -r ./.attachments/* ./web/static/.attachments
-    cp -r ./* ./web/content
+    cp -r ./.attachments/* ./../web/static/.attachments
+    cp -r ./* ./../web/content
 
 
     
