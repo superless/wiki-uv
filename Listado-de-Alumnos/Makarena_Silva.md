@@ -16,7 +16,7 @@ En 2012 ingresé a estudiar Ingeniería en Ejecución informática en la Univers
 Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia también me ha hecho redescubrir mi amor por la jardinería.
 Tengo dos perros, ambas hembras. Una de ellas es un poodle mini de mi mamá, que tiene complejo de gato y es la que más me acompaña en esas noches de programación y preparación. Mi party de Pandemia son mi hermana, mamá y las dos peludas que ya mencioné.
 
-Viví como desde que tenía 1 año a 7 años en Mendoza, Argentina. Pero ya no queda nada de acento, pero si varios recuerdos.
+Viví desde que tuve 1 a 7 años en Mendoza, Argentina. Pero ya no queda nada de acento, pero si varios recuerdos.
 
 ***
 ## Facts
