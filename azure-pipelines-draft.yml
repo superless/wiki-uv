@@ -4,19 +4,14 @@
 # https://aka.ms/yaml
 
 trigger:
-- draft
+- wikiMaster
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-# instalando nodejs
-- task: NodeTool@0
-  inputs:
-    versionSpec: '11.x'
-  displayName: 'instalando node js'
-# fin nodejs
 
+<<<<<<< HEAD
 - script: |
     ls -a
     mkdir ../github-docs
@@ -103,7 +98,35 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
+=======
+>>>>>>> efae4486725fbc94fa86dd333132e6a310fb3a60
 
 
 
+- script: |
+    ls
+    mkdir ../github
+    cd ../github
+    git config --global user.email "$(user)"
+    git config --global user.name "$(email)"
+    git clone https://$(user):$(token)@github.com/$(user)/wiki-uv.git
+  displayName: "Paso1" 
 
+- script: |
+    cd ../github/wiki-uv
+    ls -a
+    git remote add upstream  https://github.com/trifenix/wiki-uv.git
+    git fetch upstream
+    
+    git checkout --track origin/draft
+    git merge upstream/draft 
+  displayName: "Paso2"
+- script: |
+    ls
+    cp -r ./* ../github/wiki-uv
+    cp -r ./.attachments/* ../github/wiki-uv/.attachments
+    cd ../github/wiki-uv
+    ls 
+    git add . && git commit -m "actualizacion documentacion"    
+    git push origin draft
+  displayName: "Paso3"
