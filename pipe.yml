@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Starter pipeline
+=======
+ Starter pipeline
+>>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
@@ -21,7 +25,10 @@ steps:
     git config --global user.email "$(user)"
     git config --global user.name "$(email)"
     git clone https://$(user):$(token)@github.com/$(user)/wiki-uv.git
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
   displayName: "Paso1" 
 
 - script: |
@@ -39,7 +46,13 @@ steps:
     cp -r ./.attachments/* ../github/wiki-uv/.attachments
     cd ../github/wiki-uv
     ls 
+<<<<<<< HEAD
 
     git add . && git commit -m "actualizacion documentacion"    
     git push origin draft
   displayName: "Paso3"
+=======
+    git add . && git commit -m "actualizacion documentacion"    
+    git push origin draft
+  displayName: "Paso3"
+>>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
