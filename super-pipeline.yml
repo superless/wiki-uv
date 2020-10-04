@@ -23,39 +23,22 @@ steps:
 - script: |
     echo "vinculando archivos markdown"
     
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
     
-    echo "configurando git"
+    echo "configurando"
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
-    
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web
+    echo "clonando página web"
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
+    echo "creando carpetas"
     mkdir static
     mkdir static/.attachments
     mkdir content
-    pwd
-    
-    cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
-
-    pwd
-    echo $(Build.SourcesDirectory)
+    echo "copiando contenido"
+    cp -r ./.attachments/* ./web/static/.attachments
+    cp -r ./* ./web/content
 
 
-  displayName: 'clone from github to wiki'
+  displayName: 'Paso 1, asociando contenido'
 
 
 - task: replacetokens@3
