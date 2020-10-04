@@ -47,4 +47,10 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 
 ## Comentarios Compañeros:
 
+<<<<<<< HEAD
 ## Comentarios Profesor:
+
+.
+=======
+## Comentarios Profesor:
+>>>>>>> 859e5b56b8ff524f6a6081ae6f588bea7ca4f3e1
