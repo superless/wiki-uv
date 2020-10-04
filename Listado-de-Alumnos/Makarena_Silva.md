@@ -2,8 +2,6 @@
 
  <sub>From Visual Studio Code WSL: Debian</sub>
 
-# Presentación
-
 ##Informática y yo.
 
 Mi nombre es **Makarena Dominic Silva Baradit**, estudiante de Ingeniería en ejecución informática en la **Universidad de Valparaíso**. Nací el 1 de Agosto de 1993, Viña del Mar, Chile.
@@ -18,7 +16,7 @@ Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia
 Tengo dos perros, ambas hembras. Una de ellas es un poodle mini de mi mamá, que tiene complejo de gato y es la que más me acompaña en esas noches de programación y preparación. Mi party de Pandemia son mi hermana, mamá y las dos peludas que ya mencioné.
 
 Viví como desde que tenía 1 año a 7 años en Mendoza, Argentina. Pero ya no queda nada de acento, pero si varios recuerdos.
-***
+
 ##Facts
 
 | Campo ||
@@ -33,7 +31,7 @@ Viví como desde que tenía 1 año a 7 años en Mendoza, Argentina. Pero ya no q
 | Género Musical favorito | Dark Wave |
 | Peor enemigo en la Universidad | Las físicas |
 
-***
+
 ## Contacto
 
 Puedes encontrarme en
@@ -42,7 +40,6 @@ Puedes encontrarme en
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) (Me encuentro centralizando el trabajo de ambas asignaturas en este, por el momento.)
 - [Azure - Desarrollo Web](https://dev.azure.com/DesarrolloWB/)
 
-***
 
 ##Historial
 
