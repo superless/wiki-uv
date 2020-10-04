@@ -33,7 +33,9 @@ steps:
     
 
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
-    mkdir ../web
+    ls 
+    pwd
+    mkdir ./../web
     mv web/* ./../web
 
     echo "creando carpetas"
@@ -44,6 +46,8 @@ steps:
     echo "copiando contenido"
     mv ./.attachments/* ./../web/static/.attachments
     mv ./* ./../web/content
+    mkdir web
+    pwd
     mv ./../web/* ./web
     ls ./web
 
