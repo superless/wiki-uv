@@ -54,9 +54,3 @@ Saludos manda el Beltrami
 ## Comentarios Profesor:
 
 .
-
-
-<<<<<<< HEAD
-## Comentarios Profesor:
-
-.
