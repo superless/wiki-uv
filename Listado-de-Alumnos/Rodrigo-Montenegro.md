@@ -60,5 +60,3 @@ Saludos manda el Beltrami
 ## Comentarios Profesor:
 
 .
-=======
->>>>>>> 084ca77b7abf44c00a619f3f311c7ced71f41355

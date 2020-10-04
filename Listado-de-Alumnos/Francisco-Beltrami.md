@@ -67,8 +67,4 @@ Ok
 
 ## Comentario Rodrigo
 
-<<<<<<< HEAD
     Te quedo filete pana, sigue asi .
-=======
-    Te quedo filete pana, sigue asi.
->>>>>>> 084ca77b7abf44c00a619f3f311c7ced71f41355
