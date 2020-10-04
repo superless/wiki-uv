@@ -1,10 +1,20 @@
-# Presentación a curso 
+<<<<<<< HEAD
+---
+title: "Francisco Beltrami"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
 
-## Francisco Beltrami Martínez
-Soy estudiante de la carrera de Ingeniería en informática de la Universidad de Valparaíso, tengo 24 años. En mi tiempo libre me dedico a la música; toco guitarra, piano y bajo. Otro de mis pasatiempos es la jardinería.
+
+=======
+>>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
+# Presentacion a curso 
+
+## Francisco Beltrami Martinez
+Soy estudiante de Ing en informática en la Universidad de Valparaíso, tengo 24. En mi tiempo libre me dedico a la música, tocando guitarra, piano y bajo; o a la jardinería.
 ___
-## Expectativas
-Mi meta en estos ramos (**Desarrollo Web** y **Arquitectura de Software**) es interiorizarme en las herramientas utilizadas en el mundo laboral.
+## Espectativas
+Lo principal que espero de estos dos ramos (**Desarrollo Web** y **Arquitectura de Software**) es interiorizarme un poco en las herramientas utilizadas en el mundo laboral.
 ___
 ## Gustos
 + ### Musicales 
@@ -18,34 +28,24 @@ ___
 >>| *Chileno* | Diego Lorenzini | [Sí Po'](https://www.youtube.com/watch?v=9z9Czk2C5TU) |
 >>| *Argentino* | Gustavo Cerati | [Otra Piel](https://www.youtube.com/watch?v=kYfmEdC7fxU) |
 >>___Entre otros___
-+ ### Juegos
-En mi tiempo libre juego con mis amigos:
->> Overwatch
->>
->> Dauntless
->>
->> Dead by Daylight
->>
->> **Próximamente** World of Warcraft y/o Guild Wars 2
-
-
 + ### Plantas
-Una de mis plantas preferidas, principalmente por su beneficio médico, es la **Melisa**, cuya acción funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
+Una de mis plantas preferidas, principalmente por su beneficio medico (reduntante como planta medicinal) es la **Melisa**, cuya accion funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
 
-<img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250"  />
+>> <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250" />
 
 ___
 ## Herramientas para el desarrollo
 [Edición de MD](https://joedicastro.com/pages/markdown.html#mark1)
 
-[Edición de img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+[Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
-[GitHub](https://github.com/franig24)
+<<<<<<< HEAD
+=======
+[Github](https://github.com/franig24)
 
 [Azure DevOps](https://dev.azure.com/dwuv2020)
 
-
-[Belmingo](https://belmingo.me)
+>>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 
 # Comentario Profesor
 
@@ -56,15 +56,4 @@ Felicitaciones, espero que sepas sacar provecho del conocimiento!
 
 No olvides publicar tu github y tu azure devops.
 
-## Comentario Anónimo
 
-Ok  
-
-## Respuesta Anónimo
-
-<img src="https://i.gifer.com/8Yya.gif" width="250" />
-
-
-## Comentario Rodrigo
-
-    Te quedo filete pana, sigue asi.
