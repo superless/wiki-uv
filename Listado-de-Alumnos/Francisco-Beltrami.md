@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Francisco Beltrami"
 metaTitle: "Presentacion"
@@ -6,8 +5,6 @@ metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
 
-=======
->>>>>>> 5dfec3c4f7893d1997cb7e1d3a4836e30105e279
 # Presentacion a curso 
 
 ## Francisco Beltrami Martinez
@@ -39,13 +36,6 @@ ___
 
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
-<<<<<<< HEAD
-=======
-[Github](https://github.com/franig24)
-
-[Azure DevOps](https://dev.azure.com/dwuv2020)
-
->>>>>>> 5dfec3c4f7893d1997cb7e1d3a4836e30105e279
 
 # Comentario Profesor
 
@@ -56,9 +46,6 @@ Felicitaciones, espero que sepas sacar provecho del conocimiento!
 
 No olvides publicar tu github y tu azure devops.
 
-<<<<<<< HEAD
-
-=======
 ## Comentario Anónimo
 
 Ok  
@@ -66,4 +53,3 @@ Ok
 ## Respuesta Anónimo
 
 <img src="https://i.gifer.com/8Yya.gif" width="250" />
->>>>>>> 5dfec3c4f7893d1997cb7e1d3a4836e30105e279
