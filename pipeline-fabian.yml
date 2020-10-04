@@ -30,14 +30,20 @@ steps:
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     echo "clonando pagina web"
+    
+
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
+    mkdir ../web
+    mv web/* ./../web
+    rm web
     echo "creando carpetas"
-    mkdir ./web/static
-    mkdir ./web/static/.attachments
-    mkdir ./web/content
-    echo "copiando contenidos"
-    cp -r ./.attachments/* ./web/static/.attachments
-    cp -r ./* ./web/content
+    
+    mkdir ./../web/static
+    mkdir ./../web/static/.attachments
+    mkdir ./../web/content
+    echo "copiando contenido"
+    cp -r ./.attachments/* ./../web/static/.attachments
+    cp -r ./* ./../web/content
     
   displayName: 'Paso 1, asociando contenido'
 
