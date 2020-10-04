@@ -10,6 +10,9 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- script: |
+   echo "instando node JS"
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -18,13 +21,14 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
+    echo "vinculando archivos markdown"
+    
     mkdir ../github-docs
     mkdir ../github-docs/.attachments
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
-    ls -a ../github-docs/
     
+    echo "configurando git"
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
