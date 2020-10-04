@@ -4,42 +4,15 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-
-
-
-
-- script: |
-    ls
-    mkdir ../github
-    cd ../github
-    git config --global user.email "$(user)"
-    git config --global user.name "$(email)"
-    git clone https://$(user):$(token)@github.com/$(user)/wiki-uv.git
-
-  displayName: "Paso1" 
-
-- script: |
-    cd ../github/wiki-uv
-    ls -a
-    git remote add upstream  https://github.com/trifenix/wiki-uv.git
-    git fetch upstream
-    
-    git checkout --track origin/draft
-    git merge upstream/draft 
-  displayName: "Paso2"
-- script: |
-    ls
-    cp -r ./* ../github/wiki-uv
-    cp -r ./.attachments/* ../github/wiki-uv/.attachments
-    cd ../github/wiki-uv
-    ls 
-
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin draft
-  displayName: "Paso3"
+#pasos 
+- task: CmdLine@2
+  inputs:
+    script: |
+      echo Hello world
+      ls
