@@ -55,6 +55,3 @@ Necesito que incluya su devops y su repositorio de github.
 <<<<<<< HEAD
 =======
 
-## Comentario Nicolas
-Saludos bro!
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
