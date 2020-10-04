@@ -43,6 +43,16 @@ Felicitaciones, espero que sepas sacar provecho del conocimiento!
 
 No olvides publicar tu github y tu azure devops.
 
+<<<<<<< HEAD
 ## Comentario Rodrigo M
 
 Exelente pagina pana, sigue motivado.
+=======
+## Comentario Anónimo
+
+Ok  
+
+## Respuesta Anónimo
+
+<img src="https://i.gifer.com/8Yya.gif" width="250" />
+>>>>>>> 859e5b56b8ff524f6a6081ae6f588bea7ca4f3e1
