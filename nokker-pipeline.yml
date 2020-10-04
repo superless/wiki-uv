@@ -50,7 +50,8 @@ steps:
 
 
   displayName: 'Paso 1, asociando contenido'
-
+- script: |
+   echo "reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -67,6 +68,7 @@ steps:
 
 #instalando gatsby
 - script: |   
+    echo "instalando Gatsby cli"
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
