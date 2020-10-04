@@ -28,9 +28,7 @@ steps:
     
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
-    
-    
-  
+         
     echo "clonando pagina web"
     
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
@@ -43,21 +41,13 @@ steps:
     mkdir ./../web/static
     mkdir ./../web/static/.attachments
     mkdir ./../web/content
-
-
-    echo "copiando contenido"
-    
-    
+    echo "copiando contenido"     
     mv ./.attachments/* ./../web/static/.attachments
     mv ./* ./../web/content
     mkdir web
     pwd
-    mv ./../web/*./web
+    mv ./../web/* ./web
     ls ./web
-
-    
-    
-
 
   displayName: 'Paso 1, asociando contenido'
 - script: |
@@ -122,4 +112,3 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
