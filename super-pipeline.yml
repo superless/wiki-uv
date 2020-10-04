@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -12,7 +12,7 @@ pool:
 steps:
 
 - script: |
-   echo "instando node JS"
+   echo "instalando nodejs"
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -21,25 +21,37 @@ steps:
 # fin nodejs
 
 - script: |
-    echo "vinculando archivos markdown"
+    echo "vinculando archivos md"
     
+
+    echo "configurando git"
     
-    echo "configurando"
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
-    echo "clonando página web"
-    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
+         
+    echo "clonando pagina web"
+    
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
+    ls
+    pwd
+    mkdir ./../web
+    mv web/* ./../web
+    
     echo "creando carpetas"
-    mkdir static
-    mkdir static/.attachments
-    mkdir content
-    echo "copiando contenido"
-    cp -r ./.attachments/* ./web/static/.attachments
-    cp -r ./* ./web/content
-
+    mkdir ./../web/static
+    mkdir ./../web/static/.attachments
+    mkdir ./../web/content
+    echo "copiando contenido"     
+    mv ./.attachments/* ./../web/static/.attachments
+    mv ./* ./../web/content
+    mkdir web
+    pwd
+    mv ./../web/* ./web
+    ls ./web
 
   displayName: 'Paso 1, asociando contenido'
-
+- script: |
+   echo "reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -56,6 +68,7 @@ steps:
 
 #instalando gatsby
 - script: |   
+    echo "instalando Gatsby cli"
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
@@ -99,7 +112,3 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
-
-
-
