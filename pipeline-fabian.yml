@@ -35,16 +35,18 @@ steps:
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
     mkdir ../web
     mv web/* ./../web
-    rm web
+
     echo "creando carpetas"
     
     mkdir ./../web/static
     mkdir ./../web/static/.attachments
     mkdir ./../web/content
     echo "copiando contenido"
-    cp -r ./.attachments/* ./../web/static/.attachments
-    cp -r ./* ./../web/content
-    
+    mv ./.attachments/* ./../web/static/.attachments
+    mv ./* ./../web/content
+    mv ./../web/* ./web
+    ls ./web
+
   displayName: 'Paso 1, asociando contenido'
 
 - script: |   
