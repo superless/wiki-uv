@@ -10,6 +10,10 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- script: |   
+    echo "Instalando Js "
+
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -37,6 +41,8 @@ steps:
     
   displayName: 'Paso 1, asociando contenido'
 
+- script: |   
+    echo "Reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -52,7 +58,8 @@ steps:
     enableTelemetry: false
 
 #instalando gatsby
-- script: |   
+- script: |  
+    echo "Instalando Gatsby cli "  
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
