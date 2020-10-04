@@ -46,7 +46,19 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 - C
 
 ## Comentarios Compañeros:
+Saludos manda el Beltrami
+
+<img src="https://media.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif" width="250" />
+
 
 ## Comentarios Profesor:
 
 .
+
+
+<<<<<<< HEAD
+## Comentarios Profesor:
+
+.
+=======
+>>>>>>> 084ca77b7abf44c00a619f3f311c7ced71f41355
