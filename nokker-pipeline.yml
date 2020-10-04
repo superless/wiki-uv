@@ -4,12 +4,15 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- script: |
+  | echo "instalando nodejs"
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -18,19 +21,18 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
+    echo "vinculando archivos md"
     mkdir ../github-docs
     mkdir ../github-docs/.attachments
     mv ./.attachments/* ../github-docs/.attachments
     mv ./* ../github-docs
-    ls -a ../github-docs/
+    echo "configurando git"
     
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
     
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
+    
+   
     
     cd blg    
     git add . && git commit -m "actualizacion documentacion"    
@@ -112,6 +114,8 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
+
+
 
 
 
