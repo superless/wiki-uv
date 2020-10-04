@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- wikiMaster
+- draft
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -18,40 +18,24 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
-    ls -a ../github-docs/
+    echo "vinculando archivos markdown"
+   
+    
+    echo "configurando git"
     
     git config --global user.email "alejandro.iglesias@trifenix.io"
     git config --global user.name "alejandro.iglesias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
-    
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web
+    echo "clonando pagina web"
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
+    echo "creando carpetas"
     mkdir static
     mkdir static/.attachments
     mkdir content
-    pwd
+    echo "copiando contenidos"
+    cp -r ./.attachments/* ./web/static/.attachments
+    cp -r ./* ./web/content
     
-    cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
-
-    pwd
-    echo $(Build.SourcesDirectory)
-
-
-  displayName: 'clone from github to wiki'
+  displayName: 'Paso 1, asociando contenido'
 
 
 - task: replacetokens@3
@@ -61,7 +45,7 @@ steps:
     encoding: 'auto'
     writeBOM: true
     actionOnMissing: 'warn'
-    keepToken: false
+    keepToken: false 
     tokenPrefix: '#{'
     tokenSuffix: '}#'
     useLegacyPattern: false
