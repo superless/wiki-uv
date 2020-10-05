@@ -58,6 +58,9 @@ Saludos manda el Beltrami
 
 <img src="https://media.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif" width="250" />
 
+# Comentario Sebastián González
+
+Buena presentación crack, con todooo 🚀 !!
 
 ## Comentarios Profesor:
 
