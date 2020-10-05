@@ -54,6 +54,10 @@ Saludos manda el Beltrami
 
 Buena presentación crack, con todooo 🚀 !!
 
+# Comentario Nicolás Delgado
+
+Genial amigo!! sigue en lo tuyo que llegarás lejos!!
+
 ## Comentarios Profesor:
 
 .

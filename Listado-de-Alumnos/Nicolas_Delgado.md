@@ -48,6 +48,10 @@ Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
 Gracias por leer
+
+https://dev.azure.com/nicolasdelgado/Desarrollo-Web/
+https://github.com/Slimpler/wiki-uv
+http://www.nicolas-delgado.me/
 ___
 
 
@@ -57,4 +61,6 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
-*Gracias profesor por el comentario. Saludos
+# Respondiendo Comentarios
+
+* Gracias profesor por el comentario. Saludos
