@@ -1,12 +1,12 @@
 ---
 
-title: "Nicolas Delgado"
+title: "Nicolas Delgado Oyarce"
 metaTitle: "Presentacion"
 metaDescription: "Hola"
 ---
 # Alumno Nicolas Delgado
 
-# Nicolas Delgado.
+# Nicolas Delgado Oyarce.
 =======
 title: "Nicolas Delgado Oyarce"
 metaTitle: "Presentacion"
@@ -71,6 +71,9 @@ ___
 Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 
+https://github.com/Slimpler/wiki-uv
+https://dev.azure.com/nicolasdelgado
+
 Gracias por leer
 ___
 
@@ -80,7 +83,8 @@ ___
 Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
 
 Estas en el camino adecuado para lograr tus sueños.
-
+# Respondiendo al Profe 
+Gracias profesor por el comentario. Saludos
 
 *Gracias profesor por el comentario. Saludos
 
@@ -89,5 +93,5 @@ Estas en el camino adecuado para lograr tus sueños.
 Exelente presentacion y metas en la vida. 
 
 
-*Gracias profesor por el comentario. Saludos
+*
 
