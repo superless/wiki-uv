@@ -1,8 +1,3 @@
-# Rodrigo Montenegro
-
-Mi nombre es Rodrigo Montenegro.
-
-La mayoria me conocen como el Monte, tengo 23 años, me encanta fumar, ver peliculas generalmente en netflix, jugar tenis de mesa, futbol, meditar, escuchar rap conciente y el freestyle, mi cantante favorito es Canserbero.
 
 # Presentacion:
 
@@ -41,6 +36,7 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 1. John Wick, todas sus peliculas
    
 2. Matrix
+   <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/06/pelicula-matrix-cumple-20-anos-volvera-cines-espana.jpg?itok=cMuf2SAi" width="250" />
 
 3. Terminator
 
