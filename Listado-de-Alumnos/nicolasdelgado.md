@@ -1,5 +1,5 @@
 ---
-<<<<<<< HEAD
+
 title: "Nicolas Delgado"
 metaTitle: "Presentacion"
 metaDescription: "Hola"
@@ -17,7 +17,6 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
 
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
 ___
 
@@ -26,7 +25,7 @@ ___
 Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos para mi, los que más solia practicar eran el futbol y el tenis.
 
 ### Música
-<<<<<<< HEAD
+
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos.
 =======
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante.
@@ -36,17 +35,16 @@ No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. Suelo j
 
 ### Series y películas
 Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he estado un poco alejado de ese mundo pero siempre que puedo con mi novia solemos ver alguna que otra.
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
+
 
 ### Videojuegos
 No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. 
 
-<<<<<<< HEAD
+
 =======
 ### Libros
 Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado.
 
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 
 + ### Favoritos 
 >>| Intereses | Favorito | Preview |
@@ -56,7 +54,7 @@ Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida d
 >>| *Tenis* | Fernando Gonzalez | [Mano de piedra](https://www.youtube.com/watch?v=bTiqTyXnJsA&ab_channel=ItsabTennis) |
 >>| *Peliculas* | Shawshank Redemption | [Trailer](https://www.youtube.com/watch?v=6hB3S9bIaco&ab_channel=ryy79) |
 >>| *Serie* | The X-Files | [Trailer](https://www.youtube.com/watch?v=b_D3ysY_QCA&ab_channel=TheKieranTriplett) |
-<<<<<<< HEAD
+
 
 __
 
@@ -76,7 +74,6 @@ Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 Gracias por leer
 ___
 
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 
 # Comentario del profesor
 
@@ -84,7 +81,13 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
-<<<<<<< HEAD
-=======
+
 *Gracias profesor por el comentario. Saludos
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
+
+# Comentario de Rodrigo Montenegro
+
+Exelente presentacion y metas en la vida. 
+
+
+*Gracias profesor por el comentario. Saludos
+
