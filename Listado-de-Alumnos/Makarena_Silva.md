@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+---
+title: "Makarena Silva"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
+=======
+>>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
@@ -10,9 +19,12 @@ Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia
 
 Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad.
 
+<<<<<<< HEAD
+=======
 En 2012 ingresé a estudiar Ingeniería en Ejecución informática en la Universidad Católica de Valparaíso, lamentablemente, mi mal desempeño me llevó a irme eliminada de la carrera. Ahora vamos a por el segundo round en la Universidad de Valparaíso. Como dicen: Querer es poder.
 
 
+>>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 | Campo ||
 | ---- |----|
 | Nombre | Makarena Dominic Silva Baradit  |
@@ -20,6 +32,18 @@ En 2012 ingresé a estudiar Ingeniería en Ejecución informática en la Univers
 | Signo del Zodiaco | Leo |
 | ¿Pepsi o Coca Cola? | Pepsi. |
 
+<<<<<<< HEAD
+
+## Comentario del profesor
+
+"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
+
+Me encantó Macarena, es el espiritú que todos llevamos dentro!
+
+No olvides publicar tu github y Azure Devops.
+
+No pierdas la motivación.
+=======
 ## Contacto
 Puedes encontrarme en
 - [Github](https://github.com/MakarenaSilvaB)
@@ -42,4 +66,5 @@ Puedes encontrarme en
 
 _¡Agradezco su comentario y la motivación que comparte!_
  <sub>[por Makarena Silva 25/09/2020]</sub>
+>>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 
