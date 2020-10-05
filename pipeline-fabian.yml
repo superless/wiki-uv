@@ -10,10 +10,6 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-
-- script: |   
-    echo "Instalando Js "
-
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -22,34 +18,26 @@ steps:
 # fin nodejs
 
 - script: |
-    echo "vinculando archivos markdown"
-   
-    
     echo "configurando git"
     
-    git config --global user.email "alejandro.iglesias@trifenix.io"
-    git config --global user.name "alejandro.iglesias"    
+    git config --global user.email "fabian.rozas@alumnos.uv.cl"
+    git config --global user.name "Fabianrozas23"    
     echo "clonando pagina web"
     
 
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
-    ls 
-    pwd
     mkdir ./../web
     mv web/* ./../web
-
     echo "creando carpetas"
-    
     mkdir ./../web/static
     mkdir ./../web/static/.attachments
     mkdir ./../web/content
+
     echo "copiando contenido"
     mv ./.attachments/* ./../web/static/.attachments
     mv ./* ./../web/content
     mkdir web
-    pwd
     mv ./../web/* ./web
-    ls ./web
 
   displayName: 'Paso 1, asociando contenido'
 
