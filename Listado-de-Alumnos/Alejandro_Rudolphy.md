@@ -34,3 +34,7 @@ PD: Perdón por la demora, tengo que admitir que flojee un poco las primeras sem
 
 Github: https://github.com/AlejandroRudolphy
 Devops: https://dev.azure.com/alejandrorudolphy/
+
+# Comentario Sebastián González
+
+Costo ponerse al día, pero se logró, con todo amigo, saludos!!
