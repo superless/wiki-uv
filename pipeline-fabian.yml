@@ -23,8 +23,6 @@ steps:
     git config --global user.email "fabian.rozas@alumnos.uv.cl"
     git config --global user.name "Fabianrozas23"    
     echo "clonando pagina web"
-    
-
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
     mkdir ./../web
     mv web/* ./../web
@@ -58,8 +56,7 @@ steps:
     enableTelemetry: false
 
 #instalando gatsby
-- script: |  
-    echo "Instalando Gatsby cli "  
+- script: |    
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
