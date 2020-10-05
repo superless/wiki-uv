@@ -23,7 +23,7 @@ steps:
    git config --global user.email "jorge.rodrigueza@alumnos.uv.cl"
    git config --global user.email "jorge"
    echo "clonando página web"
-   git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
+   git clone https://github.com/jorgeRodriguezAntiquera/Blog.git web
    mkdir ./../web
    mv web/* ./../web
    echo "creando carpetas estáticas"
