@@ -1,5 +1,5 @@
 
-# Presentacion:
+# Presentacion
 
 Mi nombre es Rodrigo Montenegro Farias, estudiante de ingenieria en informatica en la  Universidad de Valparaiso.
 Naci en viña del mar, el dia 22 de septiembre del año 1996, la mayoria me conocen como el Monte o monteblack,
