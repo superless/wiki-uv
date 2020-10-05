@@ -1,5 +1,17 @@
 # Starter pipeline
 - task: replacetokens@3
+- task: replacetokens@3
+  inputs:
+    rootDirectory: '/'
+    targetFiles: '**/*.config'
+    encoding: 'auto'
+    writeBOM: true
+    actionOnMissing: 'warn'
+    keepToken: false
+    tokenPrefix: '#{'
+    tokenSuffix: '}#'
+    useLegacyPattern: false
+    enableTelemetry: true
   inputs:
     targetFiles: '**/*.config'
     encoding: 'auto'
