@@ -57,3 +57,7 @@ Felicitaciones, espero que sepas sacar provecho del conocimiento!
 No olvides publicar tu github y tu azure devops.
 
 
+<<<<<<< HEAD
+=======
+    Te quedo filete pana, sigue asi .
+>>>>>>> a2cd8e715b80dc965b0651a7a3b34011877703e9
