@@ -52,12 +52,9 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 ## Comentarios Compañeros:
 Saludos manda el Beltrami
 
-<<<<<<< HEAD
--Saludos amigaso!! cuando jugamos unos fifas?, suerte en todo y nos estamos viendo.
-=======
+#Comentario Nicolas Delgado
+-Saludos amigaso!! cuando jugamos unos fifas?, suerte en todo y nos estamos viendo!!
 
--Saludos amigaso!! cuando jugamos unos fifas?, suerte en todo y nos estamos viendo!
->>>>>>> ec5ae3f5f9022cc2ee6ea7218875f410cc8bfbd0
 
 
 <img src="https://media.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif" width="250" />
