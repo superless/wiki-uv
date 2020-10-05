@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: "Ana Munoz"
-=======
-title: "Ana Muñoz"
->>>>>>> fb6972fe910769a2d8c27bc87a885d0e59b9041a
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
