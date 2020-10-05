@@ -52,7 +52,7 @@ Saludos manda el Beltrami
 
 # Comentario Sebastián González
 
-Buen presentación crack, con todooo 🚀 !!
+Buena presentación crack, con todooo 🚀 !!
 
 ## Comentarios Profesor:
 
