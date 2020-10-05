@@ -1,6 +1,5 @@
 # Rodrigo Montenegro
 
-<<<<<<< HEAD
 Mi nombre es Rodrigo Montenegro.
 
 La mayoria me conocen como el Monte, tengo 23 años, me encanta fumar, ver peliculas generalmente en netflix, jugar tenis de mesa, futbol, meditar, escuchar rap conciente y el freestyle, mi cantante favorito es Canserbero.
@@ -53,7 +52,9 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 ## Comentarios Compañeros:
 Saludos manda el Beltrami
 
+
 -Saludos amigaso!! cuando jugamos unos fifas?, suerte en todo y nos estamos viendo!
+
 
 <img src="https://media.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif" width="250" />
 
