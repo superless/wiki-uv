@@ -33,10 +33,13 @@ me encanta fumar weed, ver peliculas generalmente en netflix y ver batallas de f
 
 
 ## Lista de mis Películas Favoritas:
-1. John Wick, todas sus peliculas
+1. John Wick, todas sus peliculas.
    
-2. Matrix
+   
+2. Matrix.
+   <center>
    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/06/pelicula-matrix-cumple-20-anos-volvera-cines-espana.jpg?itok=cMuf2SAi" width="250" />
+   </center>
 
 3. Terminator
 
