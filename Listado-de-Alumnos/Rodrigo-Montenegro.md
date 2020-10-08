@@ -89,6 +89,9 @@ upa amigaso en la semana para recordar viejos tiempos jajajajaj.
 
 Buena presentación crack, con todooo 🚀 !!
 
+# Respuesta:
+Vale hermanito igualmente, con todo..... faltan sus fifas.
+
 # Comentario Nicolás Delgado
 
 Genial amigo!! sigue en lo tuyo que llegarás lejos!!
