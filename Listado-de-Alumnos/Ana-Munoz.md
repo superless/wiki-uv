@@ -36,8 +36,8 @@ Alo alo alo alo
 
 
 ## Respuesta
-### Git: https://github.com/ana-munoz/
-### DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
+Git: https://github.com/ana-munoz/
+DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
 
 
 
