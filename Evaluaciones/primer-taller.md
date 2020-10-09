@@ -53,8 +53,13 @@ Compromiso: 10
 Participación: 10
 Creatividad: 10
 
-## Ignacio Miranda
+## Ignacio Miranda [dev]
 Compromiso: 10
+Participación: 0
+Creatividad: 3
+
+## Ignacio Miranda [arq]
+Compromiso: 5 // script de devops.
 Participación: 0
 Creatividad: 3
 
