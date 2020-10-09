@@ -77,5 +77,10 @@ Compromiso: 10 // script de devops.
 Participación: 10
 Creatividad: 10
 
+## Sebastian Gonzalez
+Compromiso: 10 // script de devops.
+Participación: 10
+Creatividad: 10
+
 
 
