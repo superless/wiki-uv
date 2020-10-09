@@ -40,4 +40,13 @@ Git: https://github.com/ana-munoz/
 DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
 
 
+# Comentarios Profesor
+
+Hola anita, nuevamente. Se nota tu interés y estoy muy contento por eso, además veo que tienes cierto talento para escribir y tu personalidad combina muy bien con lo que escribes, espero puedas aprender mucho de estos cursos, vamos a conversar.
+
+
+
+
+
+
 
