@@ -63,7 +63,7 @@ Compromiso: 5 // script de devops.
 Participación: 0
 Creatividad: 3
 
-## Rodrigo Montenegro
+## Rodrigo Montenegro [dev/arq]
 Compromiso: 10 // script de devops.
 Participación: 10
 Creatividad: 10
