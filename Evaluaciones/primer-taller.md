@@ -18,7 +18,7 @@ Creatividad: 10
 
 ## Alejandro Oliveros [dev/arq]
 Compromiso: 10
-Participación: 0 // pendiente 5 puntos de video.
+Participación: 0 
 Creatividad: 10
 
 
