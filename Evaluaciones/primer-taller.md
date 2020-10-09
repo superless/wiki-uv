@@ -75,6 +75,12 @@ Compromiso: 10
 Participación: 0
 Creatividad: 3
 
+## Ignacio Alvarado [arq]
+Compromiso: 7
+Participación: 0
+Creatividad: 10
+
+
 ## Ignacio Miranda [arq]
 Compromiso: 5 // script de devops.
 Participación: 0
