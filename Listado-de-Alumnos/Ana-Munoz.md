@@ -1,5 +1,5 @@
 ---
-title: "Ana Muñoz"
+title: "Ana Munoz"
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
@@ -13,7 +13,7 @@ Hice una especie de logo que creo representa todo mi mundo desde las cosas que m
 
 
 
-De ahí se puede ver que me fascina la cocina (especialmente la repostería, aunque en mi casa les gusta todo lo que cocino), tejer <strike> porque soy una abuela </strike>, tengo una addicción por el sims, se lleva todo mi dinero aunque no lo valga y, *last but not least*, me gusta mucho aprender sobre las tecnologías y cosas de ese estilo. Me entretienen caleta. Vengo de un mundo un tanto ingenieril, mi tío es informático y mi papá es electrónico, así que crecí pegada a las teclas y aparatos que me parecían raros cuando era chica. De hecho, crecí teniendole **pánico a los computadores** porque en el primer pc que hubo en mi casa mi papá le puso clave a la BIOS y si me equivocaba de clave, metía ruido. También veía que mi papá y tío trabajaban en pantallas negras sin íconos ni cosas, y si por accidente yo pasaba a abrir esa pantalla (que resultó siendo el terminal 77) entraba en pánico y le quitaba la energía al tower. Así de animal.
+De ahí se puede ver que me fascina la cocina (especialmente la repostería, aunque en mi casa les gusta todo lo que cocino), tejer porque soy una abuela, tengo una addicción por el sims, se lleva todo mi dinero aunque no lo valga y, *last but not least*, me gusta mucho aprender sobre las tecnologías y cosas de ese estilo. Me entretienen caleta. Vengo de un mundo un tanto ingenieril, mi tío es informático y mi papá es electrónico, así que crecí pegada a las teclas y aparatos que me parecían raros cuando era chica. De hecho, crecí teniendole **pánico a los computadores** porque en el primer pc que hubo en mi casa mi papá le puso clave a la BIOS y si me equivocaba de clave, metía ruido. También veía que mi papá y tío trabajaban en pantallas negras sin íconos ni cosas, y si por accidente yo pasaba a abrir esa pantalla (que resultó siendo el terminal 77) entraba en pánico y le quitaba la energía al tower. Así de animal.
 
 ---
 ## Sobre mi familia ##
@@ -32,14 +32,22 @@ Y eso ^.^
 Alo alo alo alo 
 
 
-## Comentario del profesor
-Hola Ana, muchas gracias por su presentación, que bueno que tengas un informático interno que clama por conocimiento, me encantó tu imagen y la creatividad usada para identificarte.
+Alo alo alo alo 
 
-Necesito que incluya su devops y su repositorio de github. 
+
 
 ## Respuesta
-### Git: https://github.com/ana-munoz/
-### DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
+Git: https://github.com/ana-munoz/
+DevOps: https://dev.azure.com/anamunoz/Taller01-DWeb
+
+
+# Comentarios Profesor
+
+Hola anita, nuevamente. Se nota tu interés y estoy muy contento por eso, además veo que tienes cierto talento para escribir y tu personalidad combina muy bien con lo que escribes, espero puedas aprender mucho de estos cursos, vamos a conversar.
+
+
+
+
 
 
 

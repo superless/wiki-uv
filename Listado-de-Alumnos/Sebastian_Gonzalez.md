@@ -31,7 +31,6 @@ Algunos temas aquí abajo 👇 !
 >>| [Linkin Park - Papercut](https://www.youtube.com/watch?v=vjVkXlxsO8Q) | [The Rolling Stones - Paint It, Black](https://www.youtube.com/watch?v=O4irXQhgMqg) | [Los tres - No es cierto](https://www.youtube.com/watch?v=LzpwOR1OQ04&list=OLAK5uy_kslM1zG4wgBvTZPtwZHHjUp_Vn8wqXLOE) |
 >>| [Amar azul - No quiero dormir](https://www.youtube.com/watch?v=YUgeOB5fbco) | [Maná - Clavado en un bar](https://www.youtube.com/watch?v=fBrX8ym3dBM&list=PLO_SMg6xKNgKFkWCo0iXRnX634svcRej0) | [Avenged Sevenfold - Nightmare](https://www.youtube.com/watch?v=VzkBv1-Y-TE) |
 
-
    **Videojuegos 🎮.**
 
 Durante un tiempo estuve muy metido en este mundo, actualmente solo juego para pasar el rato y disfrutar con amigos. Algunos juegos: Fifa, valorant, among us 

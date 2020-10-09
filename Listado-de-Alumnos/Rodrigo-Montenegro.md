@@ -91,10 +91,14 @@ Buena presentación crack, con todooo 🚀 !!
 # Respuesta:
 Vale hermanito igualmente, con todo..... faltan sus fifas.
 
+# Respuesta:
+Vale hermanito igualmente, con todo..... faltan sus fifas.
+
 # Comentario Nicolás Delgado
 
 Genial amigo!! sigue en lo tuyo que llegarás lejos!!
 
 ## Comentarios Profesor:
+Aguante Monte, desde mi punto de vista, eres el más luchador, sigue así. 
 
-.
+
