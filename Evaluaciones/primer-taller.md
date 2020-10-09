@@ -34,7 +34,7 @@ Participación: 0
 Creatividad: 8
 
 
-## Felipe Rojas
+## Felipe Rojas [dev/arq]
 Compromiso: 10
 Participación: 10
 Creatividad: 10
