@@ -4,7 +4,7 @@ metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
-## Alejandro Rudolphy [dev]
+## Alejandro Rudolphy [dev-arq]
 Compromiso: 10
 Participación: 10
 Creatividad: 10
