@@ -40,10 +40,10 @@ Participación: 0
 Creatividad: 8
 
 
-## Francisco Beltrami
+## Francisco Beltrami [dev]
 Compromiso: 10
-Participación: 0
-Creatividad: 8
+Participación: 10
+Creatividad: 10
 
 ## Jaime Hernandez
 Compromiso: 10
