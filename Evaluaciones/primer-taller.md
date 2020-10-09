@@ -39,6 +39,14 @@ Compromiso: 10
 Participación: 0
 Creatividad: 8
 
+# Ian Quero [arq]
+Compromiso: 5
+Participación: 0
+Creatividad: 10
+
+
+
+
 
 ## Francisco Beltrami [dev/arq]
 Compromiso: 10
