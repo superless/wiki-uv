@@ -9,6 +9,13 @@ Compromiso: 10
 Participación: 10
 Creatividad: 10
 
+
+## Alejandro Rudolphy [arq]
+Compromiso: 0
+Participación: 10
+Creatividad: 10
+
+
 ## Alejandro Oliveros
 Compromiso: 10
 Participación: 0
