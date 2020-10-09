@@ -47,7 +47,7 @@ Compromiso: 10
 Participación: 0
 Creatividad: 8
 
-## Nicolas Delgado
+## Nicolas Delgado [arq/dev]
 
 Compromiso: 10
 Participación: 10
