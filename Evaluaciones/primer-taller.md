@@ -36,8 +36,8 @@ Creatividad: 8
 
 ## Felipe Rojas
 Compromiso: 10
-Participación: 0
-Creatividad: 8
+Participación: 10
+Creatividad: 10
 
 # Ian Quero [arq]
 Compromiso: 5
