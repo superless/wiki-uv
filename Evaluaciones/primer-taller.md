@@ -40,7 +40,7 @@ Participación: 0
 Creatividad: 8
 
 
-## Francisco Beltrami [dev]
+## Francisco Beltrami [dev/arq]
 Compromiso: 10
 Participación: 10
 Creatividad: 10
