@@ -15,21 +15,32 @@ ___
 ### Deportes
 Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos para mi, los que más solia practicar eran el futbol y el tenis.
 
-### Música
-Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante.
+### Música 🎸
+Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante, si tienen el tiempo escuchen estas canciones.
 
-### Videojuegos
+>>| [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU) | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk) | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&) |
+>>| :----- | :----: | ------: |
+>>| [Dio - Holy Diver](https://www.youtube.com/watch?v=EhGEGIBGLu8&) | [Joe Vasconcellos - Ciudad Traicionera](https://www.youtube.com/watch?v=wTDBSAe3BRM&)| [Fito Paez - Giros](https://www.youtube.com/watch?v=COLoaja5APg&) |
+>>| [Los Fabullos Cadillacs - Manuel Santillán](https://www.youtube.com/watch?v=NhsUcmV32HY&) | [The Rolling Stones - You Can't Always Get What You want](https://www.youtube.com/watch?v=Ef9QnZVpVd8&) | [Red hot Chilli Peppers  - Californication](https://www.youtube.com/watch?v=YlUKcNNmywk&) |
+>>| [Los Prisioneros - Amiga Mia](https://www.youtube.com/watch?v=G7i337jC8fk&) | [Maná - En el Muelle de San Blás](https://www.youtube.com/watch?v=teprNzF6J1I&) | [Rainbow - Temple of the King](https://www.youtube.com/watch?v=B7nKzCRL_oo&) |
+
+### Videojuegos 🎮
 No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. Suelo jugar fifa y en mi minisnes mario 3. 
 
-### Series y películas
-Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he estado un poco alejado de ese mundo pero siempre que puedo con mi novia solemos ver alguna que otra.
-
-### Videojuegos
-No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. 
+### Series y películas 📺
+Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he estado un poco alejado de ese mundo pero siempre que puedo con mi novia solemos ver alguna que otra. Las series que me gustaría recomendar son:    
+- Californication
+- The Walking Dead
+- Cobra Kai
+- Game of Thrones
+- Bored to Death
+- American Horror Story
 
 ### Libros
-Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado.
-
+Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado, algunos libros que deben leer son:
+- 1984 - George Orwell
+- Cien Años de Soledad - Gabriel Garcia Marquez
+- Viaje al Centro de la Tierra - Jules Verne
 
 + ### Favoritos 
 >>| Intereses | Favorito | Preview |
@@ -46,6 +57,7 @@ ___
 ## Personal
 Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas distintas y recorrer todo lo que me sea posible. He tenido la oportunidad de conocer Perú, Ecuador, Argentina, España y Francia. Espero que esos paises sólo sean el comienzo para decenas de otros.
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
+Viajen, vivan, experimenten y vuelvan a repetir!
 
 Gracias por leer
 
