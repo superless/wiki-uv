@@ -96,5 +96,6 @@ Vale hermanito igualmente, con todo..... faltan sus fifas.
 Genial amigo!! sigue en lo tuyo que llegarás lejos!!
 
 ## Comentarios Profesor:
+Aguante Monte, desde mi punto de vista, eres el más luchador, sigue así. 
 
-.
+
