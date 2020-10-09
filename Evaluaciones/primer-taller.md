@@ -47,6 +47,13 @@ Compromiso: 10
 Participación: 0
 Creatividad: 8
 
+## Nicolas Delgado
+
+Compromiso: 10
+Participación: 10
+Creatividad: 10
+
+
 
 
 
