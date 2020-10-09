@@ -25,8 +25,8 @@ steps:
     mv ./* ../github-docs
     ls -a ../github-docs/
     
-    git config --global user.email "alejandro.iglesias@trifenix.io"
-    git config --global user.name "alejandro.iglesias"    
+    git config --global user.email "felipe.rojasg@alumnos.uv.cl"
+    git config --global user.name "FelipeRojas1998"    
     git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
     
     cp -r ../github-docs/.attachments/* ./blg/.attachments     
