@@ -16,10 +16,12 @@ Participación: 10
 Creatividad: 10
 
 
-## Alejandro Oliveros
+## Alejandro Oliveros [dev]
 Compromiso: 10
 Participación: 0
-Creatividad: 8
+Creatividad: 10
+
+
 
 ## Ana Muñoz
 Compromiso: 10
