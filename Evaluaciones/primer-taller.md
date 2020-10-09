@@ -53,6 +53,10 @@ Compromiso: 10
 Participación: 10
 Creatividad: 10
 
+## Ignacio Miranda
+Compromiso: 10
+Participación: 0
+Creatividad: 3
 
 
 
