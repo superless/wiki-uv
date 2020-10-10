@@ -8,7 +8,7 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 >> <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
 
 
-Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática.
+Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática
 ___
 
 ## Intereses
@@ -19,6 +19,7 @@ Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos 
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante, si tienen el tiempo escuchen estas canciones.
 
 >>| [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU) | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk) | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&) |
+>>| :----- | :----: | ------: |
 >>| [Dio - Holy Diver](https://www.youtube.com/watch?v=EhGEGIBGLu8&) | [Joe Vasconcellos - Ciudad Traicionera](https://www.youtube.com/watch?v=wTDBSAe3BRM&)| [Fito Paez - Giros](https://www.youtube.com/watch?v=COLoaja5APg&) |
 >>| [Los Fabullos Cadillacs - Manuel Santillán](https://www.youtube.com/watch?v=NhsUcmV32HY&) | [The Rolling Stones - You Can't Always Get What You want](https://www.youtube.com/watch?v=Ef9QnZVpVd8&) | [Red hot Chilli Peppers  - Californication](https://www.youtube.com/watch?v=YlUKcNNmywk&) |
 >>| [Los Prisioneros - Amiga Mia](https://www.youtube.com/watch?v=G7i337jC8fk&) | [Maná - En el Muelle de San Blás](https://www.youtube.com/watch?v=teprNzF6J1I&) | [Rainbow - Temple of the King](https://www.youtube.com/watch?v=B7nKzCRL_oo&) |
