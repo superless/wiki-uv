@@ -18,11 +18,7 @@ Creatividad: 10
 
 ## Alejandro Oliveros dev-arq
 Compromiso: 10
-<<<<<<< HEAD
-Participación: 0 //pendiente 5 puntos de video.
-=======
 Participación: 0 
->>>>>>> c458e77a121d9c4dd9998089579b8c1e7f1efa37
 Creatividad: 10
 
 
