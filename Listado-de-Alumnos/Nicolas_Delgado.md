@@ -21,7 +21,9 @@ Actualmente me considero una persona sin una predilección clara en cuanto a mi 
 >>| [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU) | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk) | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&) |
 >>| :----- | :----: | ------: |
 >>| [Dio - Holy Diver](https://www.youtube.com/watch?v=EhGEGIBGLu8&) | [Joe Vasconcellos - Ciudad Traicionera](https://www.youtube.com/watch?v=wTDBSAe3BRM&)| [Fito Paez - Giros](https://www.youtube.com/watch?v=COLoaja5APg&) |
+>>| :----- | :----: | ------: |
 >>| [Los Fabullos Cadillacs - Manuel Santillán](https://www.youtube.com/watch?v=NhsUcmV32HY&) | [The Rolling Stones - You Can't Always Get What You want](https://www.youtube.com/watch?v=Ef9QnZVpVd8&) | [Red hot Chilli Peppers  - Californication](https://www.youtube.com/watch?v=YlUKcNNmywk&) |
+>>| :----- | :----: | ------: |
 >>| [Los Prisioneros - Amiga Mia](https://www.youtube.com/watch?v=G7i337jC8fk&) | [Maná - En el Muelle de San Blás](https://www.youtube.com/watch?v=teprNzF6J1I&) | [Rainbow - Temple of the King](https://www.youtube.com/watch?v=B7nKzCRL_oo&) |
 
 ### Videojuegos 🎮
