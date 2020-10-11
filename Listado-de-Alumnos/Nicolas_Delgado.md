@@ -79,4 +79,4 @@ Estas en el camino adecuado para lograr tus sueños.
 
 # Comentario Felipe Rojas
 
-Buena hermano, espero que estes bien y sigue adelante con tus proyectos.
+Buena hermano, espero que estes bien y sigue adelante con tus proyectos..
