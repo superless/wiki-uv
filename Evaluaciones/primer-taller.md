@@ -23,10 +23,10 @@ Creatividad: 10
 
 
 
-## Ana Muñoz
+## Ana Muñoz 
 Compromiso: 10
-Participación: 0
-Creatividad: 8
+Participación: 10
+Creatividad: 10
 
 ## Cristian Valencia
 Compromiso: 10
