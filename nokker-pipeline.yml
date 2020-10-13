@@ -26,8 +26,8 @@ steps:
 
     echo "configurando git"
     
-    git config --global user.email "alejandro.iglesias@trifenix.io"
-    git config --global user.name "alejandro.iglesias"    
+    git config --global user.email "alejandro.oliveros@alumnos.uv.cl"
+    git config --global user.name "alejandro.oliveros"    
          
     echo "clonando pagina web"
     
