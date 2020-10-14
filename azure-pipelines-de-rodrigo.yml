@@ -18,26 +18,27 @@ steps:
 # fin nodejs
 
 - script: |
-   echo "configurando git"
-   
-   git config --global user.email "rodrigo.montenegro@alumnos.uv.cl"
-   git config --global user.name "Rodrigomontenegrofarias"
-   echo "clonando página web"
-   git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
-   mkdir ./../web
-   mv web/* ./../web
-   echo "creando carpetas estáticas"
-   mkdir ./../web/static
-   mkdir ./../web/static/.attachments
-   mkdir ./../web/content
-   
-   echo "copiando contenido"
-   mv ./.attachnents/* ./../web/static/.attachments
-   mv ./* ./../web/content
-   mkdir web
-   mv ./../web/* ./web
-   
-   
+    ls -a
+    mkdir ../github-docs
+    mkdir ../github-docs/.attachments
+    mv ./.attachments/* ../github-docs/.attachments
+    mv ./* ../github-docs
+    ls -a ../github-docs/
+    
+    
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web
+        
+    cd web
+    git checkout draft || git checkout -b draft
+    mkdir static
+    mkdir static/.attachments
+    mkdir content
+    pwd    
+    cd ..
+    cp -r ../github-docs/* ./web/content
+    cp -r ../github-docs/.attachments/* ./web/static/.attachments
+    pwd
+    echo $(Build.SourcesDirectory)
   displayName: 'clone from github to wiki'
 
 
@@ -99,3 +100,6 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
+
+
+
