@@ -1,3 +1,4 @@
+
 # Presentación Alumnno 😃. 
 
 Mi nombre es Sebastián Alejandro González Morales, estudiante de la carrera Ingenieria Civil informática de la Universidad de Valparaiso. 
@@ -12,7 +13,7 @@ Soy proveniente de la sexta región del Libertador General Bernardo O'Higgins, N
 
   Desde pequeño fuí muy gordito, luego en séptimo básico aproximadamente empece a relacionarme con el mundo del deporte. Primero empece a jugar fútbol, luego estuve entrenando aproximadamente 4 años voleyball, luego empece a realizar running, posteriormente conoci el basketball y es el deporte que más realizo diariamente, muy a lo lejos juego tenis. Además de practicarlo, me gusta verlo y estar pendiente día a día.
 
-
+  
    **Series 📺.**
 
 En mis tiempos libres, especialmente cuando estoy de vacaciones me gustan ver series. Algunas series que he visto son : The walking dead, prision break, breaking bad, vikings, games of thrones, better call saul, la casa de papel, the punisher, dark.
@@ -45,8 +46,8 @@ Algunos lugares que algún día deben visitar cerca de mi comuna:
 1. [Playa Topocalma](https://www.google.com/search?q=playa+topocalma&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbo-2Z3JzsAhVYGrkGHUm1AsYQ_AUoAXoECB4QAw&biw=1536&bih=758).
 2. [Lago Rapel](https://www.google.com/search?q=Lago+rapel&tbm=isch&ved=2ahUKEwjC7Iub3JzsAhVRDtQKHcm1AVUQ2-cCegQIABAA&oq=Lago+rapel&gs_lcp=CgNpbWcQAzoECAAQQzoFCAAQsQM6AggAOgcIABCxAxBDUOi-BljdzQZgp9EGaABwAHgAgAFfiAHcBZIBAjEwmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=K696X4KrJNGc0AbJ64aoBQ&bih=758&biw=1536).
 3. [Playa matanzas](https://www.google.com/search?q=Playa+Matanzas&tbm=isch&ved=2ahUKEwjLu4ja3JzsAhVlM7kGHcpjB_4Q2-cCegQIABAA&oq=Playa+Matanzas&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIABBDOgQIABAYOgUIABCxA1ChPVjIWmDRW2gAcAB4AIABW4gBzwqSAQIxOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=r696X4uoKOXm5OUPysed8A8&bih=758&biw=1536).
-
-
+   
+   
 # Metas 👌.
 
 Mi principal objetivo en este momento es poder terminar mi carrera, aprender nuevas cosas y poder ser un buen profesional. Aveces cuesta dedicarse al 100 %, ojala el día tuviera más horas. Luego de terminar mi carrera, me gustaria trabajar durante un tiempo, poder independizarme, tener una estabilidad economica para así poder ayudar a mi familia y seres queridos. También me gustaría viajar y conocer nuevos lugares y culturas. 
