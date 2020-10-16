@@ -32,3 +32,8 @@ Existen tres tipos de datos
 1. las transacciones
 2. Los datos resumidos (sumas, promedios, etc.)
 3. y los que están ahí pero no se ven, y son claves para las desiciones.
+
+
+# Comentario Cristian Valencia
+
+Buenas amigo, cuando quiera jugamos nomas. Saludos
