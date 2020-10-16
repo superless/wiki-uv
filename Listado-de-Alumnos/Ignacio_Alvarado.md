@@ -23,7 +23,7 @@ Tambien me interesa el mundo de las aplicaciones moviles, ya que gracias a ellas
 
 [AzureDevops](https://dev.azure.com/DesArq2020/_git/TallerN01)
 
-[Github](https://github.com/CristianValenciaA)
+[Github](https://github.com/ignacioalvaradot/wiki-uv)
 
 
 # Un dato
