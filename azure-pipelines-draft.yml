@@ -4,14 +4,28 @@
 # https://aka.ms/yaml
 
 trigger:
+<<<<<<< HEAD
 - wikiMaster
+=======
+- draft
+>>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+# instalando nodejs
+- task: NodeTool@0
+  inputs:
+    versionSpec: '11.x'
+  displayName: 'instalando node js'
+# fin nodejs
+
+>>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c
 - script: |
     ls -a
     mkdir ../github-docs
@@ -98,6 +112,7 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
+<<<<<<< HEAD
 =======
 >>>>>>> efae4486725fbc94fa86dd333132e6a310fb3a60
 
@@ -130,3 +145,9 @@ steps:
     git add . && git commit -m "actualizacion documentacion"    
     git push origin draft
   displayName: "Paso3"
+=======
+
+
+
+
+>>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c

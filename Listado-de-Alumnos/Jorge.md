@@ -3,6 +3,7 @@
 Alumno de Ingenieria Civil Informatica en la Universidad de Valparaiso.
 Me gusta escribir poesia, ir a exposiciones e ir al bosque.
 
+<<<<<<< HEAD
 # Intereses 
 ***
 - Desarrollo web.
@@ -25,3 +26,13 @@ Mi pagina es la siguiente [Jorge Rodriguez](https://jorgerodrigueza.me/)
 Hola jorge, cuando le damos a sus among us??
 
 XD
+=======
+
+# Comentario del profesor
+
+Como está mi compañero de batallas, vamos que puedes esplayarte mejor, cuales son tus motivaciones.
+
+No olvides publicar tu github y azure devops
+
+Un abrazo!
+>>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c

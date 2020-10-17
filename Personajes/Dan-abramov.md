@@ -3,6 +3,10 @@
 <YouTube youTubeId="dpw9EHDh2bM" />
 
 
+<<<<<<< HEAD
 modificando con felipe!!!
+=======
+modificando con felipe!
+>>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c
 
 
