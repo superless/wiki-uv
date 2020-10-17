@@ -76,3 +76,7 @@ Estas en el camino adecuado para lograr tus sueños.
 # Respondiendo Comentarios
 
 - Gracias profesor por el comentario. Saludos.
+
+# Comentario Felipe Rojas
+
+Buena hermano, espero que estes bien y sigue adelante con tus proyectos..

@@ -1,14 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Starter pipeline
 =======
  Starter pipeline
 >>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
+=======
+# Starter pipeline
+>>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
 trigger:
+<<<<<<< HEAD
 - wikiMaster
+=======
+- draft
+>>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -26,9 +34,13 @@ steps:
     git config --global user.name "$(email)"
     git clone https://$(user):$(token)@github.com/$(user)/wiki-uv.git
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
+=======
+
+>>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808
   displayName: "Paso1" 
 
 - script: |
@@ -47,12 +59,18 @@ steps:
     cd ../github/wiki-uv
     ls 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808
 
     git add . && git commit -m "actualizacion documentacion"    
     git push origin draft
   displayName: "Paso3"
+<<<<<<< HEAD
 =======
     git add . && git commit -m "actualizacion documentacion"    
     git push origin draft
   displayName: "Paso3"
 >>>>>>> ab6a899efc5e4a14460e644190538a5b78e3acfd
+=======
+>>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808

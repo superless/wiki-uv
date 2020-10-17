@@ -23,7 +23,7 @@ Tambien me interesa el mundo de las aplicaciones moviles, ya que gracias a ellas
 
 [AzureDevops](https://dev.azure.com/DesArq2020/_git/TallerN01)
 
-[Github](https://github.com/CristianValenciaA)
+[Github](https://github.com/ignacioalvaradot/wiki-uv)
 
 
 # Un dato
@@ -32,3 +32,8 @@ Existen tres tipos de datos
 1. las transacciones
 2. Los datos resumidos (sumas, promedios, etc.)
 3. y los que están ahí pero no se ven, y son claves para las desiciones.
+
+
+# Comentario Cristian Valencia
+
+Buenas amigo, cuando quiera jugamos nomas. Saludos
