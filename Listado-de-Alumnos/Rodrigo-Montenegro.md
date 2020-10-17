@@ -88,6 +88,8 @@ upa amigaso en la semana para recordar viejos tiempos jajajajaj.
 # Comentario Sebastián González
 
 Buena presentación crack, con todooo 🚀 !!
+# Respuesta:
+Vale hermanito igualmente, con todo..... faltan sus fifas.
 
 # Respuesta:
 Vale hermanito igualmente, con todo..... faltan sus fifas.
