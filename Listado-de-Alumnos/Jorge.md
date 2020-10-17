@@ -18,14 +18,10 @@ Mis principales motivaciones del curso es aprender de react, ya que con esto me 
 
 Mi pagina es la siguiente [Jorge Rodriguez](https://jorgerodrigueza.me/)
 
-# Comentario del profesor
 
-Como está mi compañero de batallas, vamos que puedes esplayarte mejor, cuales son tus motivaciones.
-
-No olvides publicar tu github y azure devops
-
-Un abrazo!
 
 # Comentario Felipe Rojas
 
 Hola jorge, cuando le damos a sus among us??
+
+XD
