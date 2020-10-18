@@ -10,9 +10,6 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-
-- script: |
-   echo "instalando nodejs"
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -21,37 +18,38 @@ steps:
 # fin nodejs
 
 - script: |
-    echo "vinculando archivos md"
+    ls -a
+    mkdir ../github-docs
+    mkdir ../github-docs/.attachments
+    mv ./.attachments/* ../github-docs/.attachments
+    mv ./* ../github-docs
+    ls -a ../github-docs/
     
-
-    echo "configurando git"
+    git config --global user.email "alejandro.iglesias@trifenix.io"
+    git config --global user.name "alejandro.iglesias"    
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
     
-    git config --global user.email "alejandro.oliveros@alumnos.uv.cl"
-    git config --global user.name "alejandro.oliveros"    
-         
-    echo "clonando pagina web"
+    cp -r ../github-docs/.attachments/* ./blg/.attachments     
+    cp -r ../github-docs/* ./blg     
     
-    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
-    ls
+    cd blg    
+    git add . && git commit -m "actualizacion documentacion"    
+    git push origin wikiMaster    
+    cd ..
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
+    cd web
+    mkdir static
+    mkdir static/.attachments
+    mkdir content
     pwd
-    mkdir ./../web
-    mv web/* ./../web
     
-    echo "creando carpetas"
-    mkdir ./../web/static
-    mkdir ./../web/static/.attachments
-    mkdir ./../web/content
-    echo "copiando contenido"     
-    mv ./.attachments/* ./../web/static/.attachments
-    mv ./* ./../web/content
-    mkdir web
+    cd ..
+    cp -r ./blg/* ./web/content
+    cp -r ./blg/.attachments/* ./web/static/.attachments
     pwd
-    mv ./../web/* ./web
-    ls ./web
+    echo $(Build.SourcesDirectory)
+  displayName: 'clone from github to wiki'
 
-  displayName: 'Paso 1, asociando contenido'
-- script: |
-   echo "reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -68,7 +66,6 @@ steps:
 
 #instalando gatsby
 - script: |   
-    echo "instalando Gatsby cli"
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
