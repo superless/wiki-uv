@@ -19,6 +19,11 @@ Además de la cultura geek, también me gusta la natación y escuchar música.
 4. Megaman X (_1994, Super Nintendo_)
 5. Minecraft (_2009_)
 
+## Lista de libros favoritos
+1. Ready Player One (_Ernest Cline_)
+2. El Señor de los Anillos. La comunidad del anillo (_J.R.R. Tolkien_)
+3. Armada (_Ernest Cline_)
+
 ## Lista de Películas Favoritas
 1. Ready Player One (_2019_)
 2. Star Wars Episode V: Empire Strikes Back (_1980_)
@@ -37,6 +42,8 @@ Como no todos somos expertos en una materia, dejo mi pequeño aporte con un link
 
 ## ¿Quieres contactarme?
 - Github: IanXhero-Dev (Github personal)
-- Azure: Ian Quiero
+- Azure: Ian Quiero -> [Proyecto NEW Mega](https://dev.azure.com/BurnMasters/Proyect%20NEW%20Mega "Si este es mi Azure Dev-Ops")
 - Correo: ian.quiero@alumnos.uv.cl
 - Discord: Ianxhero#4764
+
+![Link Corriendo](https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif "¡Esperenme que aun no tengo las botas!")
