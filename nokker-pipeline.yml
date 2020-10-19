@@ -10,6 +10,9 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+
+- script: |
+   echo "instalando nodejs"
 # instalando nodejs
 - task: NodeTool@0
   inputs:
@@ -18,29 +21,37 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
-    ls -a ../github-docs/
+    echo "vinculando archivos md"
     
-    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web
-        
-    cd web
-    git checkout draft || git checkout -b draft
-    mkdir static
-    mkdir static/.attachments
-    mkdir content
-    pwd    
-    cd ..
-    cp -r ../github-docs/* ./web/content
-    cp -r ../github-docs/.attachments/* ./web/static/.attachments
-    pwd
-    echo $(Build.SourcesDirectory)
-  displayName: 'clone from github to wiki'
 
+    echo "configurando git"
+    
+    git config --global user.email "alejandro.oliveros@alumnos.uv.cl"
+    git config --global user.name "alejandro.oliveros"    
+         
+    echo "clonando pagina web"
+    
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
+    ls
+    pwd
+    mkdir ./../web
+    mv web/* ./../web
+    
+    echo "creando carpetas"
+    mkdir ./../web/static
+    mkdir ./../web/static/.attachments
+    mkdir ./../web/content
+    echo "copiando contenido"     
+    mv ./.attachments/* ./../web/static/.attachments
+    mv ./* ./../web/content
+    mkdir web
+    pwd
+    mv ./../web/* ./web
+    ls ./web
+
+  displayName: 'Paso 1, asociando contenido'
+- script: |
+   echo "reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -57,6 +68,7 @@ steps:
 
 #instalando gatsby
 - script: |   
+    echo "instalando Gatsby cli"
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
