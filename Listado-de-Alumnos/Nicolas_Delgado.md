@@ -75,12 +75,10 @@ Estas en el camino adecuado para lograr tus sueños.
 
 # Respondiendo Comentarios
 
-<<<<<<< HEAD
-- Gracias profesor por el comentario. Saludos!
-=======
 - Gracias profesor por el comentario. Saludos.
 
 # Comentario Felipe Rojas
 
 Buena hermano, espero que estes bien y sigue adelante con tus proyectos..
->>>>>>> 84a18f6a1d3bf941ce04eeedbc018f7348b23808
+
+- Hola amigaso, muchas gracias y tu sigue con lo tuyo!!
