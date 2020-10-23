@@ -22,7 +22,6 @@ Participación: 0
 Creatividad: 10
 
 
-
 ## Ana Muñoz dev-arq
 Compromiso: 10
 Participación: 10
@@ -95,6 +94,3 @@ Creatividad: 10
 Compromiso: 10 
 Participación: 10
 Creatividad: 10
-
-
-
