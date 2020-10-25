@@ -10,11 +10,7 @@ Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años y soy estudiante de la
 
 Uno de mis hobbies es hacer mucho deporte en general en especial basquetbol y futbol, pero por otro lado me apasiona las tecnologias y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes.
 
-<<<<<<< HEAD
 Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en Europa para generar nuevas tecnologias e ir en ayuda para el área de la salud..
-=======
-Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en Europa para generar nuevas tecnologias e ir en ayuda para el área de la salud.
->>>>>>> 570dc05e73a1208f9d32192e545a0bb176f20a9c
 
 # Comentario del profesor
 Bien Felipe, me alegro tu interés, como haz podido ver las cosas empiezan lentas, pero la constancia es el mejor mentor y cuando no te des cuenta, estarás en la matrix logrando cosas que quizas jamas pensaste lograr.
