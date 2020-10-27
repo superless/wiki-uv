@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Francisco Beltrami"
 metaTitle: "Presentacion"
@@ -13,15 +12,6 @@ Soy estudiante de Ing en informática en la Universidad de Valparaíso, tengo 24
 ___
 ## Espectativas
 Lo principal que espero de estos dos ramos (**Desarrollo Web** y **Arquitectura de Software**) es interiorizarme un poco en las herramientas utilizadas en el mundo laboral.
-=======
-# Presentación a curso 
-
-## Francisco Beltrami Martínez
-Soy estudiante de la carrera de Ingeniería en informática de la Universidad de Valparaíso, tengo 24 años. En mi tiempo libre me dedico a la música; toco guitarra, piano y bajo. Otro de mis pasatiempos es la jardinería.
-___
-## Expectativas
-Mi meta en estos ramos (**Desarrollo Web** y **Arquitectura de Software**) es interiorizarme en las herramientas utilizadas en el mundo laboral.
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 ___
 ## Gustos
 + ### Musicales 
@@ -35,48 +25,18 @@ ___
 >>| *Chileno* | Diego Lorenzini | [Sí Po'](https://www.youtube.com/watch?v=9z9Czk2C5TU) |
 >>| *Argentino* | Gustavo Cerati | [Otra Piel](https://www.youtube.com/watch?v=kYfmEdC7fxU) |
 >>___Entre otros___
-<<<<<<< HEAD
 + ### Plantas
 Una de mis plantas preferidas, principalmente por su beneficio medico (reduntante como planta medicinal) es la **Melisa**, cuya accion funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
 
 >> <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250" />
-=======
-+ ### Juegos
-En mi tiempo libre juego con mis amigos:
->> Overwatch
->>
->> Dauntless
->>
->> Dead by Daylight
->>
->> **Próximamente** World of Warcraft y/o Guild Wars 2
-
-
-+ ### Plantas
-Una de mis plantas preferidas, principalmente por su beneficio médico, es la **Melisa**, cuya acción funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
-
-<img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250"  />
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 
 ___
 ## Herramientas para el desarrollo
 [Edición de MD](https://joedicastro.com/pages/markdown.html#mark1)
 
-<<<<<<< HEAD
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
 
-=======
-[Edición de img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
-
-[GitHub](https://github.com/franig24)
-
-[Azure DevOps](https://dev.azure.com/dwuv2020)
-
-
-[Belmingo](https://belmingo.me)
-
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 # Comentario Profesor
 
 Bien Francisco, Super bien, vendra [Nanny.Mcphee](https://github.com/nanny-mcphee) y te recompansará por tu dedicación y querer ir más allá de lo establecido. 
@@ -86,19 +46,4 @@ Felicitaciones, espero que sepas sacar provecho del conocimiento!
 
 No olvides publicar tu github y tu azure devops.
 
-<<<<<<< HEAD
 
-=======
-## Comentario Anónimo
-
-Ok  
-
-## Respuesta Anónimo
-
-<img src="https://i.gifer.com/8Yya.gif" width="250" />
-
-
-## Comentario Rodrigo
-
-    Te quedo filete pana, sigue asi .
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63

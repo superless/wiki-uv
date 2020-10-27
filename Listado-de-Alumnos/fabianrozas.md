@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 ---
 title: "Fabian Rozas"
 metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
-=======
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 
 # Presentación Fabián Rozas Alfaro
 
@@ -13,10 +10,6 @@ Mi nombre es Fabián Rozas tengo 23 años, me gusta escuchar música, salir con 
 
 Eso, espero que estes muy bien
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 SALUDOS! :D 
 
 
@@ -27,8 +20,5 @@ Hola Fabian, Vamos cumpa, puedes contarnos más, cual es el desafio en tecnolog�
 Animo Fabian!!
 
 Necesito github y azure devops!
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
