@@ -4,7 +4,11 @@
 # https://aka.ms/yaml
 
 trigger:
+<<<<<<< HEAD
 - wikiMaster
+=======
+- draft
+>>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
 
 pool:
   vmImage: 'ubuntu-latest'

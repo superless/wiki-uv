@@ -11,3 +11,10 @@ Como está mi compañero de batallas, vamos que puedes esplayarte mejor, cuales 
 No olvides publicar tu github y azure devops
 
 Un abrazo!
+<<<<<<< HEAD
+=======
+
+# Comentario Felipe Rojas
+
+Hola jorge, cuando le damos a sus among us??
+>>>>>>> 0042c0944d573a654f068d3e0e0e9368293f5c63
