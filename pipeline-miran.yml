@@ -21,7 +21,7 @@ steps:
    echo "configurando git"
    
    git config --global user.email "ignacio.miranda@alumnos.uv.cl"
-   git config --global user.name "ignacio"
+   git config --global user.name "Ignacio-my"
    echo "clonando página web"
    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
    mkdir ./../web
