@@ -42,10 +42,11 @@ ___
 
 [GitHub](https://github.com/franig24)
 
-[Azure DevOps](https://dev.azure.com/dwuv2020)
-
+[Azure DevOps](https://dev.azure.com/dwuv2020/Taller%201)
 
 [Belmingo](https://belmingo.me)
+
+[Belmingo](https://validador.belmingo.me)
 
 # Comentario Profesor
 
