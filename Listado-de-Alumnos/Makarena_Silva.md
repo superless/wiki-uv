@@ -33,6 +33,7 @@ Viví desde que tuve 1 a 7 años en Mendoza, Argentina. Pero ya no queda nada de
 | Género Musical favorito | Dark Wave |
 | Peor enemigo en la Universidad | Las físicas |
 
+
 ##Experiencias informáticas fuera de la Universidad
 
 Además de los trabajos típicos de la malla de contenidos, que incluyen manejo de C, C++, java, html, php (mediante frameworks), mySQL, scripts en bash, se han adherido a mis experiencias un par de trabajos:
