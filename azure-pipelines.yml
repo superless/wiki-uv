@@ -69,7 +69,7 @@ steps:
 
 - script: |
     pwd  
-    cat config.js
+    cat web/config.js
   workingDirectory: $(Build.SourcesDirectory)
   displayName: 'seeing'
 #instalando gatsby
