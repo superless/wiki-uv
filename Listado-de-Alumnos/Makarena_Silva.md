@@ -34,6 +34,7 @@ Viví desde que tuve 1 a 7 años en Mendoza, Argentina. Pero ya no queda nada de
 | Peor enemigo en la Universidad | Las físicas |
 
 ##Experiencias informáticas fuera de la Universidad
+
 Además de los trabajos típicos de la malla de contenidos, que incluyen manejo de C, C++, java, html, php (mediante frameworks), mySQL, scripts en bash, se han adherido a mis experiencias un par de trabajos:
 - Trabajo a la antigua con html + php + JS con consultas a base de datos, para una aplicación de inventario de bodega de la empresa Rockpoint.
 - Aplicación interactiva en Unity 5, programando en C#, para el trabajo de título de mi mejor amiga, Diseñadora Gráfica.
