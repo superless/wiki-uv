@@ -67,9 +67,11 @@ steps:
     useLegacyPattern: false
     enableTelemetry: false
 
-- script: |   
+- script: |
+    pwd  
     cat config.js
-  displayName: 'instalando gatsby'
+  workingDirectory: $(Build.SourcesDirectory)
+  displayName: 'seeing'
 #instalando gatsby
 - script: |   
     npm install -g gatsby-cli
