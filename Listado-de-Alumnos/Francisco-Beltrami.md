@@ -34,9 +34,22 @@ ___
 ## Herramientas para el desarrollo
 [Edición de MD](https://joedicastro.com/pages/markdown.html#mark1)
 
+<<<<<<< HEAD
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
 
+=======
+[Edición de img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+
+[GitHub](https://github.com/franig24)
+
+[Azure DevOps](https://dev.azure.com/dwuv2020/Taller%201)
+
+[Belmingo](https://belmingo.me)
+
+[Belmingo](https://validador.belmingo.me)
+
+>>>>>>> 21ea675a6b07e5e7d5b44644c8579c35c86fddc8
 # Comentario Profesor
 
 Bien Francisco, Super bien, vendra [Nanny.Mcphee](https://github.com/nanny-mcphee) y te recompansará por tu dedicación y querer ir más allá de lo establecido. 
