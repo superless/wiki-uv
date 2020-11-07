@@ -4,9 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-
 - draft
-
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -20,30 +18,22 @@ steps:
 # fin nodejs
 
 - script: |
-
-    echo "configurando git"
-    
-    git config --global user.email "fabian.rozas@alumnos.uv.cl"
-    git config --global user.name "Fabianrozas23"    
-    echo "clonando pagina web"
+    git config --global user.email "makarena.silva@alumnos.uv.cl"
+    git config --global user.name "MakarenaSilvaB"    
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
     mkdir ./../web
     mv web/* ./../web
-    echo "creando carpetas"
     mkdir ./../web/static
     mkdir ./../web/static/.attachments
     mkdir ./../web/content
-
-    echo "copiando contenido"
-    mv ./.attachments/* ./../web/static/.attachments
+    
+    mv ./.attachnents/* ./../web/static/.attachments
     mv ./* ./../web/content
     mkdir web
     mv ./../web/* ./web
 
-  displayName: 'Paso 1, asociando contenido'
 
-- script: |   
-    echo "Reemplazando variables"
+  displayName: 'clone from github to wiki'
 
 
 - task: replacetokens@3
@@ -53,18 +43,14 @@ steps:
     encoding: 'auto'
     writeBOM: true
     actionOnMissing: 'warn'
-
-    keepToken: false 
-
+    keepToken: false
     tokenPrefix: '#{'
     tokenSuffix: '}#'
     useLegacyPattern: false
     enableTelemetry: false
 
 #instalando gatsby
-
-- script: |    
-
+- script: |   
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
@@ -79,9 +65,9 @@ steps:
 - task: Bash@3
   inputs:
     targetType: 'inline'
-    script: 'npm install --save-dev @babel/plugin-proposal-export-default-from'
+    script: 'npm install'
     workingDirectory: '$(Build.SourcesDirectory)/web'
-  displayName: 'npm install babel'
+  displayName: 'npm install'
 
 #gatsby build
 - task: Bash@3
