@@ -21,4 +21,15 @@ Animo Fabian!!
 
 Necesito github y azure devops!
 
+<<<<<<< HEAD
 
+=======
+## Respuesta a comentario del profesor
+
+Hola profe, creo que el desafia de tecnologia que mas me ha costado es este ajjaja, pero de apoco voy agarrando fuerzas y me va costando menos. Mis motivaciones son poder realizar mi sitio web, por lo que estoy ultimamente metiendole mas mano al asunto. 
+
+mi github es: https://github.com/fabianrozas23
+mi azure devops es: https://dev.azure.com/fabianrozas
+
+Saludos profe, espero que este muy bien! :D 
+>>>>>>> 348f3387ce68b3bb76e774000f48bf282741d599

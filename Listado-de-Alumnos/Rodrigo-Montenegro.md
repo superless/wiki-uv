@@ -6,7 +6,12 @@ Mi nombre es Rodrigo Montenegro Farias, estudiante de ingenieria en informatica 
 Naci en viña del mar, el dia 22 de septiembre del año 1996, la mayoria me conocen como el Monte o monteblack,
 me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 
+## Paginas web del curso:
 
+<b href="https://www.rodrigo-montenegro.me">Pagina del curso</b>
+
+<b href=" https://validacion.rodrigo-montenegro.me
+">Pagina de Validacion</b>
 
 ## Lista de mis deportes favoritos:
 1. Fútbol.
