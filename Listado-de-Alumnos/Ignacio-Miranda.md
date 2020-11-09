@@ -45,11 +45,22 @@ Entre muchas otras mas
 ## Expectativas
 
 Dentro de lo que ya he visto en los ramos de Arqutectura y Desarrollo seria mas que nada seguir aprendiendo y acostumbrarme a las herramientas que no habia visto antes 
+<<<<<<< HEAD
+=======
+
+## Paginas
+>>>>>>> 2cb8b1b3c2450ae615d8d823bf1c8d1caf368869
 
 Devops: https://dev.azure.com/ignaciomiranda0932/DesarrolloWeb
 
 GitHub: https://github.com/Ignacio-my/wiki-uv/tree/draft
 
 Pagina: https://ignacio-miranda.me/
+<<<<<<< HEAD
+=======
+
+Validador: https://validador.ignacio-miranda.me/ 
+
+>>>>>>> 2cb8b1b3c2450ae615d8d823bf1c8d1caf368869
 
 Validador: https://validador.ignacio-miranda.me/ 

@@ -1,3 +1,9 @@
+---
+title: "Makarena Silva"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
@@ -11,6 +17,8 @@ Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia
 
 Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad.
 
+<<<<<<< HEAD
+=======
 En 2012 ingresé a estudiar Ingeniería en Ejecución informática en la Universidad Católica de Valparaíso, lamentablemente, mi mal desempeño me llevó a irme eliminada de la carrera. Ahora vamos a por el segundo round en la Universidad de Valparaíso. Como dicen: Querer es poder.
 
 ### Algo de mi vida.
@@ -22,6 +30,7 @@ Viví desde que tuve 1 a 7 años en Mendoza, Argentina. Pero ya no queda nada de
 
 
 ## Facts
+>>>>>>> 21ea675a6b07e5e7d5b44644c8579c35c86fddc8
 | Campo ||
 | ---- |----|
 | Nombre | Makarena Dominic Silva Baradit  |
@@ -38,25 +47,24 @@ Además de los trabajos típicos de la malla de contenidos, que incluyen manejo 
 - Trabajo a la antigua con html + php + JS con consultas a base de datos, para una aplicación de inventario de bodega de la empresa Rockpoint.
 - Aplicación interactiva en Unity 5, programando en C#, para el trabajo de título de mi mejor amiga, Diseñadora Gráfica.
 
+<<<<<<< HEAD
+
+## Comentario del profesor
+=======
 ## Contacto
 Puedes encontrarme en
 - [Github](https://github.com/MakarenaSilvaB)
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
 - [Dominio asociado a Netlify] (https://www.makarena-silva.me/)
+>>>>>>> 21ea675a6b07e5e7d5b44644c8579c35c86fddc8
 
+"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
 
-## Comentario del profesor
+Me encantó Macarena, es el espiritú que todos llevamos dentro!
 
->"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
->
->Me encantó Macarena, es el espiritú que todos llevamos dentro!
->
->No olvides publicar tu github y Azure Devops.
->
->No pierdas la motivación.
+No olvides publicar tu github y Azure Devops.
 
-_¡Agradezco su comentario y la motivación que comparte!_
- <sub>[por Makarena Silva 25/09/2020]</sub>
+No pierdas la motivación.
 
 
