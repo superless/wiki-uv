@@ -16,3 +16,12 @@ Hola Fabian, Vamos cumpa, puedes contarnos m√°s, cual es el desafio en tecnolog√
 Animo Fabian!!
 
 Necesito github y azure devops!
+
+## Respuesta a comentario del profesor
+
+Hola profe, creo que el desafia de tecnologia que mas me ha costado es este ajjaja, pero de apoco voy agarrando fuerzas y me va costando menos. Mis motivaciones son poder realizar mi sitio web, por lo que estoy ultimamente metiendole mas mano al asunto. 
+
+mi github es: https://github.com/fabianrozas23
+mi azure devops es: https://dev.azure.com/fabianrozas
+
+Saludos profe, espero que este muy bien! :D 
