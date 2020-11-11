@@ -7,11 +7,11 @@ Naci en viña del mar, el dia 22 de septiembre del año 1996, la mayoria me cono
 me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 
 ## Paginas web del curso:
+1. <a href="https://arq.rodrigo-montenegro.me/">Pagina del curso</a>.
+   
+2. <a href=" https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
 
-<b href="https://www.rodrigo-montenegro.me">Pagina del curso</b>
 
-<b href=" https://validacion.rodrigo-montenegro.me
-">Pagina de Validacion</b>
 
 ## Lista de mis deportes favoritos:
 1. Fútbol.
