@@ -27,10 +27,6 @@ steps:
     
     git config --global user.email "rodrigo.montenegro@alumnos.uv.cl"
     git config --global user.name "Rodrigomontenegrofarias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
     
     cd blg    
     git add . && git commit -m "actualizacion documentacion"    
