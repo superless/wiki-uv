@@ -9,7 +9,7 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 ## Paginas web del curso:
 1. <a href="https://arq.rodrigo-montenegro.me/">Pagina del curso</a>.
    
-2. <a href=" https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
+2. <a href="https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
 
 
 
