@@ -34,7 +34,7 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 ## Lista de mis juegos favoritos:
 1. Wolfenstein.
    <center>
-   <img src="https://comeenergy.weebly.com/uploads/1/2/3/7/123732321/862984389.jpg" width="250" />
+   <img src="https://en.wikipedia.org/wiki/FC_Barcelona#/media/File:FC_Barcelona_(crest).svg" width="150" />
    </center>
 
 2. Civilization VI.
