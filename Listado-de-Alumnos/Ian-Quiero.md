@@ -47,3 +47,8 @@ Como no todos somos expertos en una materia, dejo mi pequeño aporte con un link
 - Discord: Ianxhero#4764
 
 ![Link Corriendo](https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif "¡Esperenme que aun no tengo las botas!")
+
+
+# Comentario Felipe Rojas
+
+Buena Ian, espero que estes bien y me encanto la lista de juegos que mencionaste.
