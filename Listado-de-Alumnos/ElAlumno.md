@@ -10,7 +10,22 @@ Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años, estudie en el Colegio
 
 # Hobbies
 
-Uno de mis hobbies es hacer mucho deporte en general en especial basquetbol y futbol, pero por otro lado me apasiona las tecnologias y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes.
+Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por muchos deportes, ya que a los 6 años hasta los 8 años empece a practicar futbol en mi colegio, llegando a las categorias menores del club Santiago Wanderers pero por temas de estudio deje de entrenar. Al tener 9 años me fui a jugar tennis por mi colegio en donde fui a diversos campeonatos a nivel regional. Posteriormente empece a jugar pin pon tambien participando en diversos campeonatos hasta los 11 años, donde quise despues practicar voleyball y el basquetbol donde en este ultimo a los 13 años ingrese al club deportivo PLaya Ancha para participar en las categoria sub13 hata llegar hoy en dia a la primera adulta, donde practicamente cada fin de semana participabamos en los campeonatos de Valparaiso. Por otro lado me apasiona las tecnologias desde chico y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes a futuro.
+
+
+# Equipos Favoritos Y Jugadores Favoritos
+
+Fc Barcelona y Andres Iniesta
+<img src="https://www.google.cl/search?q=fc+barcelona&sxsrf=ALeKk00pOwbeethLuoc475DdtXXcS5cwlg:1605210849025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgciz5P3sAhVCH7kGHftYCSoQ_AUoAXoECCsQAw&biw=1366&bih=657#imgrc=_OICV_cwIPEodM&imgdii=XXuftGb3jdso4M" width="150" />
+
+<img src="https://www.google.cl/search?q=Andres+Iniesta&tbm=isch&ved=2ahUKEwjRgOm05P3sAhXYALkGHQynC0oQ2-cCegQIABAA&oq=Andres+Iniesta&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BwgjEOoCECc6BAgAEEM6BQgAELEDUKLjBFjfiAVg34kFaAFwAHgBgAFKiAGlC5IBAjI1mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=45KtX5GDKNiB5OUPjM6u0AQ&bih=657&biw=1366#imgrc=0A4f_gOPmEVVOM" width="150" />
+
+Roger Federer
+
+
+<img src="https://www.google.cl/search?q=roger+federer&tbm=isch&ved=2ahUKEwi7tqrd5P3sAhU4BLkGHe7iBwcQ2-cCegQIABAA&oq=roger+fede&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoHCCMQ6gIQJzoECCMQJzoECAAQQ1C4yQZYxtUGYNfgBmgBcAB4AIABQYgBiwSSAQIxMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=OJOtX7u6JbiI5OUP7sWfOA&bih=657&biw=1366#imgrc=-hbIq8hflw5s7M" width="150" />
+
+
 
 # Juegos favoritos
 Sinceranmente no soy mucho de videojuegos, pero tengo algunas preferencias que me gustaria mencionar:
@@ -43,6 +58,14 @@ Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en E
 [AzureDevops Desarrollo-Web](https://dev.azure.com/FELIPEROJASG0483).
 
 [Github](https://github.com/FelipeRojas1998/wiki-uv).
+
+[DockerHub](https://hub.docker.com/repository/docker/feliperojas1998/curso1_validador_docker).
+
+[Pagina Personal](https://feliperojas.me/).
+
+[Pagina Validador](https://validador.feliperojas.me/).
+
+
 
 
 # Comentario del profesor
