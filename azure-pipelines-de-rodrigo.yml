@@ -25,32 +25,20 @@ steps:
     mv ./* ../github-docs
     ls -a ../github-docs/
     
-    git config --global user.email "rodrigo.montenegro@alumnos.uv.cl"
-    git config --global user.name "Rodrigomontenegrofarias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
     
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
-    
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
+    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web
+        
     cd web
+    git checkout draft || git checkout -b draft
     mkdir static
     mkdir static/.attachments
     mkdir content
-    pwd
-    
+    pwd    
     cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
-
+    cp -r ../github-docs/* ./web/content
+    cp -r ../github-docs/.attachments/* ./web/static/.attachments
     pwd
     echo $(Build.SourcesDirectory)
-
-
   displayName: 'clone from github to wiki'
 
 
@@ -112,7 +100,6 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
 
 
 

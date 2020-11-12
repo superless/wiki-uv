@@ -18,39 +18,24 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
-    ls -a ../github-docs/
-    
-    git config --global user.email "rodrigo.montenegro@alumnos.uv.cl"
-    git config --global user.name "Rodrigomontenegrofarias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
-    
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web
-    mkdir static
-    mkdir static/.attachments
-    mkdir content
-    pwd
-    
-    cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
-
-    pwd
-    echo $(Build.SourcesDirectory)
-
-
+   echo "clonando sitio web"
+   
+   git config --global user.email "nicolas.delgadog@alumnos.uv.cl"
+   git config --global user.name "Slimpler"
+   git clone https://github.com/Slimpler/netly.git web   
+   echo "creando carpeta en un nivel más atrás"
+   mkdir ./../web   
+   echo "moviendo sitio web"
+   mv web/* ./../web
+   echo "creando carpetas estáticas"     
+   mkdir ./../web/content
+   echo "copiando contenido"   
+   mv ./* ./../web/content
+   mkdir web
+   echo "ubicando toda la web mezclada en carpeta web"
+   mv ./../web/* ./web
+   
+   
   displayName: 'clone from github to wiki'
 
 
@@ -112,7 +97,6 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
 
 
 

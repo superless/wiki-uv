@@ -18,41 +18,29 @@ steps:
 # fin nodejs
 
 - script: |
-    ls -a
-    mkdir ../github-docs
-    mkdir ../github-docs/.attachments
-    mv ./.attachments/* ../github-docs/.attachments
-    mv ./* ../github-docs
-    ls -a ../github-docs/
+    echo "configurando git"
     
-    git config --global user.email "rodrigo.montenegro@alumnos.uv.cl"
-    git config --global user.name "Rodrigomontenegrofarias"    
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog.wiki blg    
-    
-    cp -r ../github-docs/.attachments/* ./blg/.attachments     
-    cp -r ../github-docs/* ./blg     
-    
-    cd blg    
-    git add . && git commit -m "actualizacion documentacion"    
-    git push origin wikiMaster    
-    cd ..
-    git clone https://alejandro.iglesias:$(token)@dev.azure.com/yo-fenix/blog/_git/blog web    
-    cd web
-    mkdir static
-    mkdir static/.attachments
-    mkdir content
-    pwd
-    
-    cd ..
-    cp -r ./blg/* ./web/content
-    cp -r ./blg/.attachments/* ./web/static/.attachments
+    git config --global user.email "fabian.rozas@alumnos.uv.cl"
+    git config --global user.name "Fabianrozas23"    
+    echo "clonando pagina web"
+    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
+    mkdir ./../web
+    mv web/* ./../web
+    echo "creando carpetas"
+    mkdir ./../web/static
+    mkdir ./../web/static/.attachments
+    mkdir ./../web/content
 
-    pwd
-    echo $(Build.SourcesDirectory)
+    echo "copiando contenido"
+    mv ./.attachments/* ./../web/static/.attachments
+    mv ./* ./../web/content
+    mkdir web
+    mv ./../web/* ./web
 
+  displayName: 'Paso 1, asociando contenido'
 
-  displayName: 'clone from github to wiki'
-
+- script: |   
+    echo "Reemplazando variables"
 
 - task: replacetokens@3
   inputs:
@@ -61,14 +49,14 @@ steps:
     encoding: 'auto'
     writeBOM: true
     actionOnMissing: 'warn'
-    keepToken: false
+    keepToken: false 
     tokenPrefix: '#{'
     tokenSuffix: '}#'
     useLegacyPattern: false
     enableTelemetry: false
 
 #instalando gatsby
-- script: |   
+- script: |    
     npm install -g gatsby-cli
   displayName: 'instalando gatsby'
 #fin gatsby
