@@ -58,3 +58,9 @@ Mi principal objetivo en este momento es poder terminar mi carrera, aprender nue
 [AzureDevops](https://dev.azure.com/sebastiangonzalez0175).
 
 [Github](https://github.com/SebastianGonzalezMorales).
+
+
+
+# Comentario
+
+Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.
