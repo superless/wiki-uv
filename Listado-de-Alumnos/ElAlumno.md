@@ -17,7 +17,7 @@ Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por mu
 
 Fc Barcelona y Andres Iniesta
 <center>
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFC_Barcelona&psig=AOvVaw0nCRA_iTvgKEEsaAjjcQCY&ust=1605297734761000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjh65vm_ewCFQAAAAAdAAAAABAD" width="150" />
+   <img src="https://pm1.narvii.com/5994/c99d7523cb8063c40632b259e3d222162961eccf_00.jpg" width="150" />
    </center>
 
 <img src="https://www.google.cl/search?q=Andres+Iniesta&tbm=isch&ved=2ahUKEwjRgOm05P3sAhXYALkGHQynC0oQ2-cCegQIABAA&oq=Andres+Iniesta&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BwgjEOoCECc6BAgAEEM6BQgAELEDUKLjBFjfiAVg34kFaAFwAHgBgAFKiAGlC5IBAjI1mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=45KtX5GDKNiB5OUPjM6u0AQ&bih=657&biw=1366#imgrc=0A4f_gOPmEVVOM" width="150" />
@@ -30,7 +30,7 @@ Roger Federer
 
 
 # Juegos favoritos
-Sinceranmente no soy mucho de videojuegos, pero tengo algunas preferencias que me gustaria mencionar:
+Sinceramente no soy mucho de videojuegos, pero tengo algunas preferencias que me gustaria mencionar:
 
 1. Call of duty Modern Warfare
 2. Fifa 20 (En general todos los Fifas)
