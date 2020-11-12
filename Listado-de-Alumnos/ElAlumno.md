@@ -16,20 +16,24 @@ Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por mu
 # Equipos Favoritos Y Jugadores Favoritos
 
 Fc Barcelona y Andres Iniesta
-<center>
-   <img src="https://pm1.narvii.com/5994/c99d7523cb8063c40632b259e3d222162961eccf_00.jpg" width="150" />
-   <img src="https://cdn.britannica.com/92/163892-050-420A2632/Andres-Iniesta-Spanish.jpg" width="150" />
-   </center>
+
 
 <center>
-    <img src="https://cdn.britannica.com/92/163892-050-420A2632/Andres-Iniesta-Spanish.jpg" width="150" />
+    <img src="https://en.as.com/en/imagenes/2019/08/30/football/1567184768_877168_noticia_normal.jpg" width="200" />
     </center>
 
 Roger Federer
 
 <center>
-    <img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20201019232800/GettyImages-1199253393.jpg" width="150" />
+    <img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20201019232800/GettyImages-1199253393.jpg" width="200" />
     </center>
+
+Michael Jordan y Los Chicago Bulls
+
+<center>
+    <img src="https://plazadeportiva.valenciaplaza.com/public/Image/2020/4/deportes-008_13682059_20200416103203_forCrop.jpg" width="200" />
+    </center>
+
 
 
 # Juegos favoritos
