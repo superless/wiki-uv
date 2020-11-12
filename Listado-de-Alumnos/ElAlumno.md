@@ -20,13 +20,15 @@ Fc Barcelona y Andres Iniesta
    <img src="https://pm1.narvii.com/5994/c99d7523cb8063c40632b259e3d222162961eccf_00.jpg" width="150" />
    </center>
 
-<img src="https://www.google.cl/search?q=Andres+Iniesta&tbm=isch&ved=2ahUKEwjRgOm05P3sAhXYALkGHQynC0oQ2-cCegQIABAA&oq=Andres+Iniesta&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BwgjEOoCECc6BAgAEEM6BQgAELEDUKLjBFjfiAVg34kFaAFwAHgBgAFKiAGlC5IBAjI1mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=45KtX5GDKNiB5OUPjM6u0AQ&bih=657&biw=1366#imgrc=0A4f_gOPmEVVOM" width="150" />
+<center>
+    <img src="https://cdn.britannica.com/92/163892-050-420A2632/Andres-Iniesta-Spanish.jpg" width="150" />
+    </center>
 
 Roger Federer
 
-
-<img src="https://www.google.cl/search?q=roger+federer&tbm=isch&ved=2ahUKEwi7tqrd5P3sAhU4BLkGHe7iBwcQ2-cCegQIABAA&oq=roger+fede&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoHCCMQ6gIQJzoECCMQJzoECAAQQ1C4yQZYxtUGYNfgBmgBcAB4AIABQYgBiwSSAQIxMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=OJOtX7u6JbiI5OUP7sWfOA&bih=657&biw=1366#imgrc=-hbIq8hflw5s7M" width="150" />
-
+<center>
+    <img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20201019232800/GettyImages-1199253393.jpg" width="150" />
+    </center>
 
 
 # Juegos favoritos
