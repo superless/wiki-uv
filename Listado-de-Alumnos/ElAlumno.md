@@ -16,7 +16,9 @@ Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por mu
 # Equipos Favoritos Y Jugadores Favoritos
 
 Fc Barcelona y Andres Iniesta
-<img src="https://www.google.cl/search?q=fc+barcelona&sxsrf=ALeKk00pOwbeethLuoc475DdtXXcS5cwlg:1605210849025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgciz5P3sAhVCH7kGHftYCSoQ_AUoAXoECCsQAw&biw=1366&bih=657#imgrc=_OICV_cwIPEodM&imgdii=XXuftGb3jdso4M" width="150" />
+<center>
+   <img src="https://www.google.com/search?q=fc+barcelona&rlz=1C1CHZN_esCL925CL925&sxsrf=ALeKk01rArDyYNuVmuWj49nXLrR9f4InkA:1605211333278&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3sbya5v3sAhX2IrkGHTWZBRAQ_AUoAXoECCoQAw&biw=1366&bih=657#imgrc=_OICV_cwIPEodM" width="150" />
+   </center>
 
 <img src="https://www.google.cl/search?q=Andres+Iniesta&tbm=isch&ved=2ahUKEwjRgOm05P3sAhXYALkGHQynC0oQ2-cCegQIABAA&oq=Andres+Iniesta&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BwgjEOoCECc6BAgAEEM6BQgAELEDUKLjBFjfiAVg34kFaAFwAHgBgAFKiAGlC5IBAjI1mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=45KtX5GDKNiB5OUPjM6u0AQ&bih=657&biw=1366#imgrc=0A4f_gOPmEVVOM" width="150" />
 
