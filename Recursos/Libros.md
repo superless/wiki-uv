@@ -1,5 +1,5 @@
 ---
-title: "Libros Everywhere"
+title: "Libros relacionados"
 metaTitle: "Libros para el conocimiento informático"
 metaDescription: "Recursos go go go!"
 ---
