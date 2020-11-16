@@ -29,6 +29,16 @@ ___
 
 [Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
+## Páginas personales
+
+[GITHUB](https://github.com/franig24)
+
+[Azure Deveops](https://dev.azure.com/dwuv2020/Taller%201)
+
+[Belmingo.me](https://belmingo.me)
+
+[Validador](https://validador.belmingo.me)
+
 
 # Comentario Profesor
 
