@@ -27,9 +27,6 @@ Documental que refleja los negocios de la india y la tecnología.
 <YouTube youTubeId="tHLsEcZY5gY" />
 
 # KnowMads
-<YouTube youTubeId="zjyNfuNWBpw" />
-
-# Noam Chomsky.
 <YouTube youTubeId="W9aalxJGy_Y" />
 
 
