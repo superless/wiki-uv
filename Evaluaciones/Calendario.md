@@ -1,5 +1,5 @@
 ---
-title: "Calendarios de evaluacion"
+title: "Calendarios de evaluación"
 metaTitle: "Evaluacion por grupos"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
