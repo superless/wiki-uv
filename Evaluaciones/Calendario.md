@@ -16,7 +16,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 
 # Condiciones
-1. Fecha de Termino para incluir sus horarios mañana, a través de un pull request en este archivo será mañana 17 de Noviembre de 2020.
+1. Fecha de Termino para incluir sus horarios mañana 17 de Noviembre de 2020, a través de un pull request en este archivo.
 2. El máxima fecha para mostrar sus avances será el 27 de noviembre.
 3. Se evaluará bajo la regla de nanny mcphee, compromiso, creatividad y colaboración.
 
