@@ -1,16 +1,31 @@
+<<<<<<< HEAD
+=======
+---
+title: "Makarena Silva"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
 
 ## Presentación
+<<<<<<< HEAD
 ### La Informática y yo.
 
 Mi nombre es **Makarena Dominic Silva Baradit**, estudiante de Ingeniería de ejecución informática en la **Universidad de Valparaíso**. Nací el 1 de Agosto de 1993, Viña del Mar, Chile.
+=======
+
+Mi nombre es **Makarena Dominic Silva Baradit**, estudiante de Ingeniería en ejecución informática en la **Universidad de Valparaíso**. Nací el 1 de Agosto de 1993, Viña del Mar, Chile.
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 
 Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia también me ha hecho redescubrir mi amor por la jardinería.
 
 Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad.
 
+<<<<<<< HEAD
 En 2012 ingresé a estudiar Ingeniería en Ejecución informática en la Universidad Católica de Valparaíso, lamentablemente, mi mal desempeño me llevó a irme eliminada de la carrera. Ahora vamos a por el segundo round en la Universidad de Valparaíso. Como dicen: Querer es poder.
 
 ### Algo de mi vida.
@@ -22,12 +37,15 @@ Viví desde que tuve 1 a 7 años en Mendoza, Argentina. Pero ya no queda nada de
 
 
 ## Facts
+=======
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 | Campo ||
 | ---- |----|
 | Nombre | Makarena Dominic Silva Baradit  |
 | Edad  | ???  |
 | Signo del Zodiaco | Leo |
 | ¿Pepsi o Coca Cola? | Pepsi. |
+<<<<<<< HEAD
 | Asignaturas del Semestre | Desarrollo Web, Arquitectura de Software y Seminario de Título. |
 | Mascotas | Sí, 2 perros. Aunque uno se cree gato. |
 | Género Musical favorito | Dark Wave |
@@ -44,10 +62,13 @@ Puedes encontrarme en
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
 - [Dominio asociado a Netlify] (https://www.makarena-silva.me/)
+=======
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 
 
 ## Comentario del profesor
 
+<<<<<<< HEAD
 >"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
 >
 >Me encantó Macarena, es el espiritú que todos llevamos dentro!
@@ -59,4 +80,13 @@ Puedes encontrarme en
 _¡Agradezco su comentario y la motivación que comparte!_
  <sub>[por Makarena Silva 25/09/2020]</sub>
 
+=======
+"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
+
+Me encantó Macarena, es el espiritú que todos llevamos dentro!
+
+No olvides publicar tu github y Azure Devops.
+
+No pierdas la motivación.
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 

@@ -4,6 +4,7 @@ metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
+<<<<<<< HEAD
 # Cristian Valencia 
 
 ## Presentacion
@@ -42,12 +43,25 @@ ___
 Mi [Azure](https://dev.azure.com/DesArq2020/_git/TallerN01)
 
 Mi [Github](https://github.com/CristianValenciaA)
+=======
+## Cristian Valencia 
+
+
+Alumno de la Universidad de Valparaiso, cursando entre 4-5 año.  
+
+Me gusta hacer todo tipo de deporte y aprender.
+
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 
 ## Comentario Profesor
 
 Hola Cristian, me gustaría saber más de ti, cosas como cual es tu motivación por la tecnología, que esperas lograr con ella, tus fortalezas, aprendes leyendo o videos. Recuerda, las personas son en el tiempo, las personas del pasado ya no existen, el tiempo es ahora, amigo mío.
 
+<<<<<<< HEAD
 # Comentario Ignacio Alvarado
 Hola compañero, no sabia que le gustaba el valorant, cuando sus partidas?
 
  
+=======
+Necesito que incluya su devops y su repositorio de github. 
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
