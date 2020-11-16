@@ -14,7 +14,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Poner acá sus horarios
 
-### **Francisco Beltrami** - Lunes, Martes, Miércoles de 20:00 en adelante. 
+### Francisco Beltrami - Lunes, Martes, Miércoles de 20:00 en adelante. 
 
 # Condiciones
 
