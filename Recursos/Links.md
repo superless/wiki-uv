@@ -28,7 +28,7 @@ metaDescription: "Recursos go go go!"
 
 ### azure
 
-[Usando azure devops con Gitversion para el control de ramas](http://thecollaborationcorner.com/2019/02/28/azure-devops-with-spfx-gitflow-gitversion/)
+
 
 
 
