@@ -15,8 +15,14 @@ En cuanto a musica soy super diverso pero no suelo disfrutar la musica latina nu
 Este soy yo, no hago deporte, no dibujo, no toco ningun instrumento ni tampoco soy bueno para bailar, solo un sujeto promedio un poco asocial que disfruta del internet.
 
 Github: https://github.com/AlejandroOliverosVera
+
 Azure: https://dev.azure.com/AlejandroOliveros
+
+Página web: https://pruebanode.nokker.tech/
+
+Docker: https://hub.docker.com/repository/docker/nokker/docker1-pruebanode
 
 ## Comentario de por ahí
 
 Chinito y todo te quiero caleta <3
+
