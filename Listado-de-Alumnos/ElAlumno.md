@@ -6,7 +6,6 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Alumno Felipe Rojas
 
-<<<<<<< HEAD
 Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años, estudie en el Colegio Santo Domingo de Valparaíso toda mi enseñanza basica y media. Luego ingrese a la Universidad de Valparaiso con 17 años a la carrera de Ingenieria Civil Informatica. Principalmente me considero una persona bien responsable, organizada, solidaria con los demas pero por otro lado soy un poco timido y me complico aveces las cosas con muy poco.
 
 # Hobbies
@@ -92,13 +91,6 @@ Me parece que el enfoque que se le esta dando a la asignatura en relación a las
 
 
 
-=======
-Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años y soy estudiante de la Escuela de Ingenieria Civil Informatica de la UV.
-
-Uno de mis hobbies es hacer mucho deporte en general en especial basquetbol y futbol, pero por otro lado me apasiona las tecnologias y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes.
-
-Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en Europa para generar nuevas tecnologias e ir en ayuda para el área de la salud.
->>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 
 # Comentario del profesor
 Bien Felipe, me alegro tu interés, como haz podido ver las cosas empiezan lentas, pero la constancia es el mejor mentor y cuando no te des cuenta, estarás en la matrix logrando cosas que quizas jamas pensaste lograr.
@@ -113,10 +105,7 @@ Felicitaciones!
 
 Necesito tu devops y tu github ;)
 
-<<<<<<< HEAD
 # Comentario de Ian
 
 ![Cat GIF](https://media1.tenor.com/images/74c41c98783554836885431c5f3e2826/tenor.gif?itemid=7396707 "Mi reacción")
-=======
->>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 
