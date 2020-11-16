@@ -13,7 +13,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Poner acá sus horarios
 
-
+### **Francisco Beltrami** - Lunes, Martes, Miércoles de 20:00 en adelante. 
 
 # Condiciones
 1. Fecha de Termino para incluir sus horarios mañana 17 de Noviembre de 2020, a través de un pull request en este archivo.
