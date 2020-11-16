@@ -44,6 +44,7 @@ Sinceramente no soy mucho de videojuegos, pero tengo algunas preferencias que me
 3. Star Wars Battlefront2
 4. Fall Guys
 5. Among us
+6. Rocket League
 
 # Musica
 
@@ -60,7 +61,18 @@ En general tengo mas preferencias por el Rock de la decada de los 80s y 90s, aun
 
 # Metas
 
-Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en Europa para generar nuevas tecnologias e ir en ayuda para el área de la salud.
+1- Mi meta propuesta hoy en dia a corto plazo es terminar mi carrera universitaria y ejercer como profesional en alguna empresa de software u otra.
+
+2- Poder viajar por el mundo, documentar las bellezas, paisajes y las diversas culturas que existen.
+
+3- Tener una familia, una casa propia y tener varios departamentos o una pymes para despues vivir de ello.
+
+4- Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en Europa para generar nuevas tecnologias e ir en ayuda para el área de la salud.
+
+
+# Opinion con respecto a la asignatura
+
+Me parece que el enfoque que se le esta dando a la asignatura en relación a las herramientas entregadas y a la metodologia empleada ya sea practico o teorico en el ramo ha sido de lo mejor. Podemos contar con tiempo para realizar las actividades, tengo la motivación para aprender por mi cuenta y si tenemos algun problema el profesor siempre estara dispuesto a ayudarnos, donde tiene muy buena disponibilidad hacia sus alumnos. Por otro lado siempre nos da consejos para mejorar y algunos tips que los necesitaremos para un futuro cercano.
 
 # Información asignatura.
 
@@ -73,6 +85,9 @@ Una de mis metas a largo plazo es tener mi propia empresa ya sea en Chile o en E
 [Pagina Personal](https://feliperojas.me/).
 
 [Pagina Validador](https://validador.feliperojas.me/).
+
+[Pagina Semantic-ui](https://semantic-ui.feliperojas.me/).
+
 
 
 

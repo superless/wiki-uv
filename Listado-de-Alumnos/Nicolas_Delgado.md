@@ -5,7 +5,7 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 ---
 # Nicolas Delgado Oyarce
 
-<img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/103836160_3571339666228397_2712104757136323281_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=-lBUj2sKEUUAX_cjKQB&_nc_ht=scontent.fscl15-1.fna&oh=174a936ac0c214bd751136bccd9be0a6&oe=5F8F2A9B" width="150" />
+<img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/29177351_2018434261518953_8665620458445471744_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=BBNGKVETA7UAX-UQ9Y1&_nc_ht=scontent.fscl15-1.fna&oh=5e7a09c21da67047f78b307f8a9ecdc0&oe=5FD323BF" width="150" />
 
 
 Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática
@@ -18,10 +18,18 @@ Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos 
 ### Música 🎸
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante, si tienen el tiempo escuchen estas canciones.
 
->>| [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU) | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk) | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&) | 
->>| [Dio - Holy Diver](https://www.youtube.com/watch?v=EhGEGIBGLu8&) | [Joe Vasconcellos - Ciudad Traicionera](https://www.youtube.com/watch?v=wTDBSAe3BRM&)| [Fito Paez - Giros](https://www.youtube.com/watch?v=COLoaja5APg&) |
->>| [Los Fabullos Cadillacs - Manuel Santillán](https://www.youtube.com/watch?v=NhsUcmV32HY&) | [The Rolling Stones - You Can't Always Get What You want](https://www.youtube.com/watch?v=Ef9QnZVpVd8&) | [Red hot Chilli Peppers  - Californication](https://www.youtube.com/watch?v=YlUKcNNmywk&) |
->>| [Los Prisioneros - Amiga Mia](https://www.youtube.com/watch?v=G7i337jC8fk&) | [Maná - En el Muelle de San Blás](https://www.youtube.com/watch?v=teprNzF6J1I&) | [Rainbow - Temple of the King](https://www.youtube.com/watch?v=B7nKzCRL_oo&) |
+| [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU)|
+| [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk)|
+| [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&)|
+| [Dio - Holy Diver](https://www.youtube.com/watch?v=EhGEGIBGLu8&)|
+| [Joe Vasconcellos - Ciudad Traicionera](https://www.youtube.com/watch?v=wTDBSAe3BRM&)|
+| [Fito Paez - Giros](https://www.youtube.com/watch?v=COLoaja5APg&)|
+| [Los Fabullos Cadillacs - Manuel Santillán](https://www.youtube.com/watch?v=NhsUcmV32HY&)| 
+| [The Rolling Stones - You Can't Always Get What You want](https://www.youtube.com/watch?v=Ef9QnZVpVd8&)| 
+| [Red hot Chilli Peppers  - Californication](https://www.youtube.com/watch?v=YlUKcNNmywk&) |
+| [Los Prisioneros - Amiga Mia](https://www.youtube.com/watch?v=G7i337jC8fk&)| 
+| [Maná - En el Muelle de San Blás](https://www.youtube.com/watch?v=teprNzF6J1I&)| 
+| [Rainbow - Temple of the King](https://www.youtube.com/watch?v=B7nKzCRL_oo&) |
 
 ### Videojuegos 🎮
 No soy un gran aficionado a videojuegos, aunque me gusta tener consolas. Suelo jugar fifa y en mi minisnes mario 3. 
@@ -34,14 +42,16 @@ Durante mucho tiempo fui un adicto a las series y peliculas. Actualmente he esta
 - Game of Thrones
 - Bored to Death
 - American Horror Story
+- Futurama
 
 ### Libros📚
 Me gusta mucho leer aunque la verdad me gustaria hacerlo de forma más seguida de la que lo hago. Mi genero favorito es la ciencia ficción, pero hay libros de distintos generos que me han encantado, algunos libros que deben leer son:
 - 1984 - George Orwell
 - Cien Años de Soledad - Gabriel Garcia Marquez
 - Viaje al Centro de la Tierra - Jules Verne
+- 
 
-+ ### Favoritos 
+### Favoritos 
 >>| Intereses | Favorito | Preview |
 >>| :----- | :----: | ------: |
 >>| *Musica* | Los Prisioneros | [Estrechez de corazón](https://www.youtube.com/watch?v=YtKTyFNbE58&ab_channel=LosPrisioneros-Topic) |
@@ -58,11 +68,12 @@ Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 Viajen, vivan, experimenten y vuelvan a repetir!
 
-Gracias por leer
+## Herramientas
 
 - https://dev.azure.com/nicolasdelgado/Desarrollo-Web/
 - https://github.com/Slimpler/wiki-uv
 - http://www.nicolas-delgado.me/
+- https://validador.nicolas-delgado.me/
 
 ___
 
@@ -73,12 +84,13 @@ Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de l
 
 Estas en el camino adecuado para lograr tus sueños.
 
-# Respondiendo Comentarios
-
-- Gracias profesor por el comentario. Saludos.
-
 # Comentario Felipe Rojas
 
 Buena hermano, espero que estes bien y sigue adelante con tus proyectos..
 
-- Hola amigaso, muchas gracias y tu sigue con lo tuyo!!
+
+# Respondiendo Comentarios
+
+- Reapuesta a profesor: Gracias profesor por el comentario. Saludos. Gracias por las enseñanzas de este curso.
+
+- Respuesta a Felipe Rojas: Hola amigaso, muchas gracias y tu sigue con lo tuyo!!
