@@ -105,6 +105,12 @@ Bien Felipe, me alegro tu interés, como haz podido ver las cosas empiezan lenta
 
 Animo y perseverancia!!
 
+# Comentario 2 del profesor
+Muy bien Felipe, gran trabajo, gran avance! 
+Felicitaciones!
+
+
+
 Necesito tu devops y tu github ;)
 
 <<<<<<< HEAD
