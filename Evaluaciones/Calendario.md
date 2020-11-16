@@ -11,13 +11,15 @@ metaDescription: "Arquitectura de software y desarrollo web."
 3. Para la asignatura de Arquitectura de software se pedirá el docker y la gestión de ramas.
 4. Para la asignatura de desarrollo web, se pedirá semantic ui, gestión de propiedades y estados, formularios y menús
 
+
 # Poner acá sus horarios
 
 ### **Francisco Beltrami** - Lunes, Martes, Miércoles de 20:00 en adelante. 
 
 # Condiciones
+
 1. Fecha de Termino para incluir sus horarios mañana 17 de Noviembre de 2020
-2. Los horarios se deberan indicar arriba, con un pull request, modificando este archivo, Calendario.md.
+2. Los horarios se deberan indicar arriba, con un pull request, modificando este archivo, Calendario md.
 3. El máxima fecha para mostrar sus avances será el 27 de noviembre.
 4. Se evaluará bajo la regla de nanny mcphee, compromiso, creatividad y colaboración.
 
