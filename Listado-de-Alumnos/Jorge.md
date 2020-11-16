@@ -5,6 +5,7 @@ Me gusta escribir poesia, ir a exposiciones e ir al bosque.
 
 # Intereses 
 ***
+- Data Science
 - Desarrollo web.
 - Aprender nuevas tecnologias.
 - Buscar nuevas formas de crear.
@@ -16,7 +17,7 @@ Me gusta escribir poesia, ir a exposiciones e ir al bosque.
 
 Mis principales motivaciones del curso es aprender de react, ya que con esto me permitiria crear y visualizar de mejor forma mis propios proyectos a corto plazo, tambien el area del desarrollo me interesa mucho y quiero trabajar en este ambiente.
 
-Mi pagina es la siguiente [Jorge Rodriguez](https://jorgerodrigueza.me/)
+Mi Github de semantic-UI [Formulario en Semantic](https://github.com/jorgeRodriguezAntiquera/Semantic-Formulario)
 
 # Comentario Felipe Rojas
 
