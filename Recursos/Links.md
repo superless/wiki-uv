@@ -50,10 +50,11 @@ metaDescription: "Recursos go go go!"
 
 [Pintando con codigo - Airbnb Diseño](https://airbnb.design/painting-with-code/)
 
-### Conocimiento
+### .Net
 
 [Links diarios para desarrolladores dotnet](https://www.alvinashcraft.com/)
 puro oro :)
+[Net Core es sexy y lo sabes](https://itnext.io/https-medium-com-buisson-jeremy-net-core-is-sexy-and-you-should-know-it-a3d0c2eeedc4)
 
 
 
