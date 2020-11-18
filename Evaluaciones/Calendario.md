@@ -14,7 +14,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Poner acá sus horarios
 
-### Francisco Beltrami - Lunes, Martes, Miércoles de 20:00 en adelante. 
+### Rodrigo Montenegro + Francisco Beltrami - Lunes, Martes, Miércoles de 20:00 en adelante. 
 ### Ana Muñoz + Alejandro Oliveros - Jueves 26 de noviembre de 19:00 en adelante
 
 ### Felipe Rojas + Jorge Rodriguez + Sebastian Gonzalez + Nicolas Delgado  -Miercoles 25 de noviembre a las 11:00
