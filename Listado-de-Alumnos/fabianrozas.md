@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+title: "Fabian Rozas"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+>>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
 
 # Presentación Fabián Rozas Alfaro
 

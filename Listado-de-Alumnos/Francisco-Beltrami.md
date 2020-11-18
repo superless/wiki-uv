@@ -18,6 +18,7 @@ ___
 >>| *Chileno* | Diego Lorenzini | [Sí Po'](https://www.youtube.com/watch?v=9z9Czk2C5TU) |
 >>| *Argentino* | Gustavo Cerati | [Otra Piel](https://www.youtube.com/watch?v=kYfmEdC7fxU) |
 >>___Entre otros___
+<<<<<<< HEAD
 + ### Juegos
 En mi tiempo libre juego con mis amigos:
 >> Overwatch
@@ -33,18 +34,32 @@ En mi tiempo libre juego con mis amigos:
 Una de mis plantas preferidas, principalmente por su beneficio médico, es la **Melisa**, cuya acción funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
 
 <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250"  />
+=======
++ ### Plantas
+Una de mis plantas preferidas, principalmente por su beneficio medico (reduntante como planta medicinal) es la **Melisa**, cuya accion funciona como sedante, antidepresiva, estimulante digestiva, vasodilatadora periférica, diaforética, reconstituyente y relajante del sistema nervioso, antiviral y antibacteriana.
+
+>> <img src="https://ecocosas.com/wp-content/uploads/2019/05/melisa-768x768.jpg" width="250" />
+>>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
 
 ___
 ## Herramientas para el desarrollo
 [Edición de MD](https://joedicastro.com/pages/markdown.html#mark1)
 
+<<<<<<< HEAD
 [Edición de img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+=======
+[Edición de Img](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
-[GitHub](https://github.com/franig24)
+## Páginas personales
+>>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
 
-[Azure DevOps](https://dev.azure.com/dwuv2020/Taller%201)
+[GITHUB](https://github.com/franig24)
 
-[Belmingo](https://belmingo.me)
+[Azure Deveops](https://dev.azure.com/dwuv2020/Taller%201)
+
+[Belmingo.me](https://belmingo.me)
+
+[Validador](https://validador.belmingo.me)
 
 [Belmingo](https://validador.belmingo.me)
 

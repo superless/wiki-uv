@@ -74,7 +74,7 @@ Viajen, vivan, experimenten y vuelvan a repetir!
 - https://github.com/Slimpler/wiki-uv
 - http://www.nicolas-delgado.me/
 - https://validador.nicolas-delgado.me/
-
+- https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker
 ___
 
 

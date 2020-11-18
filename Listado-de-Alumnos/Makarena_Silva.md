@@ -1,11 +1,28 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+---
+title: "Makarena Silva"
+metaTitle: "Presentacion"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
+>>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
+>>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
 
 ## Presentación
+<<<<<<< HEAD
 ### La Informática y yo.
 
 Mi nombre es **Makarena Dominic Silva Baradit**, estudiante de Ingeniería de ejecución informática en la **Universidad de Valparaíso**. Nací el 1 de Agosto de 1993, Viña del Mar, Chile.
+=======
+
+Mi nombre es **Makarena Dominic Silva Baradit**, estudiante de Ingeniería en ejecución informática en la **Universidad de Valparaíso**. Nací el 1 de Agosto de 1993, Viña del Mar, Chile.
+>>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
 
 Mi pasatiempo es el dibujo digital y ocasionalmente los videojuegos. La pandemia también me ha hecho redescubrir mi amor por la jardinería.
 
