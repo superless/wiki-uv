@@ -23,7 +23,7 @@ Las historias encajan perfectamente en marcos ágiles como scrum y kanban. En sc
 ![image.png](/.attachments/estructura.png)
 
 
-#**¿Por qué crear historias de usuario?**
+# ¿Por qué crear historias de usuario?
 Los relatos de los usuarios aportan una serie de beneficios clave:
 
 - **Las historias mantienen el foco en el usuario.** Una lista de tareas pendientes mantiene al equipo centrado en las tareas que necesitan ser marcadas, pero una colección de historias mantiene al equipo centrado en la resolución de problemas para usuarios reales.
@@ -34,7 +34,7 @@ Los relatos de los usuarios aportan una serie de beneficios clave:
 
 - **Las historias crean impulso.** Con cada historia que pasa, el equipo de desarrollo disfruta de un pequeño desafío y una pequeña victoria, lo que fomenta el impulso.
 
-#**Trabajar con historias de usuario**
+# Trabajar con historias de usuario
 
 Una vez que se ha escrito una historia, es hora de integrarla en tu flujo de trabajo. Por lo general, una historia la escribe el propietario del producto, el gestor de producto o el gestor de programa, y la envía para su revisión.
 
@@ -42,7 +42,7 @@ Durante una reunión de planificación de sprint o iteración, el equipo decide 
 
 Otro paso común en esta reunión es calificar las historias en función de su complejidad o tiempo hasta su finalización. Los equipos usan las tallas de las camisetas, la secuencia de Fibonacci o el póquer de planificación para hacer las estimaciones adecuadas. Una historia debe ser de un tamaño que pueda completarse en un sprint; por lo tanto, cuando el equipo establezca las especificaciones de cada historia, se deben asegurar de dividir las historias que superen ese horizonte de finalización.
 
-#**Cómo escribir historias de usuario**
+# Cómo escribir historias de usuario
 
 - **Definición de "Hecho":** La historia se suele considerar "hecha" cuando el usuario puede completar la tarea designada, pero asegúrate de definirla.
 
@@ -58,11 +58,11 @@ Otro paso común en esta reunión es calificar las historias en función de su c
  
 Una vez que se han definido claramente las historias de usuario, asegúrate de que sean visibles para todo el equipo.
 
-#**Plantilla y ejemplos de historias de usuario**
+#Plantilla y ejemplos de historias de usuario
 
 Las historias de usuario suelen expresarse en una sencilla frase, y estructurarse de la siguiente manera:
 
-#**"Como [perfil], yo [quiero], [para que]."**
+# "Como [perfil], yo [quiero], [para que]."
 
 Al desglosar esta idea: 
 
