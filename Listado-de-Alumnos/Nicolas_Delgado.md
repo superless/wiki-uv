@@ -72,21 +72,12 @@ Viajen, vivan, experimenten y vuelvan a repetir!
 
 ## Sitios
 
-<<<<<<< HEAD
 - [Azure] (https://dev.azure.com/nicolasdelgado/Desarrollo-Web/)
 - [Github](https://github.com/Slimpler/wiki-uv)
 - [MiPágina](http://www.nicolas-delgado.me/)
 - [Validador](https://validador.nicolas-delgado.me/)
 - [DockerHub](https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker)
 - [Semantic-ui](https://semantic-ui.nicolas-delgado.me/)
-=======
-- https://dev.azure.com/nicolasdelgado/Desarrollo-Web/
-- https://github.com/Slimpler/wiki-uv
-- http://www.nicolas-delgado.me/
-- https://validador.nicolas-delgado.me/
-- https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker
-- https://semantic-ui.nicolas-delgado.me/
->>>>>>> 152f75d5d21760794c901090ba40a7ff54050f08
 
 
 # Comentario del profesor
