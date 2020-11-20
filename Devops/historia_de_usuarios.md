@@ -62,11 +62,11 @@ Una vez que se han definido claramente las historias de usuario, asegúrate de q
 
 Las historias de usuario suelen expresarse en una sencilla frase, y estructurarse de la siguiente manera:
 
-# "Como [perfil], yo [quiero], [para que]."
+# "Como perfil, yo quiero, para que."
 
 Al desglosar esta idea: 
 
-- "Como [perfil]": ¿para quién lo estamos creando? No solo buscamos un cargo, sino que buscamos el perfil de una persona. Max. Todos los miembros del equipo deben comprender quién es Max. Es muy probable que hayamos entrevistado a muchos Max. Entendemos cómo trabaja esa persona, cómo piensa y cómo se siente. Tenemos empatía hacia Max.
+- "Como perfil": ¿para quién lo estamos creando? No solo buscamos un cargo, sino que buscamos el perfil de una persona. Max. Todos los miembros del equipo deben comprender quién es Max. Es muy probable que hayamos entrevistado a muchos Max. Entendemos cómo trabaja esa persona, cómo piensa y cómo se siente. Tenemos empatía hacia Max.
 
 - "Quiere": aquí describimos cuál es su intención, y no las funciones que utiliza. ¿Qué es lo que intenta conseguir realmente? Esta afirmación no debería estar condicionada por ningún aspecto relativo a la implementación; si estás describiendo cualquier parte de la interfaz de usuario y no el objetivo del usuario, es que no has entendido de lo que se trata.
 
