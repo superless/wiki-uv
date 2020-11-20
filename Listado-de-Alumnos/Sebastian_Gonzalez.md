@@ -64,3 +64,18 @@ Mi principal objetivo en este momento es poder terminar mi carrera, aprender nue
 # Comentario
 
 Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.
+
+
+# Trabajos realizados
+
+### Desarrollo web 
+
+[Primera página web - Copia de uv.trifenix.io](https://sebastian-gonzalez.me/).
+
+[Página web con react - Validador](https://desarrolloweb-react.tech/).
+
+
+### Arquitectura de sofware 
+
+[Repositorio de docker - Validador](https://hub.docker.com/repository/docker/sebastian0286/dockerhub).
+
