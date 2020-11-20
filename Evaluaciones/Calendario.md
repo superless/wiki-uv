@@ -16,8 +16,9 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 ### Rodrigo Montenegro + Francisco Beltrami - Lunes, Martes, Miércoles de 20:00 en adelante. 
 ### Ana Muñoz + Alejandro Oliveros + Fabián Rozas - Jueves 26 de noviembre de 19:00 en adelante
-
 ### Felipe Rojas + Jorge Rodriguez + Sebastian Gonzalez + Nicolas Delgado  -Miercoles 25 de noviembre a las 11:00
+### Makarena Silva + Cupos disponibles - Jueves 26 de Noviembre, desde las 11:00 en adelante.
+
 # Condiciones
 
 1. Fecha de Termino para incluir sus horarios mañana 17 de Noviembre de 2020

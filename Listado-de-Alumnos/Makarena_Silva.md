@@ -6,7 +6,6 @@ metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
->>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
@@ -52,8 +51,8 @@ Puedes encontrarme en
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
 - [Dominio asociado a Netlify] (https://www.makarena-silva.me/)
-
-
+- [Docker Hub] (https://hub.docker.com/u/makarenasilva)
+ 
 ## Comentario del profesor
 
 >"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
