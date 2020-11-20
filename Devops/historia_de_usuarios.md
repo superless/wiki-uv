@@ -10,7 +10,7 @@ Un componente clave del desarrollo de software ágil es poner a las personas en 
 
 Las historias de usuario son uno de los componentes centrales de un programa ágil. Ayudan a proporcionar un marco centrado en el usuario para el trabajo diario, lo que impulsa la colaboración y la creatividad y mejora el producto en general.
 
-# **¿Qué son las historias de usuario ágiles?**
+# ¿Qué son las historias de usuario ágiles?
 
 Una historia de usuario es la unidad de trabajo más pequeña de un marco ágil. Es un objetivo final, no una función, expresado desde la perspectiva del usuario del software.
 
@@ -89,4 +89,4 @@ Esta estructura no es obligatoria, pero resulta útil para definir el concepto d
 
 
 
-original: https://www.atlassian.com/es/agile/project-management/user-stories#:~:text=Un%20componente%20clave%20del%20desarrollo,de%20desarrollo%20y%20sus%20esfuerzos.
+original: [historias de usuarios](https://www.atlassian.com/es/agile/project-management/user-stories#:~:text=Un%20componente%20clave%20del%20desarrollo,de%20desarrollo%20y%20sus%20esfuerzos)
