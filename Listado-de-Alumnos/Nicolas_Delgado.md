@@ -70,14 +70,14 @@ Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 Viajen, vivan, experimenten y vuelvan a repetir!
 
-## Herramientas
+## Sitios
 
-- https://dev.azure.com/nicolasdelgado/Desarrollo-Web/
-- https://github.com/Slimpler/wiki-uv
-- http://www.nicolas-delgado.me/
-- https://validador.nicolas-delgado.me/
-- https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker
-- https://semantic-ui.nicolas-delgado.me/
+- [Azure] (https://dev.azure.com/nicolasdelgado/Desarrollo-Web/)
+- [Github](https://github.com/Slimpler/wiki-uv)
+- [MiPágina](http://www.nicolas-delgado.me/)
+- [Validador](https://validador.nicolas-delgado.me/)
+- [DockerHub](https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker)
+- [Semantic-ui](https://semantic-ui.nicolas-delgado.me/)
 
 
 # Comentario del profesor
