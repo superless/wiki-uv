@@ -18,6 +18,8 @@ Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos 
 ### Música 🎸
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante, si tienen el tiempo escuchen estas canciones.
 
+|Algo para escuchar|
+| ---------- | 
 | [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU)|
 | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk)|
 | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&)|
@@ -75,7 +77,7 @@ Viajen, vivan, experimenten y vuelvan a repetir!
 - http://www.nicolas-delgado.me/
 - https://validador.nicolas-delgado.me/
 - https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker
-___
+- https://semantic-ui.nicolas-delgado.me/
 
 
 # Comentario del profesor
