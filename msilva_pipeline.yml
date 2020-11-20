@@ -18,8 +18,6 @@ steps:
 # fin nodejs
 
 - script: |
-    git config --global user.email "makarena.silva@alumnos.uv.cl"
-    git config --global user.name "MakarenaSilvaB"    
     git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
     mkdir ./../web
     mv web/* ./../web
