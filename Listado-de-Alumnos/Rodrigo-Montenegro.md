@@ -10,6 +10,8 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 1. <a href="https://arq.rodrigo-montenegro.me/">Pagina del curso</a>.
    
 2. <a href="https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
+   
+3. <a href="https://pag-web.rodrigo-montenegro.me">Pagina web React</a>.
 
 
 
@@ -40,7 +42,7 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 2. Civilization VI.
    
    <center>
-   <img src="https://as01.epimg.net/meristation/imagenes/2020/05/21/noticias/1590073253_669904_1590073339_noticia_normal.jpg" width="250" />
+   <img src="https://images-na.ssl-images-amazon.com/images/I/51S93JWNQWL._AC_SY445_.jpg" width="250" />
    </center>
 
 3. Fifa 20.
@@ -70,11 +72,14 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
    </center>
 
 
-## Lenguajes de Programación:
+## Herramientas aprendidas de Programación:
 
 - Java
 - C
 - Js
+- React
+- Dev Azure
+- Netlify
 
 
 ## Comentarios Compañeros:
