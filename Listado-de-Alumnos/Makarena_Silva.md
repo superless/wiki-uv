@@ -59,8 +59,7 @@ Además de los trabajos típicos de la malla de contenidos, que incluyen manejo 
 Puedes encontrarme en
 - [Github](MakarenaSilvaB)
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
-- [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
-- [Dominio asociado a Netlify] (https://www.makarena-silva.me/)
+
 
 
 ## Comentario del profesor
