@@ -102,8 +102,14 @@ Vale hermanito igualmente, con todo..... faltan sus fifas.
 # Comentario Nicolás Delgado
 
 Genial amigo!! sigue en lo tuyo que llegarás lejos!!
+# Respuesta: 
+Gracias amigo.. tu igual ..
 
 ## Comentarios Profesor:
 Aguante Monte, desde mi punto de vista, eres el más luchador, sigue así. 
+
+Vale profe.. 
+
+
 
 
