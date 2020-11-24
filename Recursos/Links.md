@@ -158,3 +158,5 @@ puro oro :)
 
 [Depuración de .NET core apps en WSL2](https://devblogs.microsoft.com/dotnet/debug-your-net-core-apps-in-wsl-2-with-visual-studio/)
 
+[Consumiendo y creando paquetes en nuget](https://medium.com/@burcakbas/nuget-101-creating-and-consuming-a-nuget-package-8fcf75db2e35)
+
