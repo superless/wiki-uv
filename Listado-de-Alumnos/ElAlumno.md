@@ -88,8 +88,9 @@ Me parece que el enfoque que se le esta dando a la asignatura en relación a las
 
 [Pagina Semantic-ui](https://semantic-ui.feliperojas.me/).
 
-[Gestion de Ramas](https://git-flow.feliperojas.me/).
-                  (https://dev-git-flow.feliperojas.me/)
+[Gestion de Ramas 1](https://git-flow.feliperojas.me/).
+
+[Gestion de Ramas 2](https://dev-git-flow.feliperojas.me/)
 
 
 
