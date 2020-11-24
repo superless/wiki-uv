@@ -18,21 +18,26 @@ steps:
 # fin nodejs
 
 - script: |
-    git config --global user.email "makarena.silva@alumnos.uv.cl"
-    git config --global user.name "MakarenaSilvaB"    
-    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web    
-    mkdir ./../web
-    mv web/* ./../web
-    mkdir ./../web/static
-    mkdir ./../web/static/.attachments
-    mkdir ./../web/content
-    
-    mv ./.attachnents/* ./../web/static/.attachments
-    mv ./* ./../web/content
-    mkdir web
-    mv ./../web/* ./web
-
-
+   echo "configurando git"
+   
+   git config --global user.email "alejandro.iglesias@trifenix.io"
+   git config --global user.email "alejandro.iglesias"
+   echo "clonando página web"
+   git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
+   mkdir ./../web
+   mv web/* ./../web
+   echo "creando carpetas estáticas"
+   mkdir ./../web/static
+   mkdir ./../web/static/.attachments
+   mkdir ./../web/content
+   
+   echo "copiando contenido"
+   mv ./.attachnents/* ./../web/static/.attachments
+   mv ./* ./../web/content
+   mkdir web
+   mv ./../web/* ./web
+   
+   
   displayName: 'clone from github to wiki'
 
 
@@ -65,9 +70,9 @@ steps:
 - task: Bash@3
   inputs:
     targetType: 'inline'
-    script: 'npm install'
+    script: 'npm install --save-dev @babel/plugin-proposal-export-default-from'
     workingDirectory: '$(Build.SourcesDirectory)/web'
-  displayName: 'npm install'
+  displayName: 'npm install babel'
 
 #gatsby build
 - task: Bash@3
@@ -94,7 +99,3 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'container'
 #fin publicando artifacts
-
-
-
-

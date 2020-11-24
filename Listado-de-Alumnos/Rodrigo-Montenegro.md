@@ -10,7 +10,10 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 1. <a href="https://arq.rodrigo-montenegro.me/">Pagina del curso</a>.
    
 2. <a href="https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
+   
+3. <a href="https://pag-web.rodrigo-montenegro.me">Pagina Web React</a>.
 
+4. <a href="https://hub.docker.com/repository/docker/monteblack1/curso">Imagen Pagina Docker</a>.
 
 
 ## Lista de mis deportes favoritos:
@@ -23,24 +26,27 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 ## Lista de mis canciones preferida:
 
 1. "Y la felicidad que", Canserbero
+   <YouTube youTubeId="B3rMIcoXemw" />
+
    
 2. "C'est la Mort", Canserbero
-   
+
+    <YouTube youTubeId="XjA7tvuqXG4" />
 3. "Visiones", Canserbero
 
-
+ <YouTube youTubeId="ax7HyuO00mU" />
 
 
 ## Lista de mis juegos favoritos:
 1. Wolfenstein.
    <center>
-   <img src="https://en.wikipedia.org/wiki/FC_Barcelona#/media/File:FC_Barcelona_(crest).svg" width="250" />
+   <img src="https://2.bp.blogspot.com/-GcvRH7G77G0/UkHFB8D37HI/AAAAAAAACvU/cVNJWSVm5pY/s1600/Portada+RTCW.jpg" width="250" />
    </center>
 
 2. Civilization VI.
    
    <center>
-   <img src="https://as01.epimg.net/meristation/imagenes/2020/05/21/noticias/1590073253_669904_1590073339_noticia_normal.jpg" width="250" />
+   <img src="https://as01.epimg.net/meristation/imagenes/2018/07/01/game_cover/1530468401_468401_023384_gameplatform.jpg" width="250" />
    </center>
 
 3. Fifa 20.
@@ -70,11 +76,14 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
    </center>
 
 
-## Lenguajes de Programación:
+## Herramientas aprendidas de Programación:
 
 - Java
 - C
 - Js
+- React
+- Dev Azure
+- Netlify
 
 
 ## Comentarios Compañeros:
