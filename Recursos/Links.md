@@ -148,3 +148,13 @@ puro oro :)
 [Token Blockchain para streaming de videos](https://www.thetatoken.org/)
 
 [Typescript 4.0, finalmente entrega que lo que habíamos esperado](https://medium.com/javascript-in-plain-english/typescript-4-0-i-want-a-list-of-generic-params-with-good-labels-c6087d2df935)
+
+
+#tips
+
+[unable to find interpreter for Code.exe](https://github.com/microsoft/WSL/issues/5466)
+
+[Instalando Mono en WSL2](https://github.com/mono/website/issues/199)
+
+[Depuración de .NET core apps en WSL2](https://devblogs.microsoft.com/dotnet/debug-your-net-core-apps-in-wsl-2-with-visual-studio/)
+

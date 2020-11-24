@@ -6,11 +6,11 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Alumno Felipe Rojas
 
-Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años, estudie en el Colegio Santo Domingo de Valparaíso toda mi enseñanza basica y media. Luego ingrese a la Universidad de Valparaiso con 17 años a la carrera de Ingenieria Civil Informatica. Principalmente me considero una persona bien responsable, organizada, solidaria con los demas pero por otro lado soy un poco timido y me complico aveces las cosas con muy poco.
+Mi nombre es Felipe Andres Rojas Gonzalez, tengo 22 años, estudie en el Colegio Santo Domingo de Valparaíso toda mi enseñanza basica y media. Luego ingrese a la Universidad de Valparaiso con 17 años a la carrera de Ingenieria Civil Informatica. Principalmente me considero una persona bien responsable, organizada, solidaria con los demas pero por otro lado soy un poco timido y me complico aveces con muy poco.
 
 # Hobbies
 
-Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por muchos deportes, ya que a los 6 años hasta los 8 años empece a practicar futbol en mi colegio, llegando a las categorias menores del club Santiago Wanderers pero por temas de estudio deje de entrenar. Al tener 9 años me fui a jugar tennis por mi colegio en donde fui a diversos campeonatos a nivel regional. Posteriormente empece a jugar pin pon tambien participando en diversos campeonatos hasta los 11 años, donde quise despues practicar voleyball y el basquetbol donde en este ultimo a los 13 años ingrese al club deportivo PLaya Ancha para participar en las categoria sub13 hata llegar hoy en dia a la primera adulta, donde practicamente cada fin de semana participabamos en los campeonatos de Valparaiso. Por otro lado me apasiona las tecnologias desde chico y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes a futuro.
+Mi carrera deportiva ha sido bien dinamica en el sentido de que he pasado por muchos deportes, ya que a los 6 años hasta los 8 años empece a practicar futbol en mi colegio, llegando a las categorias menores del club Santiago Wanderers pero por temas de estudio deje de entrenar. Al tener 9 años me fui a jugar tennis por mi colegio en donde fui a diversos campeonatos a nivel regional. Posteriormente empece a jugar pin pon tambien participando en diversos campeonatos hasta los 11 años, donde quise despues practicar Voleyball y el Basquetbol donde en este ultimo a los 13 años ingrese al club deportivo Playa Ancha para participar en las categoria sub13 hata llegar hoy en dia a la primera adulta, donde practicamente cada fin de semana participabamos en los campeonatos de Valparaiso. Por otro lado me apasiona las tecnologias desde chico y la innovación, donde tengo pensado en desempeñarme más en el lado de la gestión o redes a futuro.
 
 
 # Equipos Favoritos Y Jugadores Favoritos
@@ -87,6 +87,12 @@ Me parece que el enfoque que se le esta dando a la asignatura en relación a las
 [Pagina Validador](https://validador.feliperojas.me/).
 
 [Pagina Semantic-ui](https://semantic-ui.feliperojas.me/).
+
+[Gestion de Ramas 1](https://git-flow.feliperojas.me/).
+
+[Gestion de Ramas 2](https://dev-git-flow.feliperojas.me/)
+
+
 
 
 
