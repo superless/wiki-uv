@@ -18,6 +18,8 @@ Desde pequeño me interesaron bastente los deportes, siendo un buen pasatiempos 
 ### Música 🎸
 Actualmente me considero una persona sin una predilección clara en cuanto a mi musica. Disfruto mucho del rock en general, tanto latino como anglo, pero tambien artistas de distintos estilos. Me gusta tocar guitarra y llegar a sentir la música, que es algo muy importante, si tienen el tiempo escuchen estas canciones.
 
+|Algo para escuchar|
+| ---------- | 
 | [Juici Wrld - Lucid Dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU)|
 | [Queen - Love of my Life](https://www.youtube.com/watch?v=6IxAFIocxfk)|
 | [Hozier - Take me to Church](https://www.youtube.com/watch?v=PVjiKRfKpPI&)|
@@ -68,14 +70,14 @@ Mis metas siempre me llevan a intentar viajar por el mundo, llenarme de culturas
 Tengo un hermano y vivo con él, mis padres actualmente viven en España.
 Viajen, vivan, experimenten y vuelvan a repetir!
 
-## Herramientas
+## Sitios
 
-- https://dev.azure.com/nicolasdelgado/Desarrollo-Web/
-- https://github.com/Slimpler/wiki-uv
-- http://www.nicolas-delgado.me/
-- https://validador.nicolas-delgado.me/
-- https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker
-___
+- [Azure] (https://dev.azure.com/nicolasdelgado/Desarrollo-Web/)
+- [Github](https://github.com/Slimpler/wiki-uv)
+- [MiPágina](http://www.nicolas-delgado.me/)
+- [Validador](https://validador.nicolas-delgado.me/)
+- [DockerHub](https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker)
+- [Semantic-ui](https://semantic-ui.nicolas-delgado.me/)
 
 
 # Comentario del profesor
