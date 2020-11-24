@@ -21,6 +21,7 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 ### Francisco Espinoza + Sebastián Zelaya -> Jueves 26 de Noviembre 18:00 Hrs.
 
+### Ignacio Alvarado + Ignacio Miranda - Viernes 13:30 en adelante.
 # Condiciones
 
 
