@@ -86,7 +86,7 @@ Me parece que el enfoque que se le esta dando a la asignatura en relación a las
 
 [Pagina Validador](https://validador.feliperojas.me/).
 
-[Pagina Semantic-ui](https://semantic-ui.feliperojas.me/).
+[Pagina Semantic-ui](https://semantic-ui.feliperojas.me/). (Trabajo en conjunto con Jorge Rodriguez)
 
 [Gestion de Ramas 1](https://git-flow.feliperojas.me/).
 
