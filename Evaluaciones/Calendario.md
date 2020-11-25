@@ -14,14 +14,14 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Poner acá sus horarios
 
-### Rodrigo Montenegro + Francisco Beltrami + Makarena Silva - Miércoles 25 de 20:00 en adelante. 
+### Rodrigo Montenegro + Francisco Beltrami + Makarena Silva + Cristian Valencia- Miércoles 25 de 20:00 en adelante. 
 ### Ana Muñoz + Alejandro Oliveros + Fabián Rozas - Jueves 26 de noviembre de 19:00 en adelante
 
 ### Felipe Rojas + Jorge Rodriguez + Sebastian Gonzalez + Nicolas Delgado  -Miercoles 25 de noviembre a las 11:00
 
 ### Francisco Espinoza + Sebastián Zelaya -> Jueves 26 de Noviembre 18:00 Hrs.
 
-### Ignacio Alvarado + Ignacio Miranda - Viernes 13:30 en adelante.
+### Ignacio Alvarado + Ignacio Miranda + Sebastian Gonzalez + Nicolas Delgado - Viernes 13:30 en adelante.
 # Condiciones
 
 
