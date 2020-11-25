@@ -81,7 +81,7 @@ Viajen, vivan, experimenten y vuelvan a repetir!
 - [Git-Flow](https://git-flow.nicolas-delgado.me/)
 - [Dev-Git-Flow](https://dev-git-flow.nicolas-delgado.me/)
 
-# Comentario del profesor
+# Comentario del profesor 
 
 Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
 
