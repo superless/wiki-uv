@@ -160,3 +160,4 @@ puro oro :)
 
 [Consumiendo y creando paquetes en nuget](https://medium.com/@burcakbas/nuget-101-creating-and-consuming-a-nuget-package-8fcf75db2e35)
 
+[problema router netlify](https://sung.codes/blog/2018/12/18/page-not-found-on-netlify-with-react-router/), gentileza don [montenegro](https://github.com/Rodrigomontenegrofarias).
