@@ -4,11 +4,26 @@ metaTitle: "Artículos rápidos prácticos de dotner"
 metaDescription: "Devops, dotnet core, wsl2, al hueso"
 ---
 
-# Paso 1, conseguir docker de dotnet Core
+# Paso 1, prerequisitos
+1. Windows 2010 build 2004 en adelante
+2. Windows subsytem for linux
+3. Docker sobre wsl2
+   
 
-```
-docker run -ti --name nuget-cli-examples mcr.microsoft.com/dotnet/samples:dotnetapp /bin/bash
-```
+1. Crearemos un remote container
+2. 
 
-![docker dotnetcore](/.attachments/docker.dotnetcore.png)
+
+
+
+
+
+
+# Paso 2, desde cero 
+Para el ejemplo, crearé 
+
+
+
+
+
 

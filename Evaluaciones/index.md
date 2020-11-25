@@ -4,6 +4,11 @@ metaTitle: "Presentacion"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
+# Nota 1, Gran Taller práctico "Introducción a devops"
+
+La solicitud esta centrada en realizar pull requests sobre un proyecto open source y 
+poder crear, gestionar y liberar un proyecto de devops por si mismo.
+
 ## Alejandro Rudolphy dev-arq
 Compromiso: 10
 Participación: 10
@@ -95,6 +100,45 @@ Creatividad: 10
 Compromiso: 10 
 Participación: 10
 Creatividad: 10
+
+# Nota 2
+
+## Arquitectura de software
+
+La evaluación esta centrada en los siguientes talleres:
+
+1. Docker, donde se espera una imagen para ser usada, desde el hub de [docker público](https://hub.docker.com).
+2. Gestión de Ramas, Uso de git flow, git version y generación automátizada (CI/CD) para la generación de sitios, según versión semántica ([semver](https://semver.org/)).
+
+
+### Nicolas Delgado
+**Comentario de la evaluación**
+Muy bien, cumplió todos los objetivos propuestos en clases, tuvo participación con sus compañeros y dió más de lo que se le pidió. 
+
+Compromiso: 10
+Participación: 8
+Creatividad : 8
+
+
+## Desarrollo Web
+
+1. Talleres prácticos de react, el objetivo de estos talleres son entender las propiedades, los estados, creación de formularios, gestión de design system, creación de formularios con estados.
+
+
+### Nicolas Delgado
+**Comentario de la evaluación**
+Muy bien, cumplió todos los objetivos propuestos en clases, tuvo participación con sus compañeros y dió más de lo que se le pidió. 
+
+Compromiso: 10
+Participación: 8
+Creatividad : 8
+
+   
+
+
+
+
+
 
 
 
