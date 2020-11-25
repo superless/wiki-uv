@@ -39,3 +39,7 @@ Devops: https://dev.azure.com/alejandrorudolphy/
 # Comentario Sebastián González
 
 Costo ponerse al día, pero se logró, con todo amigo, saludos!!
+
+# Comentario Nicolas
+
+- Buena men!
