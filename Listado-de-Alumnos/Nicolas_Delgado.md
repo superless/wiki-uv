@@ -78,9 +78,10 @@ Viajen, vivan, experimenten y vuelvan a repetir!
 - [Validador](https://validador.nicolas-delgado.me/)
 - [DockerHub](https://hub.docker.com/repository/docker/slimpler/curso1_validador_docker)
 - [Semantic-ui](https://semantic-ui.nicolas-delgado.me/)
+- [Git-Flow](https://git-flow.nicolas-delgado.me/)
+- [Dev-Git-Flow](https://dev-git-flow.nicolas-delgado.me/)
 
-
-# Comentario del profesor
+# Comentario del profesor 
 
 Excelente Nicolás, buen trabajo, costó pero está muy bien. Viajar es una de las maravillas de la vida, ampliar tu visión de las cosas y entender, contemplar y admirar la cultura de otras sociedades es una experiencia que te enriquece como persona y permita entregar más valor a los que te rodean. 
 
@@ -93,6 +94,6 @@ Buena hermano, espero que estes bien y sigue adelante con tus proyectos..
 
 # Respondiendo Comentarios
 
-- Reapuesta a profesor: Gracias profesor por el comentario. Saludos. Gracias por las enseñanzas de este curso.
+- Respuesta a profesor: Gracias profesor por el comentario. Saludos. Gracias por las enseñanzas de este curso.
 
 - Respuesta a Felipe Rojas: Hola amigaso, muchas gracias y tu sigue con lo tuyo!!
