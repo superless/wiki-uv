@@ -112,12 +112,23 @@ La evaluación esta centrada en los siguientes talleres:
 
 
 ### Nicolas Delgado
+
 **Comentario de la evaluación**
 Muy bien, cumplió todos los objetivos propuestos en clases, tuvo participación con sus compañeros y dió más de lo que se le pidió. 
 
 Compromiso: 10
 Participación: 8
 Creatividad : 8
+
+### Felipe Rojas
+Gran trabajo, se logró comprender el uso práctico de docker, la gestión de ramas y la automatización de versiones.
+
+Compromiso: 10
+Participación: 10
+Creatividad : 10
+
+
+
 
 
 ## Desarrollo Web
@@ -126,12 +137,32 @@ Creatividad : 8
 
 
 ### Nicolas Delgado
+
 **Comentario de la evaluación**
 Muy bien, cumplió todos los objetivos propuestos en clases, tuvo participación con sus compañeros y dió más de lo que se le pidió. 
 
 Compromiso: 10
 Participación: 8
 Creatividad : 8
+
+### Jorge Rodriguez
+**Comentarios**
+Muy bien, no solo ha cumplido, sino que ha aportado creatividad y diseño, en el sitio que en colaboración con felipe rojas han llevado a cabo, los felicito por el trabajo en equipo y en la creatividad puesto en el sitio de felipe rojas.
+Su markdown está en un muy bajo nivel y no ha logrado tener su propio sitio.
+
+Compromiso: 6
+Participacion: 8
+creatividad: 9
+
+### Felipe Rojas
+Excelente trabajo, compartió con el profesor algunas de sus frustraciones, demostró trabajo en equipo, cumplió con todas las tareas, felicitaciones!
+
+Compromiso:10
+Participación:10
+Creatividad:10
+
+
+
 
    
 
