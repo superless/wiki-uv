@@ -20,8 +20,8 @@ steps:
 - script: |
    echo "configurando git"
    
-   git config --global user.email "alejandro.iglesias@trifenix.io"
-   git config --global user.email "alejandro.iglesias"
+   git config --global user.email "cristian.valenciaa@alumnos.uv.cl"
+   git config --global user.email "CristianValenciaA"
    echo "clonando página web"
    git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
    mkdir ./../web

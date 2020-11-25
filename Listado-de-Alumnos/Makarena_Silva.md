@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Makarena Silva"
@@ -7,6 +8,8 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 >>>>>>> dbd75ade6b643c0a0f440a2317a707a9a0921fe7
 >>>>>>> 49c165cd59c7d5c706f98229a9f840e04e82b338
+=======
+>>>>>>> 62fe2c120a7df646dd5d63b0fd9ac53329bd29e6
 # Makarena Silva Baradit
 
  <sub>From Visual Studio Code WSL: Debian</sub>
