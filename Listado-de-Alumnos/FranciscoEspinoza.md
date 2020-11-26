@@ -33,6 +33,6 @@ Mi gusto por el deporte es generalizado ya que todos los deportes me parecen atr
 
 Me identifico mucho por el [Club Deportivo Universidad de Chile](https://www.udechile.cl/) principalmente por tener una historia basada mas en las derrotas que en los exitos, pero teniendo la aficion mas fiel a nivel nacional. Me identifica tambien la idiosincrasia de la gente que sigue el club, ya que, dentro sus caracteristicas esta la fidelidad sin importar el momento deportivo que se este viviendo.
 
-## Metas
+# Metas
 
 Dentro de mis metas a corto plazo está titularme como ingeniero, y entonctrar un trabajo estable. una de mis principales metas es ahorrar para un departamento y despues un auto.
