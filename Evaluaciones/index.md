@@ -151,6 +151,20 @@ Participación: 10
 Creatividad : 10
 
 
+## Anita
+Faltaron las ramas. 
+
+Compromiso: 7
+Participacion: 9
+Creatividad: 8
+
+
+# Alejandro Oliveros
+
+Compromiso: 7
+Participacion: 9
+Creatividad: 8
+
 
 
 
@@ -231,6 +245,7 @@ Participacion: 6
 Compromiso: 10
 Creatividad: 10
 Participacion: 10
+
 
 
 
