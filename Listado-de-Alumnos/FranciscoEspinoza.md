@@ -1,3 +1,12 @@
+---
+title: "Francisco Espinoza"
+metaTitle: "Presentacion"
+metaDescription: "desarrollo web."
+---
+
 # Francisco Espinoza
 
-Mi nombre es Francisco Espinoza y tengo 24 años
+## Información personal
+
+- Nombre: Francisco javier Espinoza Valenzuela
+- Correo: francisco.espinozav@alumnos.uv.cl
