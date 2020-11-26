@@ -115,12 +115,18 @@ Creatividad: 10
 
 # Nota 2
 
+
+
 ## Arquitectura de software
 
 La evaluación esta centrada en los siguientes talleres:
 
 1. Docker, donde se espera una imagen para ser usada, desde el hub de [docker público](https://hub.docker.com).
 2. Gestión de Ramas, Uso de git flow, git version y generación automátizada (CI/CD) para la generación de sitios, según versión semántica ([semver](https://semver.org/)).
+
+
+# Francisco Beltrami
+
 
 
 ### Nicolas Delgado
@@ -186,8 +192,13 @@ Compromiso:10
 Participación:10
 Creatividad:10
 
+## Francisco Beltrami
+**Comentarios**
+Francisco excelente, muy buen trabajo, quedo pendiente con la mejora de tu sitio, con el fin de aumentar los puntos en creatividad.
 
-
+Compromiso:10
+Participación:10
+Creatividad:8
 
 
 ### Makarena Silva
@@ -197,7 +208,6 @@ Estimada makarena, empezamos lento, pero ha hecho un excelente trabajo, felicita
 Compromiso:10
 Participación:10
 Creatividad:10
-
 
 
 
