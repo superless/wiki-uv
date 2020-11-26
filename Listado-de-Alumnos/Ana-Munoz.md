@@ -38,5 +38,25 @@ Hola Ana, muchas gracias por su presentación, que bueno que tengas un informát
 
 Necesito que incluya su devops y su repositorio de github. 
 
+## Actualización
+Después de mucho mucho pelear, he aquí todo:
+
+Github: https://github.com/ana-munoz/
+
+Devops: https://dev.azure.com/anamunoz
+
+Docker hub: https://hub.docker.com/repository/docker/amunozf/test-sem
+
+### Páginas:
+
+Copia de wiki-uv a mi dominio oficial (que murió porque para variar me pitié algo): https://la-nita.me/
+
+Página con el ejemplo de validador: https://lanita.nokker.tech/
+
+Página para el taller 2 de desarrollo con semantic-ui y cosas entretenidas: https://lanita2.nokker.tech/
+
+Como comentario sobre el último link y advertencia de cierta manera, no esperar algo maravilloso, fue jugando a las 5 am después de trasnochar 2 noches seguidas. Que lata no tener el tiempo que necesita todo esto para poder hacer algo más de calidad pero creo que aprendí y es lo importante al menos para mi ^u^
+
+
 
 
