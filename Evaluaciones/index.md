@@ -19,6 +19,11 @@ Compromiso: 10
 Participación: 5
 Creatividad: 5
 
+# Fabian Rozas
+Compromiso: 5
+Participacion: 5
+Creatividad: 0
+
 
 
 ## Alejandro Rudolphy dev-arq
@@ -208,6 +213,30 @@ Estimada makarena, empezamos lento, pero ha hecho un excelente trabajo, felicita
 Compromiso:10
 Participación:10
 Creatividad:10
+
+## Ana Muñoz
+Estimada Anita, muy buen trabajo, cumplió con el sitio, quedó pendiente el router, demostró conocimiento en Azure devops, automatización y liberación de su sitio en su propio dominio
+Compromiso 10
+Participación : 10
+Creatividad : 7 (mas contenido en el sitio y react router).
+
+## Fabian Rozas 
+
+Compromiso: 7
+Creatividad: 6
+Participacion: 6
+
+## Alejandro Oliveros
+
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+
+
+
+
+
 
 
 
