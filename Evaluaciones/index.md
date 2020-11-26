@@ -6,8 +6,20 @@ metaDescription: "Arquitectura de software y desarrollo web."
 
 # Nota 1, Gran Taller práctico "Introducción a devops"
 
+
+
+
 La solicitud esta centrada en realizar pull requests sobre un proyecto open source y 
 poder crear, gestionar y liberar un proyecto de devops por si mismo.
+
+## atrasados
+
+# Makarena dev
+Compromiso: 10
+Participación: 5
+Creatividad: 5
+
+
 
 ## Alejandro Rudolphy dev-arq
 Compromiso: 10
@@ -154,12 +166,48 @@ Compromiso: 6
 Participacion: 8
 creatividad: 9
 
+
 ### Felipe Rojas
 Excelente trabajo, compartió con el profesor algunas de sus frustraciones, demostró trabajo en equipo, cumplió con todas las tareas, felicitaciones!
 
 Compromiso:10
 Participación:10
 Creatividad:10
+
+
+### Rodrigo Montenegro
+**Comentarios**
+
+Estimado Rodrigo, muy buen trabajo, ha seguido con atención las clases y ha hecho más de lo que se le ha solictado.
+
+Felicitaciones!
+
+Compromiso:10
+Participación:10
+Creatividad:10
+
+
+
+
+
+### Makarena Silva
+
+Estimada makarena, empezamos lento, pero ha hecho un excelente trabajo, felicitaciones!
+
+Compromiso:10
+Participación:10
+Creatividad:10
+
+
+
+
+
+
+
+
+
+
+
 
 
 
