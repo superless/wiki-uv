@@ -73,7 +73,7 @@ Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.
 
 [Página web con react - Validador](https://desarrolloweb-react.tech/).
 
-[Página web con react)](https://react.sebastian-gonzalez.me/).
+[Página web con react](https://react.sebastian-gonzalez.me/).
 
 ### Arquitectura de sofware. 
 
