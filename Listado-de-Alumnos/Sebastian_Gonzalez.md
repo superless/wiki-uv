@@ -1,5 +1,5 @@
 
-# Presentación Alumnno 😃. 
+# Presentación Alumnno . 
 
 Mi nombre es Sebastián Alejandro González Morales, estudiante de la carrera Ingenieria Civil informática de la Universidad de Valparaiso. 
 
@@ -63,19 +63,25 @@ Mi principal objetivo en este momento es poder terminar mi carrera, aprender nue
 
 # Comentario
 
-Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.
+Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.  
 
+# Trabajos realizados.
 
-# Trabajos realizados
-
-### Desarrollo web 
+### Desarrollo web. 
 
 [Primera página web - Copia de uv.trifenix.io](https://sebastian-gonzalez.me/).
 
 [Página web con react - Validador](https://desarrolloweb-react.tech/).
 
+[Página web con react](https://react.sebastian-gonzalez.me/).
 
-### Arquitectura de sofware 
+### Arquitectura de sofware. 
 
 [Repositorio de docker - Validador](https://hub.docker.com/repository/docker/sebastian0286/dockerhub).
+
+[Gestión de ramas 1](https://git-flow.sebastian-gonzalez.me/).
+
+[Gestión de ramas 2](https://dev-git-flow.sebastian-gonzalez.me/).
+
+
 
