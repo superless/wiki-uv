@@ -49,3 +49,11 @@ GitHub: https://github.com/Ignacio-my/wiki-uv/tree/draft
 Pagina: https://ignacio-miranda.me/
 
 Validador: https://validador.ignacio-miranda.me/ 
+
+Docker Hub: https://hub.docker.com/repository/docker/ignaciomy/curso1_validador_docker
+
+semantic ui: https://semantic.ignacio-miranda.me
+
+Gitflow: https://gitflow.ignacio-miranda.me/
+
+
