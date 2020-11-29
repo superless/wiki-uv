@@ -41,7 +41,7 @@ El taller De React se utilizara la hoja de estilos de Semantic-UI. En este talle
 ![Estructura Guia](https://www.101computing.net/wp/wp-content/uploads/HTML-Layout-2.png)
 
 Se creara un sitio falso sobre una empresa de reciclaje industrial con el objetivo de utlizar los conocimientos obtenidos en el semestres y aplicar React para el desarrollo de este taller.
-###Pagina del taller
+### Pagina del taller
 - [Pagina](https://semantic-ui.feliperojas.me/)
 - [Github](https://github.com/jorgeRodriguezAntiquera/semantic-intro)
 *** 
