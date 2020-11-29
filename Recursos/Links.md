@@ -162,5 +162,8 @@ puro oro :)
 
 [problema router netlify](https://sung.codes/blog/2018/12/18/page-not-found-on-netlify-with-react-router/), gentileza don [montenegro](https://github.com/Rodrigomontenegrofarias).
 
-[Limpiando espacioes en vscode](https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code).
+[Limpiando espacios en vscode](https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code).
 
+[comandos devops](https://medium.com/edureka/linux-commands-in-devops-73b5a2bcd007)
+
+[jmespath](https://stedolan.github.io/jq/manual/), consultas sobre json, ampliamente usado en azure y aws.
