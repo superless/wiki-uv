@@ -45,11 +45,14 @@ Mi [Github](https://github.com/CristianValenciaA)
 
 Mi [DockerHub](https://hub.docker.com/u/cristianvalenciaa)
 
-Mi [pagina web](cristianvalencia.me)
+[Mi pagina web](https://cristianvalencia.me)
 
-## Comentario Profesor
+[Semantic UI](https://webpage.cristianvalencia.me)
 
-Hola Cristian, me gustaría saber más de ti, cosas como cual es tu motivación por la tecnología, que esperas lograr con ella, tus fortalezas, aprendes leyendo o videos. Recuerda, las personas son en el tiempo, las personas del pasado ya no existen, el tiempo es ahora, amigo mío.
+[Git-flow](https://git-flow.cristianvalencia.me)
+
+[Dev-Git-flow](https://dev-git-flow.cristianvalencia.me)
+
 
 # Comentario Ignacio Alvarado
 Hola compañero, no sabia que le gustaba el valorant, cuando sus partidas?

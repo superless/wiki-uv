@@ -42,9 +42,12 @@ Puedes encontrarme en
 - [Github](https://github.com/MakarenaSilvaB)
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
-- [Dominio asociado a Netlify] (https://www.makarena-silva.me/)
-- [Docker Hub] (https://hub.docker.com/u/makarenasilva) 
-
+- [Dominio asociado a Netlify](https://www.makarena-silva.me/)
+### Sitio en React
+- [Docker Hub](https://hub.docker.com/u/makarenasilva) 
+- [Demo React](https://presentacion.makarena-silva.me/)
+- [Pipeline Sitio](https://dev.azure.com/ArquitecturaSW/Docker%20y%20React)
+- [Repositorio del Sitio](https://github.com/MakarenaSilvaB/formulario)
 ## Comentario del profesor
 
 >"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
@@ -57,5 +60,3 @@ Puedes encontrarme en
 
 _¡Agradezco su comentario y la motivación que comparte!_
  <sub>[por Makarena Silva 25/09/2020]</sub>
-
-
