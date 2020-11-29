@@ -35,6 +35,9 @@ Mis principales intereses son los siguientes:
 ***
 ## Taller React Semantic-UI
 El taller De React se utilizara la hoja de estilos de Semantic-UI. En este taller sera colaborativo con el compañero Felipe Rojas, en donde basamos en el siguiente diseño de la pagina:
+
+
+
 ![Estructura Guia](https://www.101computing.net/wp/wp-content/uploads/HTML-Layout-2.png)
 
 Se creara un sitio falso sobre una empresa de reciclaje industrial con el objetivo de utlizar los conocimientos obtenidos en el semestres y aplicar React para el desarrollo de este taller.
