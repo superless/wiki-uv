@@ -35,7 +35,7 @@ Cada vez que se va terminando el periodo de U se van acortando los tiempos para 
 
 + Dark souls en el kokoro
 <center>
-<img src="https://static.wikia.nocookie.net/dark-souls/images/b/b9/Dark_Souls_Portada.jpg/revision/latest?cb=20160801012652&path-prefix=es" width="200" alt="Dark-souls" />
+<img src="https://gamingtalkmx.files.wordpress.com/2012/08/dark-souls-prepare-to-die-edition.jpg" width="250" alt="Dark-souls" />
 </center>
 
 + Saga de Zelda
