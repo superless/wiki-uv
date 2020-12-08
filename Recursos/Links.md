@@ -167,3 +167,7 @@ puro oro :)
 [comandos devops](https://medium.com/edureka/linux-commands-in-devops-73b5a2bcd007)
 
 [jmespath](https://stedolan.github.io/jq/manual/), consultas sobre json, ampliamente usado en azure y aws.
+
+[Flutter en WSL2](https://itnext.io/flutter-with-wsl-2-69ba8fc7682f)
+
+[aliases en git](https://dev.to/robertcoopercode/using-aliases-to-speed-up-your-git-workflow-2f5a)
