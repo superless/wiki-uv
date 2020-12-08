@@ -1,0 +1,107 @@
+
+  
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- draft
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+# instalando nodejs
+- task: NodeTool@0
+  inputs:
+    versionSpec: '11.x'
+  displayName: 'instalando node js'
+# fin nodejs
+
+- script: |
+   echo "configurando git"
+   
+   git config --global user.email "jorge.rodrigueza@alumnos.uv.cl"
+   git config --global user.email "jorge"
+   echo "clonando página web"
+   git clone https://yo-fenix@dev.azure.com/yo-fenix/blog/_git/blog web
+   mkdir ./../web
+   mv web/* ./../web
+   echo "creando carpetas estáticas"
+   mkdir ./../web/static
+   mkdir ./../web/static/.attachments
+   mkdir ./../web/content
+   
+   echo "copiando contenido"
+   mv ./.attachnents/* ./../web/static/.attachments
+   mv ./* ./../web/content
+   mkdir web
+   mv ./../web/* ./web
+   
+   
+  displayName: 'clone from github to wiki'
+
+
+- task: replacetokens@3
+  inputs:
+    rootDirectory: '$(Build.SourcesDirectory)'
+    targetFiles: '**/config.js'
+    encoding: 'auto'
+    writeBOM: true
+    actionOnMissing: 'warn'
+    keepToken: false
+    tokenPrefix: '#{'
+    tokenSuffix: '}#'
+    useLegacyPattern: false
+    enableTelemetry: false
+
+#instalando gatsby
+- script: |   
+    npm install -g gatsby-cli
+  displayName: 'instalando gatsby'
+#fin gatsby
+
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'npm install'
+    workingDirectory: '$(Build.SourcesDirectory)/web'
+  displayName: 'npm install'
+
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'npm install --save-dev @babel/plugin-proposal-export-default-from'
+    workingDirectory: '$(Build.SourcesDirectory)/web'
+  displayName: 'npm install babel'
+
+#gatsby build
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'gatsby build'
+    workingDirectory: '$(Build.SourcesDirectory)/web'
+  displayName: 'gatsby build'
+#fin gatsby build
+
+#copiando archivos a salida
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)/web/public'
+    Contents: '**'
+    TargetFolder: $(Build.ArtifactStagingDirectory)
+    CleanTargetFolder: true
+#fin copiando archivos a salida
+
+#publicando artifacts
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: $(Build.ArtifactStagingDirectory)
+    ArtifactName: 'drop'
+    publishLocation: 'container'
+#fin publicando artifacts
+
+
+
+
