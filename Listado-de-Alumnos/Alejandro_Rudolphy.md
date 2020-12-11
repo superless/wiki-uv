@@ -1,14 +1,11 @@
-
 ---
 title: "Alejandro Rudolphy"
 metaTitle: "Presentacion"
-metaDescription: "Arquitectura de software y desarrollo web."
+metaDescription: "Desarrollo Web - Arquitectura de Software"
 ---
-
 
 # Alejandro Rudolphy
 ## Universidad de Valparaiso
-
 || alejandro.rudolphy@alumnos.uv.cl
 
 # Información personal
@@ -33,8 +30,21 @@ Gracias por leer.
 
 PD: Perdón por la demora, tengo que admitir que flojee un poco las primeras semanas del semestre.
 
-Github: https://github.com/AlejandroRudolphy
-Devops: https://dev.azure.com/alejandrorudolphy/
+## Trabajo del semestre
+
+- [Azure](https://dev.azure.com/alejandrorudolphy/)
+- [Github](https://github.com/AlejandroRudolphy)
+- [MiPágina](https://alejandrorudolphy.tech/)
+- [Validador](https://validador.alejandrorudolphy.tech/)
+- [DockerHub](https://hub.docker.com/repository/docker/alerudolphy/validador)
+- [Semantic-ui](https://album.alejandrorudolphy.tech/Album)
+- [Git-Flow](https://flow.alejandrorudolphy.tech/)
+- [Dev-Git-Flow](https://dev-flow.alejandrorudolphy.tech/)
+
+## Apreciaciones hacia el curso y la clase
+
+Bueno, yo creo que todos estamos de acuerdo en que impartir un curso asi en la modalidad online es dificil, muy dificil, debido a que el profesor no puede estar al tanto de quien lo sigue, de quien se queda atras, etc. Dentro de todo creo que se hizo un buen trabajo, en lo personal, obtuve conocimientos que yo creo que tendran valor en el futuro, y sali de algunas dudas existenciales que tenia hace tiempo como "¿Como esta persona colabora en el proyecto de otro?", "¿Como esta persona sabrá si modifico su código?", y otras más. Una pequeña sugerencia para el próximo semestre podría ser optar por más trabajos en grupo, por ejemplo una aplicación en semantic-ui hecha por un grupo de 3 integrantes, de manera de reforzar el concepto de colaborar en un proyecto en conjunto usando git y además que las entregas sean un poco más elaboradas, ya que en grupo se puede llegar a algo mejor que trabajando individualmente, pero más que eso no se me ocurre. 
+Creo que lo que más me llevo de este ramo, es haber mejorado mi manejo de git, y en general en todas las plataformas de proyectos que utilizamos, siento que estas herramientas pueden ayudarme bastante en el futuro y ojalá poder volver a usarlas.
 
 # Comentario Sebastián González
 
