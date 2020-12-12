@@ -56,4 +56,4 @@ semantic ui: https://semantic.ignacio-miranda.me
 
 Gitflow: https://gitflow.ignacio-miranda.me/
 
-
+DevGitFlow: https://dev-git-flow.ignacio-miranda.me 
