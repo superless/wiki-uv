@@ -133,6 +133,9 @@ La evaluación esta centrada en los siguientes talleres:
 
 
 # Francisco Beltrami
+Compromiso: 10
+Participación: 10
+Creatividad : 10
 
 
 
@@ -304,6 +307,46 @@ Participacion: 10
 Compromiso: 10
 Creatividad: 10
 Participacion: 10
+
+# Jorge Rodriguez
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+# Rodrigo Montenegro
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+# Francisco Beltrami
+Compromiso: 10
+Participación: 10
+Creatividad : 10 
+
+# Francisco Beltrami
+Compromiso: 10
+Participación: 10
+Creatividad : 10 
+
+
+# Nicolas Delgado
+Compromiso: 10
+Participación: 10
+Creatividad : 10
+
+# Sebastian Gonzalez
+Compromiso: 10
+Participación: 10
+Creatividad : 10
+
+
+
+
+
+
+
+
+
 
 
 
