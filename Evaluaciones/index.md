@@ -289,6 +289,20 @@ Compromiso: 10
 Creatividad: 10
 Participacion: 10
 
+## Alejandro Rudolphy (pendiente markdown arquitectura)
+
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+## Cristian Valencia (comentario pendiete arq)
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+
+
+
 
 
 
