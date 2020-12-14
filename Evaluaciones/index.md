@@ -42,7 +42,7 @@ Creatividad: 10
 
 ## Alejandro Oliveros dev-arq
 Compromiso: 10
-Participación: 0 
+Participación: 5 
 Creatividad: 10
 
 

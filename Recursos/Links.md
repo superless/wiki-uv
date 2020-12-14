@@ -171,3 +171,8 @@ puro oro :)
 [Flutter en WSL2](https://itnext.io/flutter-with-wsl-2-69ba8fc7682f)
 
 [aliases en git](https://dev.to/robertcoopercode/using-aliases-to-speed-up-your-git-workflow-2f5a)
+
+
+# Interesante
+
+[linux en países](https://itsfoss.com/linux-national-os/)
