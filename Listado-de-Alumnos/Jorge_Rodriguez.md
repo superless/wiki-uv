@@ -1,3 +1,9 @@
+---
+title: "Jorge Rodriguez"
+metaTitle: "Alumno de Desarrollo Web"
+metaDescription: "Alumno de último añi"
+---
+
 # Jorge Rodriguez Antiquera
 ***
 ## Presentacion

@@ -300,6 +300,13 @@ Compromiso: 10
 Creatividad: 10
 Participacion: 10
 
+## Felipe Rojas
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+
+
 
 
 
