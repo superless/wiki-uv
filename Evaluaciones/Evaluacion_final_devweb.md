@@ -6,5 +6,7 @@ metaDescription: "Listado de alumnos y sus notas."
 | Alumno | participacion | creatividad | compromiso | final |
 |---|---|---|---|---|
 | Sebastian Gonzalez |10|10|10|10|
+| Rodrigo Montenegro |10|10|10|10|
+
 
 
