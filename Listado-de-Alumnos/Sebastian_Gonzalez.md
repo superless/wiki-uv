@@ -1,4 +1,8 @@
-
+---
+title: "Sebastián González"
+metaTitle: "Presentación"
+metaDescription: "Desarrollo Web - Arquitectura de Software"
+---
 # Presentación Alumnno . 
 
 Mi nombre es Sebastián Alejandro González Morales, estudiante de la carrera Ingenieria Civil informática de la Universidad de Valparaiso. 
