@@ -1,5 +1,5 @@
 ---
-title: "Comentarios de los alumbis"
+title: "Comentarios de los alumnos"
 metaTitle: "Termino del semestre desarrollo web y arquitectura de software"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
