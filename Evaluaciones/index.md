@@ -166,6 +166,7 @@ Creatividad: 8
 Compromiso: 7
 Participacion: 9
 Creatividad: 8
+
 ## Sebastiam Gonzalez
 
 Felicitaciones Sebastian, se nota que haz puesto gran esfuerzo y eso se vé reflejado en el cumplimiento de todas las actividades.
@@ -276,6 +277,19 @@ Muy bien, haz cumplido con todo lo solicitado y haz puesto de tu esfuerzo por ha
 Compromiso: 10
 Creatividad: 10
 Participacion: 10
+
+
+# Nota 3 "Desarrollo Web"
+1. Markdown 
+2. Sitio React
+
+## Alejandro Oliveros
+
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+
 
 
 
