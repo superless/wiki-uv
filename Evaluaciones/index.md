@@ -305,6 +305,21 @@ Compromiso: 10
 Creatividad: 10
 Participacion: 10
 
+# Jorge Rodriguez
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+# Rodrigo Montenegro
+Compromiso: 10
+Creatividad: 10
+Participacion: 10
+
+#   
+
+
+
+
 
 
 
