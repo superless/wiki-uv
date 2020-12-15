@@ -1,6 +1,6 @@
 ---
 title: "Comentario Nicolás Delgado Oyarce"
-metaTitle: ""
+metaTitle: "obligatorio"
 metaDescription: "Arquitectura de software y desarrollo web."
 ---
 
