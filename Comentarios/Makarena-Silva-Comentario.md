@@ -1,3 +1,9 @@
+---
+title: "Comentario Makarena silva"
+metaTitle: "obligatorio"
+metaDescription: "Arquitectura de software y desarrollo web."
+---
+
 # La experiencia [Makarena Silva]
 Se acaba el semestre, y con eso ya es hora de consolidar toda la experiencia y valor obtenido. Como el caso de varios de compañeros, me ha tocado cursar tanto Desarrollo Web como Arquitectura de Software. Y es algo curioso, normalmente son 2 asignaturas que vienen separadas en lo que es la malla y sin embargo, ¡vaya que compenetraron bien en esta oportunidad!
 Ese es el primer punto a favor, ya que muchas veces pasa el típico "¿De qué me sirvió tener esto como prerequisito? ¿De qué me sirvió esto?" Aquí ha sido posible comprobarlo en tiempo real y a través de la práctica.
