@@ -27,7 +27,6 @@ Mis principales intereses son los siguientes:
 - Filosofia
 - Derivados
 
-***
 ## Recomendaciones 
 
 - [Creative Applications](https://www.creativeapplications.net/)
@@ -61,7 +60,8 @@ Como está mi compañero de batallas, vamos que puedes esplayarte mejor, cuales 
 No olvides publicar tu github y azure devops
 
 Un abrazo!
-***
+
+
 # Comentario Felipe Rojas
 
 Hola jorge, cuando le damos a sus among us??
