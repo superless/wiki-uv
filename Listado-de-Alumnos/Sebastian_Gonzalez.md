@@ -1,4 +1,8 @@
-
+---
+title: "Sebastián González"
+metaTitle: "Presentación"
+metaDescription: "Desarrollo Web - Arquitectura de Software"
+---
 # Presentación Alumnno . 
 
 Mi nombre es Sebastián Alejandro González Morales, estudiante de la carrera Ingenieria Civil informática de la Universidad de Valparaiso. 
@@ -82,6 +86,8 @@ Muy buen trabajo Seba, espero que sigas aprendiendo y nos ayudemos mutuamente.
 [Gestión de ramas 1](https://git-flow.sebastian-gonzalez.me/).
 
 [Gestión de ramas 2](https://dev-git-flow.sebastian-gonzalez.me/).
+
+[Erp example - Proyecto scrum](https://dev.azure.com/sebastiangonzalez0175/ERP%20example).
 
 
 
