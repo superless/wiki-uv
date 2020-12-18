@@ -12,7 +12,8 @@ Mi Nombre es Ignacio Miranda soy estudiante de Ingenieria Civil Informatica de l
 
 ## Juegos
 
-Con respecto a juegos en su gran mayoria juego a FPS pero tambien tengo de otros generos
+Con respecto a juegos en su gran mayoria juego a FPS pero tambien tengo de otros generos.
+
 | Juegos |
 | ---- |
 | La Saga Battlefield | 
@@ -30,7 +31,7 @@ Esos serian los principales que he jugado ultimamente pero ademas de esos he jug
 | Juegos |
 | ---- |
 | Breaking Bad | 
-| The Mandalorian  |
+| The Mandalorian |
 | Dark |
 | The Walking Dead |
 | Band of Brothers |

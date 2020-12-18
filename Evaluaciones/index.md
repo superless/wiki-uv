@@ -83,10 +83,6 @@ Participación: 0
 Creatividad: 3
 
 
-## Rodrigo Montenegro arq - dev
-Compromiso: 10
-Participación: 0
-Creatividad: 8
 
 ## Nicolas Delgado  arq - dev
 
@@ -339,54 +335,10 @@ Compromiso: 10
 Participación: 10
 Creatividad : 10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
+# Ana Muñoz
+Compromiso: 8 2.4
+Participación: 9 3.6
+Creatividad : 5.6 1.68 
 
 
 

@@ -15,7 +15,11 @@ metaDescription: "Listado de alumnos y sus notas."
 | Alejandro Rudolphy |10|10|10| 10 / 70|
 | Alejandro Oliveros |8.5|10|10| 9.5 / 6.7|
 | Alejandro Oliveros |8.5|10|10| 9.5 / 6.7|
-| Fabian Rozas |6.4|3.5|10| 6.6 / 4.4|
+| Fabian Rozas |6.4|3.5|10| 6.6 / 4.4 |
+| Ana Muñoz |10|9.1|7.68| 8.9 /  6.2 |
+| Makarena Silva |10|9.1|7.68| 8.9 /  6.2 |
+
+
 
 
 
