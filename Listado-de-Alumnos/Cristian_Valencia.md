@@ -43,9 +43,16 @@ Mi [Azure](https://dev.azure.com/DesArq2020/_git/TallerN01)
 
 Mi [Github](https://github.com/CristianValenciaA)
 
-## Comentario Profesor
+Mi [DockerHub](https://hub.docker.com/u/cristianvalenciaa)
 
-Hola Cristian, me gustaría saber más de ti, cosas como cual es tu motivación por la tecnología, que esperas lograr con ella, tus fortalezas, aprendes leyendo o videos. Recuerda, las personas son en el tiempo, las personas del pasado ya no existen, el tiempo es ahora, amigo mío.
+[Mi pagina web](https://cristianvalencia.me)
+
+[Semantic UI](https://webpage.cristianvalencia.me)
+
+[Git-flow](https://git-flow.cristianvalencia.me)
+
+[Dev-Git-flow](https://dev-git-flow.cristianvalencia.me)
+
 
 # Comentario Ignacio Alvarado
 Hola compañero, no sabia que le gustaba el valorant, cuando sus partidas?

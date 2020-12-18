@@ -6,6 +6,21 @@ Mi nombre es Rodrigo Montenegro Farias, estudiante de ingenieria en informatica 
 Naci en viña del mar, el dia 22 de septiembre del año 1996, la mayoria me conocen como el Monte o monteblack,
 me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 
+## Paginas web del curso:
+1. <a href="https://arq.rodrigo-montenegro.me/">Pagina del curso</a>.
+   
+2. <a href="https://validacion.rodrigo-montenegro.me">Pagina de Validacion</a>.
+   
+3. <a href="https://pag-web.rodrigo-montenegro.me">Pagina Web React</a>.
+
+4. <a href="https://hub.docker.com/repository/docker/monteblack1/curso">Imagen Pagina Docker</a>.
+
+5. <a href="https://git-flow.rodrigo-montenegro.me">Gestion de rama1</a>.
+
+6. <a href="https://dev-git-flow.rodrigo-montenegro.me">Gestion de rama2</a>.
+
+7. <a href="https://dev.azure.com/arq-taller/erp%20example">dev azure erp example</a>.
+
 
 
 ## Lista de mis deportes favoritos:
@@ -18,24 +33,27 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
 ## Lista de mis canciones preferida:
 
 1. "Y la felicidad que", Canserbero
+   <YouTube youTubeId="B3rMIcoXemw" />
+
    
 2. "C'est la Mort", Canserbero
-   
+
+    <YouTube youTubeId="XjA7tvuqXG4" />
 3. "Visiones", Canserbero
 
-
+ <YouTube youTubeId="ax7HyuO00mU" />
 
 
 ## Lista de mis juegos favoritos:
 1. Wolfenstein.
    <center>
-   <img src="https://comeenergy.weebly.com/uploads/1/2/3/7/123732321/862984389.jpg" width="250" />
+   <img src="https://2.bp.blogspot.com/-GcvRH7G77G0/UkHFB8D37HI/AAAAAAAACvU/cVNJWSVm5pY/s1600/Portada+RTCW.jpg" width="250" />
    </center>
 
 2. Civilization VI.
    
    <center>
-   <img src="https://as01.epimg.net/meristation/imagenes/2020/05/21/noticias/1590073253_669904_1590073339_noticia_normal.jpg" width="250" />
+   <img src="https://as01.epimg.net/meristation/imagenes/2018/07/01/game_cover/1530468401_468401_023384_gameplatform.jpg" width="250" />
    </center>
 
 3. Fifa 20.
@@ -65,11 +83,14 @@ me encanta fumar weed, ver peliculas de netflix y batallas de frestyle.
    </center>
 
 
-## Lenguajes de Programación:
+## Herramientas aprendidas de Programación:
 
 - Java
 - C
 - Js
+- React
+- Dev Azure
+- Netlify
 
 
 ## Comentarios Compañeros:
@@ -88,6 +109,8 @@ upa amigaso en la semana para recordar viejos tiempos jajajajaj.
 # Comentario Sebastián González
 
 Buena presentación crack, con todooo 🚀 !!
+# Respuesta:
+Vale hermanito igualmente, con todo..... faltan sus fifas.
 
 # Respuesta:
 Vale hermanito igualmente, con todo..... faltan sus fifas.
@@ -95,8 +118,14 @@ Vale hermanito igualmente, con todo..... faltan sus fifas.
 # Comentario Nicolás Delgado
 
 Genial amigo!! sigue en lo tuyo que llegarás lejos!!
+# Respuesta: 
+Gracias amigo.. tu igual ..
 
 ## Comentarios Profesor:
 Aguante Monte, desde mi punto de vista, eres el más luchador, sigue así. 
+
+Vale profe.. 
+
+
 
 

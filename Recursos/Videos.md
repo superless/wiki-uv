@@ -26,8 +26,8 @@ Documental que refleja los negocios de la india y la tecnología.
 # Silicon Valley, Scrum
 <YouTube youTubeId="tHLsEcZY5gY" />
 
-# KnowMads
-<YouTube youTubeId="zjyNfuNWBpw" />
+# Noam Chomsky - el objetivo de la educación.
+<YouTube youTubeId="W9aalxJGy_Y" />
 
 
 
