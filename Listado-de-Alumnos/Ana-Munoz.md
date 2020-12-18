@@ -57,6 +57,10 @@ Página para el taller 2 de desarrollo con semantic-ui y cosas entretenidas: htt
 
 Como comentario sobre el último link y advertencia de cierta manera, no esperar algo maravilloso, fue jugando a las 5 am después de trasnochar 2 noches seguidas. Que lata no tener el tiempo que necesita todo esto para poder hacer algo más de calidad pero creo que aprendí y es lo importante al menos para mi ^u^
 
+## Actualización
 
+Taller de Scrum: https://dev.azure.com/AlejandroOliveros/scrum
+
+Trabajé en conjunto con Alejandro Oliveros :3
 
 
