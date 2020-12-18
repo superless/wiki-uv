@@ -43,13 +43,15 @@ Puedes encontrarme en
 - [Azure] Bajo el nombre de usuario **Makarena Silva Baradit**, o bien, correo makarena.silva@alumnos.uv.cl 
 - [Azure - Arquitectura de Software](https://dev.azure.com/ArquitecturaSW/) - Que es en realidad, el lugar en donde me encuentro centralizando tanto Arquitectura de Software como Desarrollo Web.
 - [Dominio asociado a Netlify](https://www.makarena-silva.me/)
-### Sitio en React
+### Desarrollo de Talleres:
 - [Demo Docker Hub](https://hub.docker.com/r/makarenasilva/mi-validador) 
 - [Demo React](https://presentacion.makarena-silva.me/)
 - [Pipeline Sitio](https://dev.azure.com/ArquitecturaSW/Docker%20y%20React)
 - [Repositorio del Sitio](https://github.com/MakarenaSilvaB/formulario)
 - [Demo Gestión de Ramas](https://develop.makarena-silva.me/gitflow)
 - [Azure de Gestión de Ramas](https://dev.azure.com/ArquitecturaSW/Gesti%C3%B3n%20de%20Ramas)
+- [Simulador de Scrum](https://dev.azure.com/ArquitecturaSW/Scrum%20Simulator)
+
 ## Comentario del profesor
 
 >"Mi gusto por la carrera nació a partir de tener que solucionar por mí cuenta los problemas tecnológicos que me surgían desde temprana edad."
