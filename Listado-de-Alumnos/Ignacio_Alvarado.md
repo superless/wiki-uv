@@ -25,6 +25,12 @@ Tambien me interesa el mundo de las aplicaciones moviles, ya que gracias a ellas
 
 [Github](https://github.com/ignacioalvaradot/wiki-uv)
 
+[Docker](https://hub.docker.com/repository/docker/ialvarado97/dockerproyecto)
+
+[AzureDevops Scrum](https://dev.azure.com/DesArq2020/Proyecto%20Scrum)
+
+[Git Flow](https://git-flow.netlify.app)
+
 
 # Un dato
 Existen tres tipos de datos

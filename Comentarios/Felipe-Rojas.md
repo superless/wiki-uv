@@ -1,0 +1,3 @@
+# Opinion con respecto a la asignatura
+
+Me parece que el enfoque que se le esta dando a la asignatura en relación a las herramientas entregadas y a la metodologia empleada ya sea practico o teorico en el ramo ha sido de lo mejor. Podemos contar con tiempo para realizar las actividades, tengo la motivación para aprender por mi cuenta y si tenemos algun problema el profesor siempre estara dispuesto a ayudarnos, donde tiene muy buena disponibilidad hacia sus alumnos. Por otro lado siempre nos da consejos para mejorar y algunos tips que los necesitaremos para un futuro cercano.
