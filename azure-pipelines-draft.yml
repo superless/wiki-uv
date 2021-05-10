@@ -13,7 +13,7 @@ steps:
 # instalando nodejs
 - task: NodeTool@0
   inputs:
-    versionSpec: '11.x'
+    versionSpec: '12.x'
   displayName: 'instalando node js'
 # fin nodejs
 
