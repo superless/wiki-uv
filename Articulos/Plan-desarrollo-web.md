@@ -10,14 +10,13 @@ metaDescription: "React Flutter"
 3. Empaquetado de software, Webpack y Rollup.
 4. Introducción a Devops, las metodologías ágiles y la mejora continua.
 5. Arquitectura de componentes.
-6. Lenguajes tipados (Javascript y TypeScript).
+6. Lenguajes tipados (Javascript a TypeScript).
 
 ## React Introducción
 1. Introducción a React.
-2. el caso vercel y la orientación a lo instantaneo y los buscadores.
-3. Breve introducción frameworks CSS (SCSS, SASS, Styled Components).
-4. Normativas de diseño existentes, Material UI, Semantic UI, etc.
-5- Formas de desarrollo en React, Clases vs Funciones.
+2. Breve introducción frameworks CSS (SCSS, SASS, Styled Components).
+3. Normativas de diseño existentes, Material UI, Semantic UI, etc.
+4. Formas de desarrollo en React, Clases vs Funciones.
 
 ## React Hooks
 1. Propiedades y Estados.
